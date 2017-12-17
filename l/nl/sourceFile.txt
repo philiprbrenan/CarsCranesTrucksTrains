@@ -4,7 +4,6 @@ app    CarsCranesTrucksTrains.l.nl  =  Cars, Cranes, Trucks, Trains in Dutch
        email                        =  philiprbrenan@gmail.com                                                                                               
        icon                         =  icon.png                                                                                                              
        language                     =  nl                                                                                                                    
-       generate                     =  no                                                                                                                    
        
 photo  Airplane                     =  Vliegtuig                                                                                                             
        url                          =  Airplane.jpg                                                                                                          
