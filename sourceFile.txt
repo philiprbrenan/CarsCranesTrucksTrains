@@ -4,7 +4,6 @@ app carscranestruckstrains = Cars, Cranes, Trucks, Trains
   author     = philiprbrenan
   email      = philiprbrenan@gmail.com
   speaker    = Amy
-  state      = test
 
 photo Airplane = Airplane.jpg
   fact Airplane.1 = Flown by a pilot
