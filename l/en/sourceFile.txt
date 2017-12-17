@@ -1,0 +1,471 @@
+app    CarsCranesTrucksTrains.l.en  =  Cars, Cranes, Trucks, Trains in English                                                     
+       author                       =  philiprbrenan                                                                               
+       description                  =  Learn about cars, cranes, trucks and trains                                                 
+       email                        =  philiprbrenan@gmail.com                                                                     
+       icon                         =  icon.png                                                                                    
+       language                     =  en                                                                                          
+       
+photo  Airplane                     =  Airplane                                                                                    
+       url                          =  Airplane.jpg                                                                                
+       
+fact   Airplane.1                   =  Flown by a pilot                                                                            
+       
+fact   Airplane.2                   =  Flies people and cargo from one place to another                                            
+       
+fact   Airplane.3                   =  Takes off and lands at airports                                                             
+       
+photo  Ambulance                    =  Ambulance                                                                                   
+       url                          =  Ambulance.jpg                                                                               
+       
+fact   Ambulance.1                  =  Takes people to hospital quickly                                                            
+       
+fact   Ambulance.2                  =  Siren, flashing lights and highly visible markings                                          
+       
+fact   Ambulance.3                  =  Carries emergency medical equipment and paramedics to accidents                             
+       
+photo  Amphibious.vehicle           =  Amphibious vehicle                                                                          
+       url                          =  Amphibiousvehicle.jpg                                                                       
+       
+fact   Amphibious.vehicle.1         =  Can drive over land and water                                                               
+       
+photo  Auto.rickshaw                =  Auto rickshaw                                                                               
+       url                          =  Cyclerickshaw.jpg                                                                           
+       
+fact   Auto.rickshaw.1              =  A rickshaw with an engine                                                                   
+       
+fact   Auto.rickshaw.2              =  Essential form of urban transport in many developing countries                              
+       
+fact   Auto.rickshaw.3              =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
+       
+photo  Caravan                      =  Caravan                                                                                     
+       url                          =  Caravan.jpg                                                                                 
+       
+fact   Caravan.1                    =  More comfortable and protected than a tent                                                  
+       
+fact   Caravan.2                    =  Towed behind a car to provide a place to sleep at night                                     
+       
+fact   Caravan.3                    =  A temporary home for people on vacation                                                     
+       
+photo  Cement.mixer                 =  Cement mixer                                                                                
+       url                          =  Cementmixer.jpg                                                                             
+       
+fact   Cement.mixer.1               =  Mixes concrete while transporting it to building sites                                      
+       
+fact   Cement.mixer.2               =  Drum revolves during transportation to keep the concrete liquid                             
+       
+fact   Cement.mixer.3               =  Speed limited in the UK to 56 miles per hour                                                
+       
+photo  Combine.Harvester            =  Combine Harvester                                                                           
+       url                          =  CombineHarvester.jpg                                                                        
+       
+fact   Combine.Harvester.1          =  Harvests grain crops on a large scale                                                       
+       
+fact   Combine.Harvester.2          =  Combines reaping, threshing, and winnowing                                                  
+       
+fact   Combine.Harvester.3          =  One of the most important labor saving inventions in agriculture                            
+       
+photo  Crane                        =  Crane                                                                                       
+       url                          =  Crane.jpg                                                                                   
+       
+fact   Crane.1                      =  Used to lift and lower heavy things                                                         
+       
+fact   Crane.2                      =  Can be used to move heavy things short distances horizontally                               
+       
+fact   Crane.3                      =  Used to load and unload trucks                                                              
+       
+photo  Cycle.rickshaw               =  Cycle rickshaw                                                                              
+       url                          =  Cyclerickshaw.jpg                                                                           
+       
+fact   Cycle.rickshaw.1             =  Tricycle designed to carry passengers                                                       
+       
+fact   Cycle.rickshaw.2             =  Tourist transportation in many cities                                                       
+       
+fact   Cycle.rickshaw.3             =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
+       
+photo  Digger                       =  Digger                                                                                      
+       url                          =  Digger.jpg                                                                                  
+       
+fact   Digger.1                     =  Digs holes and trenches quickly                                                             
+       
+fact   Digger.2                     =  Arm and bucket moved by hydraulic pressure                                                  
+       
+fact   Digger.3                     =  Rides on caterpillar tracks                                                                 
+       
+photo  Double.decker.bus            =  Double-decker bus                                                                           
+       url                          =  Double-deckerbus.jpg                                                                        
+       
+fact   Double.decker.bus.1          =  Bus with two decks                                                                          
+       
+fact   Double.decker.bus.2          =  The ones used in London are painted red                                                     
+       
+fact   Double.decker.bus.3          =  Used in cities because they are maneuverable                                                
+       
+photo  Dumper.truck                 =  Dumper truck                                                                                
+       url                          =  Dumpertruck.jpg                                                                             
+       
+fact   Dumper.truck.1               =  Transports sand, gravel, or dirt on building sites                                          
+       
+fact   Dumper.truck.2               =  Load is tipped out by raising one end of the dump box                                       
+       
+fact   Dumper.truck.3               =  Steered by turning the entire cab making it easier to drive on rough ground                 
+       
+photo  Dustcart                     =  Dustcart                                                                                    
+       url                          =  Dustcart.jpg                                                                                
+       
+fact   Dustcart.1                   =  Collects rubbish                                                                            
+       
+fact   Dustcart.2                   =  Transports rubbish to rubbish dumps                                                         
+       
+fact   Dustcart.3                   =  Squashes the rubbish to save trips                                                          
+       
+photo  Electric.tram                =  Electric tram                                                                               
+       url                          =  Electrictram.jpg                                                                            
+       
+fact   Electric.tram.1              =  Runs on railway lines along public streets                                                  
+       
+fact   Electric.tram.2              =  Powered by electricity fed from an overhead pantograph                                      
+       
+fact   Electric.tram.3              =  Quieter and more efficient than buses for transporting people                               
+       
+photo  Estate.car                   =  Estate car                                                                                  
+       url                          =  Estatecar.jpg                                                                               
+       
+fact   Estate.car.1                 =  Has a luggage area behind the passenger seats                                               
+       
+fact   Estate.car.2                 =  Luggage area is accessed by a vertical door at the back                                     
+       
+fact   Estate.car.3                 =  Backs of the passenger seats can fold down to create more luggage space                     
+       
+photo  Fire.engine                  =  Fire engine                                                                                 
+       url                          =  Fireengine.jpg                                                                              
+       
+fact   Fire.engine.1                =  Truck used for fighting fires                                                               
+       
+fact   Fire.engine.2                =  Transports firemen to fires                                                                 
+       
+fact   Fire.engine.3                =  Transports water and equipment to fight fires                                               
+       
+photo  Flatbed.truck                =  Flatbed truck                                                                               
+       url                          =  Flatbedtruck.jpg                                                                            
+       
+fact   Flatbed.truck.1              =  Truck with no sides or roof                                                                 
+       
+fact   Flatbed.truck.2              =  Used to carry diggers and other heavy equipment                                             
+       
+fact   Flatbed.truck.3              =  Easier to load and unload than a closed-in truck                                            
+       
+photo  Forklift.truck               =  Forklift truck                                                                              
+       url                          =  Forklifttruck.jpg                                                                           
+       
+fact   Forklift.truck.1             =  Essentially for moving materials around in warehouses                                       
+       
+fact   Forklift.truck.2             =  Loads and unloads freight at warehouses                                                     
+       
+fact   Forklift.truck.3             =  Lifts materials stacked on pallets                                                          
+       
+photo  Hatchback                    =  Hatchback                                                                                   
+       url                          =  Hatchback.jpg                                                                               
+       
+fact   Hatchback.1                  =  Luggage area is accessed by a sloping door at the rear                                      
+       
+fact   Hatchback.2                  =  Has a luggage area behind the passenger seats                                               
+       
+fact   Hatchback.3                  =  Backs of the passenger seats can fold down to create more luggage space                     
+       
+photo  Helicopter                   =  Helicopter                                                                                  
+       url                          =  Helicopter.jpg                                                                              
+       
+fact   Helicopter.1                 =  Takes off and lands vertically                                                              
+       
+fact   Helicopter.2                 =  Hovers                                                                                      
+       
+fact   Helicopter.3                 =  Flies backwards                                                                             
+       
+fact   Helicopter.4                 =  Flown by a pilot                                                                            
+       
+fact   Helicopter.5                 =  Flies people and cargo from one place to another                                            
+       
+photo  Horse.and.cart               =  Horse and cart                                                                              
+       url                          =  Horseandcart.jpg                                                                            
+       
+fact   Horse.and.cart.1             =  Has two wheels and is pulled by a horse                                                     
+       
+fact   Horse.and.cart.2             =  In continuous use since the invention of the wheel 7 thousand years ago                     
+       
+photo  Ice.cream.van                =  Ice-cream van                                                                               
+       url                          =  Ice-creamvan.jpg                                                                            
+       
+fact   Ice.cream.van.1              =  Sells ice cream                                                                             
+       
+fact   Ice.cream.van.2              =  Seen mainly in summer                                                                       
+       
+fact   Ice.cream.van.3              =  Brightly decorated with pictures of ice cream                                               
+       
+photo  Jeep                         =  Jeep                                                                                        
+       url                          =  Jeep.jpg                                                                                    
+       
+fact   Jeep.1                       =  Subsidiary of Italian car maker Fiat                                                        
+       
+fact   Jeep.2                       =  Oldest off-road vehicle and sport utility vehicle brand                                     
+       
+fact   Jeep.3                       =  Main light weight 4-wheel-drive vehicle of the US Army during World War 2                   
+       
+photo  Land.Rover                   =  Land Rover                                                                                  
+       url                          =  LandRover.jpg                                                                               
+       
+fact   Land.Rover.1                 =  Second oldest 4-wheel-drive brand                                                           
+       
+fact   Land.Rover.2                 =  Subsidiary of Tata Motors, India                                                            
+       
+photo  Land.train                   =  Land train                                                                                  
+       url                          =  Roadtrain.jpg                                                                               
+       
+fact   Land.train.1                 =  Truck pulling one or more trailers                                                          
+       
+fact   Land.train.2                 =  Needs long straight roads                                                                   
+       
+photo  Large.van                    =  Large van                                                                                   
+       url                          =  Largevan.jpg                                                                                
+       
+fact   Large.van.1                  =  Commercial vehicle designed to deliver lightweight goods                                    
+       
+photo  Lorry                        =  Lorry                                                                                       
+       url                          =  Lorry.jpg                                                                                   
+       
+fact   Lorry.1                      =  Carries cargo by road                                                                       
+       
+fact   Lorry.2                      =  Cab mounted over the engine                                                                 
+       
+photo  Minibus                      =  Minibus                                                                                     
+       url                          =  Minibus.jpg                                                                                 
+       
+fact   Minibus.1                    =  Small bus                                                                                   
+       
+photo  Motorbike                    =  Motorbike                                                                                   
+       url                          =  Motorbike.jpg                                                                               
+       
+fact   Motorbike.1                  =  Two wheeled motor vehicle                                                                   
+       
+fact   Motorbike.2                  =  One of the most affordable forms of motorised transport                                     
+       
+fact   Motorbike.3                  =  Most common form of transportation in Vietnam                                               
+       
+photo  Motorhome                    =  Motorhome                                                                                   
+       url                          =  Motorhome.jpg                                                                               
+       
+fact   Motorhome.1                  =  More comfortable, but more expensive and less maneuverable than a campervan                 
+       
+fact   Motorhome.2                  =  On board kitchen, bathroom and bedroom                                                      
+       
+fact   Motorhome.3                  =  Motorized home                                                                              
+       
+fact   Motorhome.4                  =  More comfortable and protected than a tent                                                  
+       
+fact   Motorhome.5                  =  A temporary home for people on vacation                                                     
+       
+photo  Mountain.bike                =  Mountain bike                                                                               
+       url                          =  Mountainbike.jpg                                                                            
+       
+fact   Mountain.bike.1              =  Used for cycling off-road                                                                   
+       
+fact   Mountain.bike.2              =  Often has front and rear suspension                                                         
+       
+fact   Mountain.bike.3              =  Uses stronger components than road bikes                                                    
+       
+photo  Oil.tanker                   =  Oil tanker                                                                                  
+       url                          =  Tanker.jpg                                                                                  
+       
+fact   Oil.tanker.1                 =  Used to deliver fuel to petrol stations                                                     
+       
+fact   Oil.tanker.2                 =  Stainless steel tank to avoid corrosion                                                     
+       
+fact   Oil.tanker.3                 =  Internal compartments allows several different fuels to be carried at one time              
+       
+photo  Open.top.bus                 =  Open-top bus                                                                                
+       url                          =  Open-topbus.jpg                                                                             
+       
+fact   Open.top.bus.1               =  Double-decker bus without a roof                                                            
+       
+fact   Open.top.bus.2               =  Used to transport sight seers on tours through cities                                       
+       
+fact   Open.top.bus.3               =  Uninterrupted views from a high viewpoint                                                   
+       
+photo  Pakistani.lorry              =  Pakistani lorry                                                                             
+       url                          =  Pakistanilorry.jpg                                                                          
+       
+fact   Pakistani.lorry.1            =  Brilliantly decorated truck used in Pakistan                                                
+       
+fact   Pakistani.lorry.2            =  Transports goods and people along the Karakoram Highway                                     
+       
+photo  Pickup.truck                 =  Pickup truck                                                                                
+       url                          =  Pickuptruck.jpg                                                                             
+       
+fact   Pickup.truck.1               =  Light motor vehicle with an open-top rear cargo area                                        
+       
+fact   Pickup.truck.2               =  Cost US$281 when first produced in 1925                                                     
+       
+fact   Pickup.truck.3               =  Common in Texas                                                                             
+       
+photo  Police.car                   =  Police car                                                                                  
+       url                          =  Policecar.jpg                                                                               
+       
+fact   Police.car.1                 =  Ground vehicle used by police to assist with their duties                                   
+       
+fact   Police.car.2                 =  Siren, flashing lights and highly visible markings                                          
+       
+fact   Police.car.3                 =  Patrols to deter crime                                                                      
+       
+photo  Quad.bike                    =  Quad bike                                                                                   
+       url                          =  Quadbike.jpg                                                                                
+       
+fact   Quad.bike.1                  =  High number of deaths and injuries due to negligible rider protection                       
+       
+fact   Quad.bike.2                  =  Vehicle with four wheels and a mass of less than 550 kg                                     
+       
+fact   Quad.bike.3                  =  Used by farmers to cross rough terrain quickly                                              
+       
+photo  Racing.bike                  =  Racing bike                                                                                 
+       url                          =  Racingbike.jpg                                                                              
+       
+fact   Racing.bike.1                =  Bicycle designed for competitive road cycling                                               
+       
+fact   Racing.bike.2                =  Drop handle bars                                                                            
+       
+fact   Racing.bike.3                =  Light and stiff frame                                                                       
+       
+photo  Rickshaw                     =  Rickshaw                                                                                    
+       url                          =  Cyclerickshaw.jpg                                                                           
+       
+fact   Rickshaw.1                   =  Tricycle designed to carry passengers                                                       
+       
+fact   Rickshaw.2                   =  Tourist transportation in many cities                                                       
+       
+fact   Rickshaw.3                   =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
+       
+photo  Road.bike                    =  Road bike                                                                                   
+       url                          =  Roadbike.jpg                                                                                
+       
+fact   Road.bike.1                  =  There are twice as many in use as there are automobiles                                     
+       
+fact   Road.bike.2                  =  Popular form of recreation                                                                  
+       
+fact   Road.bike.3                  =  Most efficient human-powered means of transportation                                        
+       
+photo  Road.sweeper                 =  Road sweeper                                                                                
+       url                          =  Roadsweeper.jpg                                                                             
+       
+fact   Road.sweeper.1               =  Cleans the streets in cities                                                                
+       
+fact   Road.sweeper.2               =  Sweeps and vacuums up rubbish                                                               
+       
+fact   Road.sweeper.3               =  Reduces water pollution by removing rubbish that would otherwise dissolve in rain           
+       
+photo  Road.train                   =  Road train                                                                                  
+       url                          =  Roadtrain.jpg                                                                               
+       
+fact   Road.train.1                 =  Truck pulling one or more trailers                                                          
+       
+fact   Road.train.2                 =  Needs long straight roads                                                                   
+       
+photo  Scooter                      =  Scooter                                                                                     
+       url                          =  Scooter.jpg                                                                                 
+       
+fact   Scooter.1                    =  Motorcycle with a step-through frame and a platform for the rider's feet.                   
+       
+fact   Scooter.2                    =  Engine and gears are attached to the rear axle                                              
+       
+fact   Scooter.3                    =  Low-power personal transportation                                                           
+       
+photo  Single.decker.bus            =  Single-decker bus                                                                           
+       url                          =  Single-deckerbus.jpg                                                                        
+       
+fact   Single.decker.bus.1          =  Bus with a single deck for passengers                                                       
+       
+photo  Small.van                    =  Small van                                                                                   
+       url                          =  Smallvan.jpg                                                                                
+       
+fact   Small.van.1                  =  Shortened version of the word caravan - a covered vehicle                                   
+       
+fact   Small.van.2                  =  Fitted with cargo barriers behind the front seats                                           
+       
+fact   Small.van.3                  =  Derived from passenger cars without rear side windows                                       
+       
+photo  Sports.car                   =  Sports car                                                                                  
+       url                          =  Sportscar.jpg                                                                               
+       
+fact   Sports.car.1                 =  Small, two seat, two door car                                                               
+       
+fact   Sports.car.2                 =  Designed for speed and handling                                                             
+       
+photo  Tanker                       =  Tanker                                                                                      
+       url                          =  Tanker.jpg                                                                                  
+       
+fact   Tanker.1                     =  Used to deliver fuel to petrol stations                                                     
+       
+fact   Tanker.2                     =  Stainless steel tank to avoid corrosion                                                     
+       
+fact   Tanker.3                     =  Internal compartments allows several different fuels to be carried at one time              
+       
+photo  Taxi                         =  Taxi                                                                                        
+       url                          =  Taxi.jpg                                                                                    
+       
+fact   Taxi.1                       =  Car and driver hired to make short trips                                                    
+       
+fact   Taxi.2                       =  Cost of each trip is measured by a meter                                                    
+       
+fact   Taxi.3                       =  Painted bright yellow in New York.                                                          
+       
+photo  Tipper.lorry                 =  Tipper lorry                                                                                
+       url                          =  Tipperlorry.jpg                                                                             
+       
+fact   Tipper.lorry.1               =  Delivers dry cargo that flows when tipped                                                   
+       
+fact   Tipper.lorry.2               =  Cargo box tipped by a hydraulic jack                                                        
+       
+fact   Tipper.lorry.3               =  Tailgate is hinged at the top to let the cargo flow out evenly                              
+       
+photo  Tipper.truck                 =  Tipper truck                                                                                
+       url                          =  Tipperlorry.jpg                                                                             
+       
+fact   Tipper.truck.1               =  Delivers dry cargo that flows when tipped                                                   
+       
+fact   Tipper.truck.2               =  Cargo box tipped by a hydraulic jack                                                        
+       
+fact   Tipper.truck.3               =  Tailgate is hinged at the top to let the cargo flow out evenly                              
+       
+photo  Tractor                      =  Tractor                                                                                     
+       url                          =  Tractor.jpg                                                                                 
+       
+fact   Tractor.1                    =  Farm vehicle used to mechanize agriculture                                                  
+       
+fact   Tractor.2                    =  Pulls a plough                                                                              
+       
+fact   Tractor.3                    =  Powers farm equipment                                                                       
+       
+photo  Train                        =  Train                                                                                       
+       url                          =  Train.jpg                                                                                   
+       
+fact   Train.1                      =  Two or more items of rolling stock coupled together, at least one of which is a locomotive  
+       
+fact   Train.2                      =  Transports passengers or freight along railway lines                                        
+       
+fact   Train.3                      =  Picks up and deposits passengers at railway stations                                        
+       
+photo  Vintage.bus                  =  Vintage bus                                                                                 
+       url                          =  Vintagebus.jpg                                                                              
+       
+fact   Vintage.bus.1                =  Bus from an earlier time restored to original condition                                     
+       
+fact   Vintage.bus.2                =  Used for tourism                                                                            
+       
+fact   Vintage.bus.3                =  Displayed at rallies and exhibitions                                                        
+       
+photo  Vintage.car                  =  Vintage car                                                                                 
+       url                          =  Vintagecar.jpg                                                                              
+       
+fact   Vintage.car.1                =  Car from an earlier time restored to original condition                                     
+       
+fact   Vintage.car.2                =  Used for weddings                                                                           
+       
+fact   Vintage.car.3                =  Displayed at rallies and exhibitions                                                        
+       
