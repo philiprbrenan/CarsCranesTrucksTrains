@@ -1,0 +1,472 @@
+app    CarsCranesTrucksTrains.l.ru  =  Cars, Cranes, Trucks, Trains in Russian                                                                               
+       author                       =  philiprbrenan                                                                                                         
+       description                  =  Узнайте о автомобилях, кранах, грузовиках и поездах                                                                   
+       email                        =  philiprbrenan@gmail.com                                                                                               
+       icon                         =  icon.png                                                                                                              
+       language                     =  ru                                                                                                                    
+       generate                     =  no                                                                                                                    
+       
+photo  Airplane                     =  самолет                                                                                                               
+       url                          =  Airplane.jpg                                                                                                          
+       
+fact   Airplane.1                   =  Полет пилотом                                                                                                         
+       
+fact   Airplane.2                   =  Мухи людей и грузов из одного места в другое                                                                          
+       
+fact   Airplane.3                   =  Забирает и приземляется в аэропортах                                                                                  
+       
+photo  Ambulance                    =  скорая помощь                                                                                                         
+       url                          =  Ambulance.jpg                                                                                                         
+       
+fact   Ambulance.1                  =  Заставляет людей в больницу быстро                                                                                    
+       
+fact   Ambulance.2                  =  Сирена, мигающие огни и заметные маркировки                                                                           
+       
+fact   Ambulance.3                  =  Осуществляет аварийное медицинское оборудование и фельдшеры для несчастных случаев                                    
+       
+photo  Amphibious.vehicle           =  Амфибийный автомобиль                                                                                                 
+       url                          =  Amphibiousvehicle.jpg                                                                                                 
+       
+fact   Amphibious.vehicle.1         =  Может двигаться по земле и воде                                                                                       
+       
+photo  Auto.rickshaw                =  Авторикша                                                                                                             
+       url                          =  Cyclerickshaw.jpg                                                                                                     
+       
+fact   Auto.rickshaw.1              =  Рикша с двигателем                                                                                                    
+       
+fact   Auto.rickshaw.2              =  Существенная форма городского транспорта во многих развивающихся странах                                              
+       
+fact   Auto.rickshaw.3              =  Слово «рикша» происходит от японской фразы для человека, использующего транспортное средство                          
+       
+photo  Caravan                      =  автоприцеп                                                                                                            
+       url                          =  Caravan.jpg                                                                                                           
+       
+fact   Caravan.1                    =  Более удобная и защищенная, чем палатка                                                                               
+       
+fact   Caravan.2                    =  Буксировка позади автомобиля, чтобы обеспечить место для сна ночью                                                    
+       
+fact   Caravan.3                    =  Временный дом для отдыхающих                                                                                          
+       
+photo  Cement.mixer                 =  Бетономешалка                                                                                                         
+       url                          =  Cementmixer.jpg                                                                                                       
+       
+fact   Cement.mixer.1               =  Смешивает бетон при транспортировке его на строительные площадки                                                      
+       
+fact   Cement.mixer.2               =  Барабан вращается во время транспортировки, чтобы сохранить бетонную жидкость                                         
+       
+fact   Cement.mixer.3               =  Скорость ограничена в Великобритании до 56 миль в час                                                                 
+       
+photo  Combine.Harvester            =  Зерноуборочный комбайн                                                                                                
+       url                          =  CombineHarvester.jpg                                                                                                  
+       
+fact   Combine.Harvester.1          =  Урожай зерновых культур в больших масштабах                                                                           
+       
+fact   Combine.Harvester.2          =  Комбинирует жатву, молотьбу и веяние                                                                                  
+       
+fact   Combine.Harvester.3          =  Одно из важнейших изобретений в области экономии труда в сельском хозяйстве                                           
+       
+photo  Crane                        =  кран                                                                                                                  
+       url                          =  Crane.jpg                                                                                                             
+       
+fact   Crane.1                      =  Используется для подъема и опускания тяжелых предметов                                                                
+       
+fact   Crane.2                      =  Может использоваться для перемещения тяжелых предметов на короткие расстояния по горизонтали                          
+       
+fact   Crane.3                      =  Используется для загрузки и выгрузки грузовиков                                                                       
+       
+photo  Cycle.rickshaw               =  Циклическая рикша                                                                                                     
+       url                          =  Cyclerickshaw.jpg                                                                                                     
+       
+fact   Cycle.rickshaw.1             =  Трицикл, предназначенный для перевозки пассажиров                                                                     
+       
+fact   Cycle.rickshaw.2             =  Туристический транспорт во многих городах                                                                             
+       
+fact   Cycle.rickshaw.3             =  Слово «рикша» происходит от японской фразы для человека, использующего транспортное средство                          
+       
+photo  Digger                       =  копатель                                                                                                              
+       url                          =  Digger.jpg                                                                                                            
+       
+fact   Digger.1                     =  Быстро разрывает дыры и траншеи                                                                                       
+       
+fact   Digger.2                     =  Рука и ведро перемещены гидравлическим давлением                                                                      
+       
+fact   Digger.3                     =  Поездки по гусеничным трассам                                                                                         
+       
+photo  Double.decker.bus            =  Двухэтажный автобус                                                                                                   
+       url                          =  Double-deckerbus.jpg                                                                                                  
+       
+fact   Double.decker.bus.1          =  Автобус с двумя колодами                                                                                              
+       
+fact   Double.decker.bus.2          =  Те, которые используются в Лондоне, окрашены в красный цвет                                                           
+       
+fact   Double.decker.bus.3          =  Используются в городах, потому что они маневренны                                                                     
+       
+photo  Dumper.truck                 =  Самосвал                                                                                                              
+       url                          =  Dumpertruck.jpg                                                                                                       
+       
+fact   Dumper.truck.1               =  Транспортировка песка, гравия или грязи на строительных площадках                                                     
+       
+fact   Dumper.truck.2               =  Нагрузка выгружается, поднимая один конец свалки                                                                      
+       
+fact   Dumper.truck.3               =  Управляется поворотом всей кабины, что облегчает движение по неровной поверхности                                     
+       
+photo  Dustcart                     =  Dustcart                                                                                                              
+       url                          =  Dustcart.jpg                                                                                                          
+       
+fact   Dustcart.1                   =  Собирает мусор                                                                                                        
+       
+fact   Dustcart.2                   =  Транспортировка мусора на мусорные свалки                                                                             
+       
+fact   Dustcart.3                   =  Сквош мусор, чтобы спасти поездки                                                                                     
+       
+photo  Electric.tram                =  Электрический трамвай                                                                                                 
+       url                          =  Electrictram.jpg                                                                                                      
+       
+fact   Electric.tram.1              =  Прогулки по железнодорожным путям по общественным улицам                                                              
+       
+fact   Electric.tram.2              =  Приведено в действие электричеством, подаваемым из верхнего пантографа                                                
+       
+fact   Electric.tram.3              =  Тише и эффективнее автобусов для перевозки людей                                                                      
+       
+photo  Estate.car                   =  Автомобиль недвижимости                                                                                               
+       url                          =  Estatecar.jpg                                                                                                         
+       
+fact   Estate.car.1                 =  Имеет багажную зону за пассажирскими сиденьями                                                                        
+       
+fact   Estate.car.2                 =  Доступ к багажной зоне осуществляется с помощью вертикальной двери сзади                                              
+       
+fact   Estate.car.3                 =  Спинки пассажирских сидений могут складываться, чтобы создать больше места для багажа                                 
+       
+photo  Fire.engine                  =  Пожарная машина                                                                                                       
+       url                          =  Fireengine.jpg                                                                                                        
+       
+fact   Fire.engine.1                =  Грузовик, используемый для борьбы с пожарами                                                                          
+       
+fact   Fire.engine.2                =  Транспортирует пожарных к пожарам                                                                                     
+       
+fact   Fire.engine.3                =  Транспортирует воду и оборудование для борьбы с пожарами                                                              
+       
+photo  Flatbed.truck                =  Бортовой грузовик                                                                                                     
+       url                          =  Flatbedtruck.jpg                                                                                                      
+       
+fact   Flatbed.truck.1              =  Грузовик без борта или крыши                                                                                          
+       
+fact   Flatbed.truck.2              =  Используется для перевозки экскаваторов и другого тяжелого оборудования                                               
+       
+fact   Flatbed.truck.3              =  Легче загружать и выгружать, чем закрытый грузовик                                                                    
+       
+photo  Forklift.truck               =  Грузоподъемник                                                                                                        
+       url                          =  Forklifttruck.jpg                                                                                                     
+       
+fact   Forklift.truck.1             =  По существу для перемещения материалов на складах                                                                     
+       
+fact   Forklift.truck.2             =  Загружает и выгружает фрахт на складах                                                                                
+       
+fact   Forklift.truck.3             =  Материалы для лифтов, сложенные на поддонах                                                                           
+       
+photo  Hatchback                    =  хэтчбэк                                                                                                               
+       url                          =  Hatchback.jpg                                                                                                         
+       
+fact   Hatchback.1                  =  Доступ к багажной зоне осуществляется по наклонной двери сзади                                                        
+       
+fact   Hatchback.2                  =  Имеет багажную зону за пассажирскими сиденьями                                                                        
+       
+fact   Hatchback.3                  =  Спинки пассажирских сидений могут складываться, чтобы создать больше места для багажа                                 
+       
+photo  Helicopter                   =  Вертолет                                                                                                              
+       url                          =  Helicopter.jpg                                                                                                        
+       
+fact   Helicopter.1                 =  Отбирается и приземляется вертикально                                                                                 
+       
+fact   Helicopter.2                 =  Наведения курсора                                                                                                     
+       
+fact   Helicopter.3                 =  Мухи назад                                                                                                            
+       
+fact   Helicopter.4                 =  Полет пилотом                                                                                                         
+       
+fact   Helicopter.5                 =  Мухи людей и грузов из одного места в другое                                                                          
+       
+photo  Horse.and.cart               =  Лошадь и телега                                                                                                       
+       url                          =  Horseandcart.jpg                                                                                                      
+       
+fact   Horse.and.cart.1             =  Имеет два колеса и тянет лошадь                                                                                       
+       
+fact   Horse.and.cart.2             =  В непрерывном использовании с момента изобретения колеса 7 тысяч лет назад                                            
+       
+photo  Ice.cream.van                =  Мороженое                                                                                                             
+       url                          =  Ice-creamvan.jpg                                                                                                      
+       
+fact   Ice.cream.van.1              =  Продает мороженое                                                                                                     
+       
+fact   Ice.cream.van.2              =  Встречается в основном летом                                                                                          
+       
+fact   Ice.cream.van.3              =  Ярко оформлены фотографии мороженого                                                                                  
+       
+photo  Jeep                         =  Джип                                                                                                                  
+       url                          =  Jeep.jpg                                                                                                              
+       
+fact   Jeep.1                       =  Дочернее предприятие итальянского автопроизводителя Fiat                                                              
+       
+fact   Jeep.2                       =  Самый старый автомобиль для внедорожников и спортивных автомобилей                                                    
+       
+fact   Jeep.3                       =  Основной легкий четырехколесный автомобиль армии США во время Второй мировой войны                                    
+       
+photo  Land.Rover                   =  Land Rover                                                                                                            
+       url                          =  LandRover.jpg                                                                                                         
+       
+fact   Land.Rover.1                 =  Второй старейший четырехколесный бренд                                                                                
+       
+fact   Land.Rover.2                 =  Дочерняя компания Tata Motors, Индия                                                                                  
+       
+photo  Land.train                   =  Наземный поезд                                                                                                        
+       url                          =  Roadtrain.jpg                                                                                                         
+       
+fact   Land.train.1                 =  Грузовик тянет один или несколько прицепов                                                                            
+       
+fact   Land.train.2                 =  Нужны длинные прямые дороги                                                                                           
+       
+photo  Large.van                    =  Большой фургон                                                                                                        
+       url                          =  Largevan.jpg                                                                                                          
+       
+fact   Large.van.1                  =  Коммерческий автомобиль, предназначенный для доставки легких грузов                                                   
+       
+photo  Lorry                        =  грузовой автомобиль                                                                                                   
+       url                          =  Lorry.jpg                                                                                                             
+       
+fact   Lorry.1                      =  Перевозка грузов автомобильным транспортом                                                                            
+       
+fact   Lorry.2                      =  Кабина смонтирована над двигателем                                                                                    
+       
+photo  Minibus                      =  микроавтобус                                                                                                          
+       url                          =  Minibus.jpg                                                                                                           
+       
+fact   Minibus.1                    =  Малый автобус                                                                                                         
+       
+photo  Motorbike                    =  мопед                                                                                                                 
+       url                          =  Motorbike.jpg                                                                                                         
+       
+fact   Motorbike.1                  =  Двухколесный автомобиль                                                                                               
+       
+fact   Motorbike.2                  =  Одна из самых доступных форм моторного транспорта                                                                     
+       
+fact   Motorbike.3                  =  Наиболее распространенная форма перевозки во Вьетнаме                                                                 
+       
+photo  Motorhome                    =  Дом на колесах                                                                                                        
+       url                          =  Motorhome.jpg                                                                                                         
+       
+fact   Motorhome.1                  =  Более удобный, но более дорогой и менее маневренный, чем кемперван                                                    
+       
+fact   Motorhome.2                  =  Встроенная кухня, ванная комната и спальня                                                                            
+       
+fact   Motorhome.3                  =  Моторизованный дом                                                                                                    
+       
+fact   Motorhome.4                  =  Более удобная и защищенная, чем палатка                                                                               
+       
+fact   Motorhome.5                  =  Временный дом для отдыхающих                                                                                          
+       
+photo  Mountain.bike                =  горный велосипед                                                                                                      
+       url                          =  Mountainbike.jpg                                                                                                      
+       
+fact   Mountain.bike.1              =  Используется для езды по бездорожью                                                                                   
+       
+fact   Mountain.bike.2              =  Часто передняя и задняя подвеска                                                                                      
+       
+fact   Mountain.bike.3              =  Использует более сильные компоненты, чем дорожные велосипеды                                                          
+       
+photo  Oil.tanker                   =  Нефтяной танкер                                                                                                       
+       url                          =  Tanker.jpg                                                                                                            
+       
+fact   Oil.tanker.1                 =  Используется для доставки топлива на автозаправочные станции                                                          
+       
+fact   Oil.tanker.2                 =  Бак из нержавеющей стали для предотвращения коррозии                                                                  
+       
+fact   Oil.tanker.3                 =  Внутренние отсеки позволяют одновременно переносить несколько различных видов топлива                                 
+       
+photo  Open.top.bus                 =  Открытая шина                                                                                                         
+       url                          =  Open-topbus.jpg                                                                                                       
+       
+fact   Open.top.bus.1               =  Двухэтажный автобус без крыши                                                                                         
+       
+fact   Open.top.bus.2               =  Используется для перевозки визиров по гастролям по городам                                                            
+       
+fact   Open.top.bus.3               =  Непрерывные виды с высокой точки зрения                                                                               
+       
+photo  Pakistani.lorry              =  Пакистанский грузовик                                                                                                 
+       url                          =  Pakistanilorry.jpg                                                                                                    
+       
+fact   Pakistani.lorry.1            =  Блестяще украшенный грузовик, используемый в Пакистане                                                                
+       
+fact   Pakistani.lorry.2            =  Транспортирует грузы и людей вдоль Каракорумского шоссе                                                               
+       
+photo  Pickup.truck                 =  Пикап                                                                                                                 
+       url                          =  Pickuptruck.jpg                                                                                                       
+       
+fact   Pickup.truck.1               =  Легкое транспортное средство с открытой грузовой площадкой с открытым верхом                                          
+       
+fact   Pickup.truck.2               =  Стоимость 281 доллара США, впервые выпущенная в 1925 году                                                             
+       
+fact   Pickup.truck.3               =  Общие в Техасе                                                                                                        
+       
+photo  Police.car                   =  Полицейская машина                                                                                                    
+       url                          =  Policecar.jpg                                                                                                         
+       
+fact   Police.car.1                 =  Наземный транспорт, используемый полицией для оказания помощи в выполнении своих обязанностей                         
+       
+fact   Police.car.2                 =  Сирена, мигающие огни и заметные маркировки                                                                           
+       
+fact   Police.car.3                 =  Патрулирование для предотвращения преступлений                                                                        
+       
+photo  Quad.bike                    =  квадроцикл                                                                                                            
+       url                          =  Quadbike.jpg                                                                                                          
+       
+fact   Quad.bike.1                  =  Большое количество смертей и травм из-за незначительной защиты наездников                                             
+       
+fact   Quad.bike.2                  =  Автомобиль с четырьмя колесами и массой менее 550 кг                                                                  
+       
+fact   Quad.bike.3                  =  Используется фермерами для быстрого пересечения пересеченной местности                                                
+       
+photo  Racing.bike                  =  Гоночный велосипед                                                                                                    
+       url                          =  Racingbike.jpg                                                                                                        
+       
+fact   Racing.bike.1                =  Велосипед, предназначенный для                                                                                        
+       
+fact   Racing.bike.2                =  Пружинные ручки                                                                                                       
+       
+fact   Racing.bike.3                =  Легкая и жесткая рама                                                                                                 
+       
+photo  Rickshaw                     =  рикша                                                                                                                 
+       url                          =  Cyclerickshaw.jpg                                                                                                     
+       
+fact   Rickshaw.1                   =  Трицикл, предназначенный для перевозки пассажиров                                                                     
+       
+fact   Rickshaw.2                   =  Туристический транспорт во многих городах                                                                             
+       
+fact   Rickshaw.3                   =  Слово «рикша» происходит от японской фразы для человека, использующего транспортное средство                          
+       
+photo  Road.bike                    =  Дорожный велосипед                                                                                                    
+       url                          =  Roadbike.jpg                                                                                                          
+       
+fact   Road.bike.1                  =  Их в два раза больше, чем автомобили                                                                                  
+       
+fact   Road.bike.2                  =  Популярная форма отдыха                                                                                               
+       
+fact   Road.bike.3                  =  Наиболее эффективные средства передвижения на человека                                                                
+       
+photo  Road.sweeper                 =  Дорожная уборочная машина                                                                                             
+       url                          =  Roadsweeper.jpg                                                                                                       
+       
+fact   Road.sweeper.1               =  Очищает улицы в городах                                                                                               
+       
+fact   Road.sweeper.2               =  Сметает и пылесосит мусор                                                                                             
+       
+fact   Road.sweeper.3               =  Уменьшает загрязнение воды, удаляя мусор, который в противном случае растворялся бы в дожде                           
+       
+photo  Road.train                   =  Автопоезд                                                                                                             
+       url                          =  Roadtrain.jpg                                                                                                         
+       
+fact   Road.train.1                 =  Грузовик тянет один или несколько прицепов                                                                            
+       
+fact   Road.train.2                 =  Нужны длинные прямые дороги                                                                                           
+       
+photo  Scooter                      =  Самокат                                                                                                               
+       url                          =  Scooter.jpg                                                                                                           
+       
+fact   Scooter.1                    =  Мотоцикл со ступенчатой ​​рамой и платформой для ног всадника.                                                        
+       
+fact   Scooter.2                    =  Двигатель и шестерни прикреплены к задней оси                                                                         
+       
+fact   Scooter.3                    =  Маломощный личный транспорт                                                                                           
+       
+photo  Single.decker.bus            =  Одноэтажный автобус                                                                                                   
+       url                          =  Single-deckerbus.jpg                                                                                                  
+       
+fact   Single.decker.bus.1          =  Автобус с одной палубой для пассажиров                                                                                
+       
+photo  Small.van                    =  Маленький фургон                                                                                                      
+       url                          =  Smallvan.jpg                                                                                                          
+       
+fact   Small.van.1                  =  Укороченная версия слова «караван» - крытое транспортное средство                                                     
+       
+fact   Small.van.2                  =  Устанавливается с грузовыми барьерами за передними сиденьями                                                          
+       
+fact   Small.van.3                  =  Производится из легковых автомобилей без задних боковых окон                                                          
+       
+photo  Sports.car                   =  Спортивная машина                                                                                                     
+       url                          =  Sportscar.jpg                                                                                                         
+       
+fact   Sports.car.1                 =  Маленький, двухместный, двухдверный автомобиль                                                                        
+       
+fact   Sports.car.2                 =  Предназначен для скорости и управления                                                                                
+       
+photo  Tanker                       =  автоцистерна                                                                                                          
+       url                          =  Tanker.jpg                                                                                                            
+       
+fact   Tanker.1                     =  Используется для доставки топлива на автозаправочные станции                                                          
+       
+fact   Tanker.2                     =  Бак из нержавеющей стали для предотвращения коррозии                                                                  
+       
+fact   Tanker.3                     =  Внутренние отсеки позволяют одновременно переносить несколько различных видов топлива                                 
+       
+photo  Taxi                         =  Такси                                                                                                                 
+       url                          =  Taxi.jpg                                                                                                              
+       
+fact   Taxi.1                       =  Автомобиль и водитель, нанятый для совершения коротких поездок                                                        
+       
+fact   Taxi.2                       =  Стоимость каждой поездки измеряется метром                                                                            
+       
+fact   Taxi.3                       =  Окрашенная ярко-желтая в Нью-Йорке.                                                                                   
+       
+photo  Tipper.lorry                 =  Самосвальный грузовик                                                                                                 
+       url                          =  Tipperlorry.jpg                                                                                                       
+       
+fact   Tipper.lorry.1               =  Обеспечивает сухой груз, который течет при опрокидывании                                                              
+       
+fact   Tipper.lorry.2               =  Грузовая коробка, опрокинутая гидравлическим домкратом                                                                
+       
+fact   Tipper.lorry.3               =  Задняя дверь крепится наверху, чтобы позволить потоку груза равномерно                                                
+       
+photo  Tipper.truck                 =  Самосвал                                                                                                              
+       url                          =  Tipperlorry.jpg                                                                                                       
+       
+fact   Tipper.truck.1               =  Обеспечивает сухой груз, который течет при опрокидывании                                                              
+       
+fact   Tipper.truck.2               =  Грузовая коробка, опрокинутая гидравлическим домкратом                                                                
+       
+fact   Tipper.truck.3               =  Задняя дверь крепится наверху, чтобы позволить потоку груза равномерно                                                
+       
+photo  Tractor                      =  Трактор                                                                                                               
+       url                          =  Tractor.jpg                                                                                                           
+       
+fact   Tractor.1                    =  Сельскохозяйственный транспорт, используемый для механизации сельского хозяйства                                      
+       
+fact   Tractor.2                    =  Вытаскивает плуг                                                                                                      
+       
+fact   Tractor.3                    =  Powers сельскохозяйственная техника и оборудование                                                                    
+       
+photo  Train                        =  Поезд                                                                                                                 
+       url                          =  Train.jpg                                                                                                             
+       
+fact   Train.1                      =  Два или более элементов подвижного состава, соединенных вместе, по крайней мере один из которых является локомотивом  
+       
+fact   Train.2                      =  Перевозка пассажиров или грузов по железнодорожным линиям                                                             
+       
+fact   Train.3                      =  Подбирает и откладывает пассажиров на железнодорожных станциях                                                        
+       
+photo  Vintage.bus                  =  Винтажный автобус                                                                                                     
+       url                          =  Vintagebus.jpg                                                                                                        
+       
+fact   Vintage.bus.1                =  Автобус с более раннего времени восстановлен до первоначального состояния                                             
+       
+fact   Vintage.bus.2                =  Используется для туризма                                                                                              
+       
+fact   Vintage.bus.3                =  Отображается на митингах и выставках                                                                                  
+       
+photo  Vintage.car                  =  Старинная машина                                                                                                      
+       url                          =  Vintagecar.jpg                                                                                                        
+       
+fact   Vintage.car.1                =  Автомобиль с более раннего времени восстановлен до первоначального состояния                                          
+       
+fact   Vintage.car.2                =  Используется для свадеб                                                                                               
+       
+fact   Vintage.car.3                =  Отображается на митингах и выставках                                                                                  
+       
