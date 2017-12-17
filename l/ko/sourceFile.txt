@@ -4,7 +4,6 @@ app    CarsCranesTrucksTrains.l.ko  =  Cars, Cranes, Trucks, Trains in Korean
        email                        =  philiprbrenan@gmail.com                      
        icon                         =  icon.png                                     
        language                     =  ko                                           
-       generate                     =  no                                           
        
 photo  Airplane                     =  비행기                                          
        url                          =  Airplane.jpg                                 
