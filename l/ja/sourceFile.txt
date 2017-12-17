@@ -4,7 +4,6 @@ app    CarsCranesTrucksTrains.l.ja  =  Cars, Cranes, Trucks, Trains in Japanese
        email                        =  philiprbrenan@gmail.com                   
        icon                         =  icon.png                                  
        language                     =  ja                                        
-       generate                     =  no                                        
        
 photo  Airplane                     =  飛行機                                       
        url                          =  Airplane.jpg                              
