@@ -7,465 +7,313 @@ app    CarsCranesTrucksTrains.l.sv  =  Cars, Cranes, Trucks, Trains in Swedish
        
 photo  Airplane                     =  Flygplan                                                                                   
        url                          =  Airplane.jpg                                                                               
-       
 fact   Airplane.1                   =  Flög av en pilot                                                                           
-       
 fact   Airplane.2                   =  Flyger människor och laster från en plats till en annan                                    
-       
 fact   Airplane.3                   =  Tar av och landar vid flygplatser                                                          
        
 photo  Ambulance                    =  Ambulans                                                                                   
        url                          =  Ambulance.jpg                                                                              
-       
 fact   Ambulance.1                  =  Tar folk till sjukhus snabbt                                                               
-       
 fact   Ambulance.2                  =  Siren, blinkande ljus och synliga markeringar                                              
-       
 fact   Ambulance.3                  =  Bär akut medicinsk utrustning och paramedicinska till olyckor                              
        
 photo  Amphibious.vehicle           =  Amfibisk vehikel                                                                           
        url                          =  Amphibiousvehicle.jpg                                                                      
-       
 fact   Amphibious.vehicle.1         =  Kan köra över land och vatten                                                              
        
 photo  Auto.rickshaw                =  Automatisk rickshaw                                                                        
        url                          =  Cyclerickshaw.jpg                                                                          
-       
 fact   Auto.rickshaw.1              =  En rickshaw med en motor                                                                   
-       
 fact   Auto.rickshaw.2              =  Väsentlig form av stadstransport i många utvecklingsländer                                 
-       
 fact   Auto.rickshaw.3              =  Ordet Rickshaw kommer från den japanska frasen för personbil                               
        
 photo  Caravan                      =  Husvagn                                                                                    
        url                          =  Caravan.jpg                                                                                
-       
 fact   Caravan.1                    =  Mer bekvämt och skyddat än ett tält                                                        
-       
 fact   Caravan.2                    =  Towed bakom en bil för att ge en plats att sova på natten                                  
-       
 fact   Caravan.3                    =  Ett tillfälligt hem för människor på semester                                              
        
 photo  Cement.mixer                 =  Cementblandare                                                                             
        url                          =  Cementmixer.jpg                                                                            
-       
 fact   Cement.mixer.1               =  Blandar betong samtidigt som den transporteras till byggarbetsplatser                      
-       
 fact   Cement.mixer.2               =  Trumman roterar under transport för att hålla betongvätskan                                
-       
 fact   Cement.mixer.3               =  Hastigheten begränsad i Storbritannien till 56 miles per timme                             
        
 photo  Combine.Harvester            =  Skördetröska                                                                               
        url                          =  CombineHarvester.jpg                                                                       
-       
 fact   Combine.Harvester.1          =  Skördar grödor i stor skala                                                                
-       
 fact   Combine.Harvester.2          =  Kombinerar skördar, torkning och winnowing                                                 
-       
 fact   Combine.Harvester.3          =  En av de viktigaste arbetsbesparande uppfinningarna inom jordbruket                        
        
 photo  Crane                        =  Kran                                                                                       
        url                          =  Crane.jpg                                                                                  
-       
 fact   Crane.1                      =  Används för att lyfta och sänka tunga saker                                                
-       
 fact   Crane.2                      =  Kan användas för att flytta tunga saker korta sträckor horisontellt                        
-       
 fact   Crane.3                      =  Används för lastning och lossning av lastbilar                                             
        
 photo  Cycle.rickshaw               =  Cykel rickshaw                                                                             
        url                          =  Cyclerickshaw.jpg                                                                          
-       
 fact   Cycle.rickshaw.1             =  Trehjuling utformad för att bära passagerare                                               
-       
 fact   Cycle.rickshaw.2             =  Turisttransport i många städer                                                             
-       
 fact   Cycle.rickshaw.3             =  Ordet Rickshaw kommer från den japanska frasen för personbil                               
        
 photo  Digger                       =  Grävare                                                                                    
        url                          =  Digger.jpg                                                                                 
-       
 fact   Digger.1                     =  Gräver hål och grävningar snabbt                                                           
-       
 fact   Digger.2                     =  Arm och hink flyttas av hydrauliskt tryck                                                  
-       
 fact   Digger.3                     =  Rider på larvspår                                                                          
        
 photo  Double.decker.bus            =  Dubbeldäckarbuss                                                                           
        url                          =  Double-deckerbus.jpg                                                                       
-       
 fact   Double.decker.bus.1          =  Buss med två däck                                                                          
-       
 fact   Double.decker.bus.2          =  De som används i London är målade röda                                                     
-       
 fact   Double.decker.bus.3          =  Används i städer eftersom de är manövrerbara                                               
        
 photo  Dumper.truck                 =  Dumperbil                                                                                  
        url                          =  Dumpertruck.jpg                                                                            
-       
 fact   Dumper.truck.1               =  Transporterar sand, grus eller smuts på byggarbetsplatser                                  
-       
 fact   Dumper.truck.2               =  Lasten tippas genom att lyfta ena änden av dumplåset                                       
-       
 fact   Dumper.truck.3               =  Styrd genom att vrida hela hytten gör det lättare att köra på grov mark                    
        
 photo  Dustcart                     =  Dustcart                                                                                   
        url                          =  Dustcart.jpg                                                                               
-       
 fact   Dustcart.1                   =  Samlar skräp                                                                               
-       
 fact   Dustcart.2                   =  Transporterar sopor till soptunnor                                                         
-       
 fact   Dustcart.3                   =  Squashar skräpet för att rädda resor                                                       
        
 photo  Electric.tram                =  Elspårvagn                                                                                 
        url                          =  Electrictram.jpg                                                                           
-       
 fact   Electric.tram.1              =  Kör på järnvägslinjer längs offentliga gator                                               
-       
 fact   Electric.tram.2              =  Drivs av el som matas från en strömavtagare                                                
-       
 fact   Electric.tram.3              =  Tystare och effektivare än bussar för att transportera människor                           
        
 photo  Estate.car                   =  Estate bil                                                                                 
        url                          =  Estatecar.jpg                                                                              
-       
 fact   Estate.car.1                 =  Har ett bagageområde bakom passagerarsätena                                                
-       
 fact   Estate.car.2                 =  Bagageutrymme är åtkomligt av en vertikal dörr på baksidan                                 
-       
 fact   Estate.car.3                 =  Ryggsäcken på passagerarsätena kan vikas ner för att skapa mer bagageutrymme               
        
 photo  Fire.engine                  =  Brandbil                                                                                   
        url                          =  Fireengine.jpg                                                                             
-       
 fact   Fire.engine.1                =  Lastbil som används för att bekämpa bränder                                                
-       
 fact   Fire.engine.2                =  Transporterar brandmän till bränder                                                        
-       
 fact   Fire.engine.3                =  Transporterar vatten och utrustning för att bekämpa bränder                                
        
 photo  Flatbed.truck                =  Flatbed lastbil                                                                            
        url                          =  Flatbedtruck.jpg                                                                           
-       
 fact   Flatbed.truck.1              =  Lastbil utan sidor eller tak                                                               
-       
 fact   Flatbed.truck.2              =  Används för att bära grävare och annan tung utrustning                                     
-       
 fact   Flatbed.truck.3              =  Lättare att ladda och lossa än en sluten lastbil                                           
        
 photo  Forklift.truck               =  Gaffeltruck                                                                                
        url                          =  Forklifttruck.jpg                                                                          
-       
 fact   Forklift.truck.1             =  I huvudsak för att flytta material runt i lager                                            
-       
 fact   Forklift.truck.2             =  Lastar och lastar frakt på lager                                                           
-       
 fact   Forklift.truck.3             =  Hissar staplade på pallar                                                                  
        
 photo  Hatchback                    =  Kombi                                                                                      
        url                          =  Hatchback.jpg                                                                              
-       
 fact   Hatchback.1                  =  Bagageutrymmet är åtkomligt med en sluttande dörr på baksidan                              
-       
 fact   Hatchback.2                  =  Har ett bagageområde bakom passagerarsätena                                                
-       
 fact   Hatchback.3                  =  Ryggsäcken på passagerarsätena kan vikas ner för att skapa mer bagageutrymme               
        
 photo  Helicopter                   =  Helikopter                                                                                 
        url                          =  Helicopter.jpg                                                                             
-       
 fact   Helicopter.1                 =  Tar av och landar vertikalt                                                                
-       
 fact   Helicopter.2                 =  svävar                                                                                     
-       
 fact   Helicopter.3                 =  Flyger bakåt                                                                               
-       
 fact   Helicopter.4                 =  Flög av en pilot                                                                           
-       
 fact   Helicopter.5                 =  Flyger människor och laster från en plats till en annan                                    
        
 photo  Horse.and.cart               =  Häst och vagn                                                                              
        url                          =  Horseandcart.jpg                                                                           
-       
 fact   Horse.and.cart.1             =  Har två hjul och dras av en häst                                                           
-       
 fact   Horse.and.cart.2             =  I kontinuerlig användning sedan hjulets uppfinning för 7 tusen år sedan                    
        
 photo  Ice.cream.van                =  Glass van                                                                                  
        url                          =  Ice-creamvan.jpg                                                                           
-       
 fact   Ice.cream.van.1              =  Säljer glass                                                                               
-       
 fact   Ice.cream.van.2              =  Sett främst på sommaren                                                                    
-       
 fact   Ice.cream.van.3              =  Ljust inredda med bilder av glass                                                          
        
 photo  Jeep                         =  Jeep                                                                                       
        url                          =  Jeep.jpg                                                                                   
-       
 fact   Jeep.1                       =  Dotterbolag till italienska biltillverkare Fiat                                            
-       
 fact   Jeep.2                       =  Äldsta terrängfordon och märke för sportfordon                                             
-       
 fact   Jeep.3                       =  Huvudljusvikt 4-hjulsdrivet fordon från den amerikanska armén under andra världskriget     
        
 photo  Land.Rover                   =  Land Rover                                                                                 
        url                          =  LandRover.jpg                                                                              
-       
 fact   Land.Rover.1                 =  Näst äldsta 4-hjulsdrivet varumärke                                                        
-       
 fact   Land.Rover.2                 =  Dotterbolag till Tata Motors, Indien                                                       
        
 photo  Land.train                   =  Landtåg                                                                                    
        url                          =  Roadtrain.jpg                                                                              
-       
 fact   Land.train.1                 =  Lastbil som drar en eller flera släpvagnar                                                 
-       
 fact   Land.train.2                 =  Behöver långa raka vägar                                                                   
        
 photo  Large.van                    =  Stor van                                                                                   
        url                          =  Largevan.jpg                                                                               
-       
 fact   Large.van.1                  =  Kommersiellt fordon utformat för att leverera lätta varor                                  
        
 photo  Lorry                        =  Lastbil                                                                                    
        url                          =  Lorry.jpg                                                                                  
-       
 fact   Lorry.1                      =  Bär last på väg                                                                            
-       
 fact   Lorry.2                      =  Hytt monterad över motorn                                                                  
        
 photo  Minibus                      =  Minibus                                                                                    
        url                          =  Minibus.jpg                                                                                
-       
 fact   Minibus.1                    =  Liten buss                                                                                 
        
 photo  Motorbike                    =  Motorcykel                                                                                 
        url                          =  Motorbike.jpg                                                                              
-       
 fact   Motorbike.1                  =  Tvåhjuligt motorfordon                                                                     
-       
 fact   Motorbike.2                  =  En av de mest prisvärda formerna av motoriserad transport                                  
-       
 fact   Motorbike.3                  =  Mest vanlig form av transport i Vietnam                                                    
        
 photo  Motorhome                    =  Husbil                                                                                     
        url                          =  Motorhome.jpg                                                                              
-       
 fact   Motorhome.1                  =  Mer bekvämt, men dyrare och mindre manövrerbart än en campervan                            
-       
 fact   Motorhome.2                  =  Ombord kök, badrum och sovrum                                                              
-       
 fact   Motorhome.3                  =  Motoriserade hem                                                                           
-       
 fact   Motorhome.4                  =  Mer bekvämt och skyddat än ett tält                                                        
-       
 fact   Motorhome.5                  =  Ett tillfälligt hem för människor på semester                                              
        
 photo  Mountain.bike                =  Mountainbike                                                                               
        url                          =  Mountainbike.jpg                                                                           
-       
 fact   Mountain.bike.1              =  Används för cykling terräng                                                                
-       
 fact   Mountain.bike.2              =  Har ofta främre och bakre upphängning                                                      
-       
 fact   Mountain.bike.3              =  Använder starkare komponenter än vägcyklar                                                 
        
 photo  Oil.tanker                   =  Oljetanker                                                                                 
        url                          =  Tanker.jpg                                                                                 
-       
 fact   Oil.tanker.1                 =  Används för att leverera bränsle till bensinstationer                                      
-       
 fact   Oil.tanker.2                 =  Rostfri tank för att undvika korrosion                                                     
-       
 fact   Oil.tanker.3                 =  Inna fack gör det möjligt att transportera flera olika bränslen samtidigt                  
        
 photo  Open.top.bus                 =  Open-top buss                                                                              
        url                          =  Open-topbus.jpg                                                                            
-       
 fact   Open.top.bus.1               =  Dubbeldäckare utan tak                                                                     
-       
 fact   Open.top.bus.2               =  Används för att transportera siktvisare på turer genom städer                              
-       
 fact   Open.top.bus.3               =  Oavbruten utsikt från en hög synvinkel                                                     
        
 photo  Pakistani.lorry              =  Pakistansk lastbil                                                                         
        url                          =  Pakistanilorry.jpg                                                                         
-       
 fact   Pakistani.lorry.1            =  Briljant dekorerad lastbil som används i Pakistan                                          
-       
 fact   Pakistani.lorry.2            =  Transporterar gods och människor längs Karakoram Highway                                   
        
 photo  Pickup.truck                 =  Pickup                                                                                     
        url                          =  Pickuptruck.jpg                                                                            
-       
 fact   Pickup.truck.1               =  Lätt motorfordon med ett öppet bakre lastområde                                            
-       
 fact   Pickup.truck.2               =  Kosta US $ 281 när den först producerades 1925                                             
-       
 fact   Pickup.truck.3               =  Vanligt i Texas                                                                            
        
 photo  Police.car                   =  Polis bil                                                                                  
        url                          =  Policecar.jpg                                                                              
-       
 fact   Police.car.1                 =  Jordfordon som används av polisen för att hjälpa till med sina uppgifter                   
-       
 fact   Police.car.2                 =  Siren, blinkande ljus och synliga markeringar                                              
-       
 fact   Police.car.3                 =  Patruller för att avskräcka brottslighet                                                   
        
 photo  Quad.bike                    =  fyrhjuling                                                                                 
        url                          =  Quadbike.jpg                                                                               
-       
 fact   Quad.bike.1                  =  Högt antal dödsfall och skador på grund av försumbar ryttarsäkerhet                        
-       
 fact   Quad.bike.2                  =  Fordon med fyra hjul och en massa mindre än 550 kg                                         
-       
 fact   Quad.bike.3                  =  Används av bönder att snabbt korsa grov terräng                                            
        
 photo  Racing.bike                  =  Racing cykel                                                                               
        url                          =  Racingbike.jpg                                                                             
-       
 fact   Racing.bike.1                =  Cykel utformad för konkurrenskraftig vägcykel                                              
-       
 fact   Racing.bike.2                =  Släpp handtagstavarna                                                                      
-       
 fact   Racing.bike.3                =  Lätt och stel ram                                                                          
        
 photo  Rickshaw                     =  Rickshaw                                                                                   
        url                          =  Cyclerickshaw.jpg                                                                          
-       
 fact   Rickshaw.1                   =  Trehjuling utformad för att bära passagerare                                               
-       
 fact   Rickshaw.2                   =  Turisttransport i många städer                                                             
-       
 fact   Rickshaw.3                   =  Ordet Rickshaw kommer från den japanska frasen för personbil                               
        
 photo  Road.bike                    =  Vägcykel                                                                                   
        url                          =  Roadbike.jpg                                                                               
-       
 fact   Road.bike.1                  =  Det finns dubbelt så många som används som det finns bilar                                 
-       
 fact   Road.bike.2                  =  Populär form av rekreation                                                                 
-       
 fact   Road.bike.3                  =  Mest effektiva transportmedel för mänskligt bruk                                           
        
 photo  Road.sweeper                 =  Road sweeper                                                                               
        url                          =  Roadsweeper.jpg                                                                            
-       
 fact   Road.sweeper.1               =  Rengör gatorna i städerna                                                                  
-       
 fact   Road.sweeper.2               =  Sopa och dammar upp skräp                                                                  
-       
 fact   Road.sweeper.3               =  Minskar vattenförorening genom att avlägsna skräp som annars skulle lösa upp i regn        
        
 photo  Road.train                   =  Vägtåg                                                                                     
        url                          =  Roadtrain.jpg                                                                              
-       
 fact   Road.train.1                 =  Lastbil som drar en eller flera släpvagnar                                                 
-       
 fact   Road.train.2                 =  Behöver långa raka vägar                                                                   
        
 photo  Scooter                      =  Skoter                                                                                     
        url                          =  Scooter.jpg                                                                                
-       
 fact   Scooter.1                    =  Motorcykel med en genomgående ram och en plattform för ryttarens fötter.                   
-       
 fact   Scooter.2                    =  Motor och växlar är fastsatta på bakaxeln                                                  
-       
 fact   Scooter.3                    =  Personlig transport med låg effekt                                                         
        
 photo  Single.decker.bus            =  Enkeldäckare buss                                                                          
        url                          =  Single-deckerbus.jpg                                                                       
-       
 fact   Single.decker.bus.1          =  Buss med ett enda däck för passagerare                                                     
        
 photo  Small.van                    =  Små van                                                                                    
        url                          =  Smallvan.jpg                                                                               
-       
 fact   Small.van.1                  =  Förkortad version av ordet husvagn - ett täckt fordon                                      
-       
 fact   Small.van.2                  =  Monteras med lastbarriärer bakom framsätena                                                
-       
 fact   Small.van.3                  =  Avledas från personbilar utan bakre sidofönster                                            
        
 photo  Sports.car                   =  Sportbil                                                                                   
        url                          =  Sportscar.jpg                                                                              
-       
 fact   Sports.car.1                 =  Liten, två sits, två dörrbil                                                               
-       
 fact   Sports.car.2                 =  Designad för snabbhet och hantering                                                        
        
 photo  Tanker                       =  Tankfartyg                                                                                 
        url                          =  Tanker.jpg                                                                                 
-       
 fact   Tanker.1                     =  Används för att leverera bränsle till bensinstationer                                      
-       
 fact   Tanker.2                     =  Rostfri tank för att undvika korrosion                                                     
-       
 fact   Tanker.3                     =  Inna fack gör det möjligt att transportera flera olika bränslen samtidigt                  
        
 photo  Taxi                         =  Taxi                                                                                       
        url                          =  Taxi.jpg                                                                                   
-       
 fact   Taxi.1                       =  Bil och förare anställd för att göra korta resor                                           
-       
 fact   Taxi.2                       =  Kostnaden för varje resa mäts med en mätare                                                
-       
 fact   Taxi.3                       =  Målade ljusgul i New York.                                                                 
        
 photo  Tipper.lorry                 =  Tippbil                                                                                    
        url                          =  Tipperlorry.jpg                                                                            
-       
 fact   Tipper.lorry.1               =  Levererar torr last som flyter när den tippas                                              
-       
 fact   Tipper.lorry.2               =  Lastlåda tippad av en hydraulisk uttag                                                     
-       
 fact   Tipper.lorry.3               =  Bakluckan är hängslad på toppen för att låta lasten flöda jämnt                            
        
 photo  Tipper.truck                 =  Tippbil                                                                                    
        url                          =  Tipperlorry.jpg                                                                            
-       
 fact   Tipper.truck.1               =  Levererar torr last som flyter när den tippas                                              
-       
 fact   Tipper.truck.2               =  Lastlåda tippad av en hydraulisk uttag                                                     
-       
 fact   Tipper.truck.3               =  Bakluckan är hängslad på toppen för att låta lasten flöda jämnt                            
        
 photo  Tractor                      =  Traktor                                                                                    
        url                          =  Tractor.jpg                                                                                
-       
 fact   Tractor.1                    =  Jordbruksfordon som används för att mekanisera jordbruket                                  
-       
 fact   Tractor.2                    =  Dra en plog                                                                                
-       
 fact   Tractor.3                    =  Drivkraftutrustning                                                                        
        
 photo  Train                        =  Tåg                                                                                        
        url                          =  Train.jpg                                                                                  
-       
 fact   Train.1                      =  Två eller flera delar av rullande materiel kopplade ihop, varav minst en är ett lokomotiv  
-       
 fact   Train.2                      =  Transporterar passagerare eller frakt längs järnvägslinjer                                 
-       
 fact   Train.3                      =  Plockar upp och sätter in passagerare på järnvägsstationer                                 
        
 photo  Vintage.bus                  =  Vintage buss                                                                               
        url                          =  Vintagebus.jpg                                                                             
-       
 fact   Vintage.bus.1                =  Buss från tidigare tid återställd till original skick                                      
-       
 fact   Vintage.bus.2                =  Används för turism                                                                         
-       
 fact   Vintage.bus.3                =  Visas vid samlingar och utställningar                                                      
        
 photo  Vintage.car                  =  Veteranbil                                                                                 
        url                          =  Vintagecar.jpg                                                                             
-       
 fact   Vintage.car.1                =  Bil från en tidigare tid återställd till ursprungligt skick                                
-       
 fact   Vintage.car.2                =  Används för bröllop                                                                        
-       
 fact   Vintage.car.3                =  Visas vid samlingar och utställningar                                                      
-       
