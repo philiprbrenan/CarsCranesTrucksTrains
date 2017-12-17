@@ -4,7 +4,6 @@ app    CarsCranesTrucksTrains.l.sv  =  Cars, Cranes, Trucks, Trains in Swedish
        email                        =  philiprbrenan@gmail.com                                                                    
        icon                         =  icon.png                                                                                   
        language                     =  sv                                                                                         
-       generate                     =  no                                                                                         
        
 photo  Airplane                     =  Flygplan                                                                                   
        url                          =  Airplane.jpg                                                                               
