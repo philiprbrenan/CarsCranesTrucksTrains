@@ -7,465 +7,313 @@ app    CarsCranesTrucksTrains.l.pt  =  Cars, Cranes, Trucks, Trains in Portugues
        
 photo  Airplane                     =  Avião                                                                                                      
        url                          =  Airplane.jpg                                                                                               
-       
 fact   Airplane.1                   =  Atirado por um piloto                                                                                      
-       
 fact   Airplane.2                   =  Voa pessoas e carga de um lugar para outro                                                                 
-       
 fact   Airplane.3                   =  Retira e desembarca nos aeroportos                                                                         
        
 photo  Ambulance                    =  Ambulância                                                                                                 
        url                          =  Ambulance.jpg                                                                                              
-       
 fact   Ambulance.1                  =  Leve as pessoas para o hospital rapidamente                                                                
-       
 fact   Ambulance.2                  =  Sirene, luzes intermitentes e marcas altamente visíveis                                                    
-       
 fact   Ambulance.3                  =  Transporta equipamentos médicos de emergência e paramédicos para acidentes                                 
        
 photo  Amphibious.vehicle           =  Veículo anfíbio                                                                                            
        url                          =  Amphibiousvehicle.jpg                                                                                      
-       
 fact   Amphibious.vehicle.1         =  Pode dirigir sobre terra e água                                                                            
        
 photo  Auto.rickshaw                =  Auto rickshaw                                                                                              
        url                          =  Cyclerickshaw.jpg                                                                                          
-       
 fact   Auto.rickshaw.1              =  Um rickshaw com um motor                                                                                   
-       
 fact   Auto.rickshaw.2              =  Forma essencial do transporte urbano em muitos países em desenvolvimento                                   
-       
 fact   Auto.rickshaw.3              =  A palavra rickshaw vem da frase japonesa para o veículo com força humana                                   
        
 photo  Caravan                      =  Caravana                                                                                                   
        url                          =  Caravan.jpg                                                                                                
-       
 fact   Caravan.1                    =  Mais confortável e protegido do que uma tenda                                                              
-       
 fact   Caravan.2                    =  Empurrado atrás de um carro para fornecer um lugar para dormir à noite                                     
-       
 fact   Caravan.3                    =  Um lar temporário para pessoas de férias                                                                   
        
 photo  Cement.mixer                 =  Misturador de cimento                                                                                      
        url                          =  Cementmixer.jpg                                                                                            
-       
 fact   Cement.mixer.1               =  Misturas de concreto enquanto o transporta para os locais de construção                                    
-       
 fact   Cement.mixer.2               =  O tambor gira durante o transporte para manter o líquido concreto                                          
-       
 fact   Cement.mixer.3               =  Velocidade limitada no Reino Unido a 56 milhas por hora                                                    
        
 photo  Combine.Harvester            =  Ceifeira-debulhadora                                                                                       
        url                          =  CombineHarvester.jpg                                                                                       
-       
 fact   Combine.Harvester.1          =  Colhe as colheitas de cereais em grande escala                                                             
-       
 fact   Combine.Harvester.2          =  Combina a colheita, debulha e ganha                                                                        
-       
 fact   Combine.Harvester.3          =  Uma das mais importantes invenções de economia de trabalho na agricultura                                  
        
 photo  Crane                        =  Guindaste                                                                                                  
        url                          =  Crane.jpg                                                                                                  
-       
 fact   Crane.1                      =  Usado para levantar e baixar coisas pesadas                                                                
-       
 fact   Crane.2                      =  Pode ser usado para mover coisas pesadas distâncias curtas horizontalmente                                 
-       
 fact   Crane.3                      =  Usado para carregar e descarregar caminhões                                                                
        
 photo  Cycle.rickshaw               =  Rickshaw do ciclo                                                                                          
        url                          =  Cyclerickshaw.jpg                                                                                          
-       
 fact   Cycle.rickshaw.1             =  Triciclo projetado para transportar passageiros                                                            
-       
 fact   Cycle.rickshaw.2             =  Transporte turístico em muitas cidades                                                                     
-       
 fact   Cycle.rickshaw.3             =  A palavra rickshaw vem da frase japonesa para o veículo com força humana                                   
        
 photo  Digger                       =  Escavador                                                                                                  
        url                          =  Digger.jpg                                                                                                 
-       
 fact   Digger.1                     =  Escavações de furos e trincheiras rapidamente                                                              
-       
 fact   Digger.2                     =  Braço e balde movidos pela pressão hidráulica                                                              
-       
 fact   Digger.3                     =  Passeios em pistas de lagarta                                                                              
        
 photo  Double.decker.bus            =  Ônibus de dois andares                                                                                     
        url                          =  Double-deckerbus.jpg                                                                                       
-       
 fact   Double.decker.bus.1          =  Ônibus com duas plataformas                                                                                
-       
 fact   Double.decker.bus.2          =  Os usados ​​em Londres são pintados de vermelho                                                            
-       
 fact   Double.decker.bus.3          =  Usado nas cidades porque são manobráveis                                                                   
        
 photo  Dumper.truck                 =  Camião basculante                                                                                          
        url                          =  Dumpertruck.jpg                                                                                            
-       
 fact   Dumper.truck.1               =  Transporta areia, cascalho ou terra em locais de construção                                                
-       
 fact   Dumper.truck.2               =  A carga é orientada ao aumentar uma extremidade da caixa de despejo                                        
-       
 fact   Dumper.truck.3               =  Dirigido girando todo o táxi, tornando mais fácil dirigir em terreno difícil                               
        
 photo  Dustcart                     =  Dustcart                                                                                                   
        url                          =  Dustcart.jpg                                                                                               
-       
 fact   Dustcart.1                   =  Coleta lixo                                                                                                
-       
 fact   Dustcart.2                   =  Transfere lixo para despejar lixeiras                                                                      
-       
 fact   Dustcart.3                   =  Polvilha o lixo para economizar viagens                                                                    
        
 photo  Electric.tram                =  Eléctrico eléctrico                                                                                        
        url                          =  Electrictram.jpg                                                                                           
-       
 fact   Electric.tram.1              =  Executa linhas ferroviárias ao longo das ruas públicas                                                     
-       
 fact   Electric.tram.2              =  Alimentado por eletricidade alimentada a partir de um pantógrafo aéreo                                     
-       
 fact   Electric.tram.3              =  Mais silencioso e eficiente do que os ônibus para o transporte de pessoas                                  
        
 photo  Estate.car                   =  Carro imobiliário                                                                                          
        url                          =  Estatecar.jpg                                                                                              
-       
 fact   Estate.car.1                 =  Tem uma área de bagagem atrás dos assentos de passageiros                                                  
-       
 fact   Estate.car.2                 =  A área de bagagem é acessada por uma porta vertical na parte de trás                                       
-       
 fact   Estate.car.3                 =  As costas dos assentos do passageiro podem dobrar para criar mais espaço para bagagem                      
        
 photo  Fire.engine                  =  Motor de bombeiros                                                                                         
        url                          =  Fireengine.jpg                                                                                             
-       
 fact   Fire.engine.1                =  Caminhão usado para lutar contra incêndios                                                                 
-       
 fact   Fire.engine.2                =  Transporta bombeiros para incêndios                                                                        
-       
 fact   Fire.engine.3                =  Transporta água e equipamento para lutar contra incêndios                                                  
        
 photo  Flatbed.truck                =  Caminhão                                                                                                   
        url                          =  Flatbedtruck.jpg                                                                                           
-       
 fact   Flatbed.truck.1              =  Caminhão sem lados ou telhado                                                                              
-       
 fact   Flatbed.truck.2              =  Usado para transportar escavadores e outros equipamentos pesados                                           
-       
 fact   Flatbed.truck.3              =  Mais fácil de carregar e descarregar do que um caminhão fechado                                            
        
 photo  Forklift.truck               =  Empilhadeira                                                                                               
        url                          =  Forklifttruck.jpg                                                                                          
-       
 fact   Forklift.truck.1             =  Essencialmente para mover materiais em armazéns                                                            
-       
 fact   Forklift.truck.2             =  Carrega e descarrega frete em armazéns                                                                     
-       
 fact   Forklift.truck.3             =  Levanta materiais empilhados em paletes                                                                    
        
 photo  Hatchback                    =  Hatchback                                                                                                  
        url                          =  Hatchback.jpg                                                                                              
-       
 fact   Hatchback.1                  =  A área de bagagem é acessada por uma porta inclinada na parte traseira                                     
-       
 fact   Hatchback.2                  =  Tem uma área de bagagem atrás dos assentos de passageiros                                                  
-       
 fact   Hatchback.3                  =  As costas dos assentos do passageiro podem dobrar para criar mais espaço para bagagem                      
        
 photo  Helicopter                   =  Helicóptero                                                                                                
        url                          =  Helicopter.jpg                                                                                             
-       
 fact   Helicopter.1                 =  Retira-se e desembarca verticalmente                                                                       
-       
 fact   Helicopter.2                 =  Hovers                                                                                                     
-       
 fact   Helicopter.3                 =  Voa para trás                                                                                              
-       
 fact   Helicopter.4                 =  Atirado por um piloto                                                                                      
-       
 fact   Helicopter.5                 =  Voa pessoas e carga de um lugar para outro                                                                 
        
 photo  Horse.and.cart               =  Cavalo e carrinho                                                                                          
        url                          =  Horseandcart.jpg                                                                                           
-       
 fact   Horse.and.cart.1             =  Tem duas rodas e é puxado por um cavalo                                                                    
-       
 fact   Horse.and.cart.2             =  Em uso contínuo desde a invenção da roda há 7 mil anos                                                     
        
 photo  Ice.cream.van                =  Van de gelados                                                                                             
        url                          =  Ice-creamvan.jpg                                                                                           
-       
 fact   Ice.cream.van.1              =  Vende sorvete                                                                                              
-       
 fact   Ice.cream.van.2              =  Visto principalmente no verão                                                                              
-       
 fact   Ice.cream.van.3              =  Brilhantemente decorado com fotos de sorvete                                                               
        
 photo  Jeep                         =  Jipe                                                                                                       
        url                          =  Jeep.jpg                                                                                                   
-       
 fact   Jeep.1                       =  Filial do fabricante de automóveis italiano Fiat                                                           
-       
 fact   Jeep.2                       =  A marca de veículo utilitário desportivo e desportivo mais antiga                                          
-       
 fact   Jeep.3                       =  Veículo principal com 4 rodas motrizes do exército dos EUA durante a Segunda Guerra Mundial                
        
 photo  Land.Rover                   =  Land Rover                                                                                                 
        url                          =  LandRover.jpg                                                                                              
-       
 fact   Land.Rover.1                 =  Segunda marca mais antiga de 4 rodas motrizes                                                              
-       
 fact   Land.Rover.2                 =  Subsidiária da Tata Motors, Índia                                                                          
        
 photo  Land.train                   =  Trem terrestre                                                                                             
        url                          =  Roadtrain.jpg                                                                                              
-       
 fact   Land.train.1                 =  Caminhão puxando um ou mais trailers                                                                       
-       
 fact   Land.train.2                 =  Precisa de longas vias diretas                                                                             
        
 photo  Large.van                    =  Grande van                                                                                                 
        url                          =  Largevan.jpg                                                                                               
-       
 fact   Large.van.1                  =  Veículo comercial projetado para entregar bens leves                                                       
        
 photo  Lorry                        =  Lorry                                                                                                      
        url                          =  Lorry.jpg                                                                                                  
-       
 fact   Lorry.1                      =  Carga por via rodoviária                                                                                   
-       
 fact   Lorry.2                      =  Cabina montada sobre o motor                                                                               
        
 photo  Minibus                      =  Mini onibus                                                                                                
        url                          =  Minibus.jpg                                                                                                
-       
 fact   Minibus.1                    =  Onibus pequeno                                                                                             
        
 photo  Motorbike                    =  Moto                                                                                                       
        url                          =  Motorbike.jpg                                                                                              
-       
 fact   Motorbike.1                  =  Veículo a motor de duas rodas                                                                              
-       
 fact   Motorbike.2                  =  Uma das formas mais acessíveis de transporte motorizado                                                    
-       
 fact   Motorbike.3                  =  A forma mais comum de transporte no Vietnã                                                                 
        
 photo  Motorhome                    =  Autocaravana                                                                                               
        url                          =  Motorhome.jpg                                                                                              
-       
 fact   Motorhome.1                  =  Mais confortável, mas mais caro e menos manobrável do que um campervan                                     
-       
 fact   Motorhome.2                  =  A bordo da cozinha, banheiro e quarto                                                                      
-       
 fact   Motorhome.3                  =  Casa motorizada                                                                                            
-       
 fact   Motorhome.4                  =  Mais confortável e protegido do que uma tenda                                                              
-       
 fact   Motorhome.5                  =  Um lar temporário para pessoas de férias                                                                   
        
 photo  Mountain.bike                =  bicicleta de montanha                                                                                      
        url                          =  Mountainbike.jpg                                                                                           
-       
 fact   Mountain.bike.1              =  Usado para ciclismo off-road                                                                               
-       
 fact   Mountain.bike.2              =  Muitas vezes tem suspensão dianteira e traseira                                                            
-       
 fact   Mountain.bike.3              =  Usa componentes mais fortes do que as motos de estrada                                                     
        
 photo  Oil.tanker                   =  Tanque de óleo                                                                                             
        url                          =  Tanker.jpg                                                                                                 
-       
 fact   Oil.tanker.1                 =  Usado para fornecer combustível para postos de gasolina                                                    
-       
 fact   Oil.tanker.2                 =  Tanque de aço inoxidável para evitar corrosão                                                              
-       
 fact   Oil.tanker.3                 =  Os compartimentos internos permitem que vários combustíveis diferentes sejam transportados ao mesmo tempo  
        
 photo  Open.top.bus                 =  Ônibus aberto                                                                                              
        url                          =  Open-topbus.jpg                                                                                            
-       
 fact   Open.top.bus.1               =  Ônibus de dois andares sem um telhado                                                                      
-       
 fact   Open.top.bus.2               =  Usado para transportar telespectadores em passeios pelas cidades                                           
-       
 fact   Open.top.bus.3               =  Vistas ininterruptas de um ponto de vista alto                                                             
        
 photo  Pakistani.lorry              =  Camião paquistanês                                                                                         
        url                          =  Pakistanilorry.jpg                                                                                         
-       
 fact   Pakistani.lorry.1            =  Caminhão brilhantemente decorado usado no Paquistão                                                        
-       
 fact   Pakistani.lorry.2            =  Transportes de mercadorias e pessoas ao longo da rodovia Karakoram                                         
        
 photo  Pickup.truck                 =  Caminhonete                                                                                                
        url                          =  Pickuptruck.jpg                                                                                            
-       
 fact   Pickup.truck.1               =  Veículo a motor leve com uma área de carga traseira aberta                                                 
-       
 fact   Pickup.truck.2               =  Custa US $ 281 quando produzido pela primeira vez em 1925                                                  
-       
 fact   Pickup.truck.3               =  Comum no Texas                                                                                             
        
 photo  Police.car                   =  Carro da polícia                                                                                           
        url                          =  Policecar.jpg                                                                                              
-       
 fact   Police.car.1                 =  Veículo terrestre usado pela polícia para auxiliar com seus deveres                                        
-       
 fact   Police.car.2                 =  Sirene, luzes intermitentes e marcas altamente visíveis                                                    
-       
 fact   Police.car.3                 =  Patrulhas para impedir o crime                                                                             
        
 photo  Quad.bike                    =  quadricíclo                                                                                                
        url                          =  Quadbike.jpg                                                                                               
-       
 fact   Quad.bike.1                  =  Grande número de mortes e feridos devido à negligente proteção do piloto                                   
-       
 fact   Quad.bike.2                  =  Veículo com quatro rodas e uma massa de menos de 550 kg                                                    
-       
 fact   Quad.bike.3                  =  Usado pelos agricultores para atravessar terreno acidentado rapidamente                                    
        
 photo  Racing.bike                  =  Bicicleta de corrida                                                                                       
        url                          =  Racingbike.jpg                                                                                             
-       
 fact   Racing.bike.1                =  Bicicleta projetada para ciclismo rodoviário competitivo                                                   
-       
 fact   Racing.bike.2                =  Barra de punho                                                                                             
-       
 fact   Racing.bike.3                =  Quadro leve e rígido                                                                                       
        
 photo  Rickshaw                     =  Rickshaw                                                                                                   
        url                          =  Cyclerickshaw.jpg                                                                                          
-       
 fact   Rickshaw.1                   =  Triciclo projetado para transportar passageiros                                                            
-       
 fact   Rickshaw.2                   =  Transporte turístico em muitas cidades                                                                     
-       
 fact   Rickshaw.3                   =  A palavra rickshaw vem da frase japonesa para o veículo com força humana                                   
        
 photo  Road.bike                    =  Bicicleta de estrada                                                                                       
        url                          =  Roadbike.jpg                                                                                               
-       
 fact   Road.bike.1                  =  Há duas vezes mais de uso que os automóveis                                                                
-       
 fact   Road.bike.2                  =  Forma popular de recreação                                                                                 
-       
 fact   Road.bike.3                  =  Meios de transporte humanos mais eficientes                                                                
        
 photo  Road.sweeper                 =  Varredor de rua                                                                                            
        url                          =  Roadsweeper.jpg                                                                                            
-       
 fact   Road.sweeper.1               =  Limpa as ruas nas cidades                                                                                  
-       
 fact   Road.sweeper.2               =  Varre e acumula lixo                                                                                       
-       
 fact   Road.sweeper.3               =  Reduz a poluição da água removendo lixo que de outra forma se dissolveria na chuva                         
        
 photo  Road.train                   =  Trem de estrada                                                                                            
        url                          =  Roadtrain.jpg                                                                                              
-       
 fact   Road.train.1                 =  Caminhão puxando um ou mais trailers                                                                       
-       
 fact   Road.train.2                 =  Precisa de longas vias diretas                                                                             
        
 photo  Scooter                      =  Lambreta                                                                                                   
        url                          =  Scooter.jpg                                                                                                
-       
 fact   Scooter.1                    =  Motocicleta com um quadro passo a passo e uma plataforma para os pés do cavaleiro.                         
-       
 fact   Scooter.2                    =  O motor e as engrenagens estão ligados ao eixo traseiro                                                    
-       
 fact   Scooter.3                    =  Transporte pessoal de baixa potência                                                                       
        
 photo  Single.decker.bus            =  Ônibus de um andar                                                                                         
        url                          =  Single-deckerbus.jpg                                                                                       
-       
 fact   Single.decker.bus.1          =  Ônibus com um único convés para passageiros                                                                
        
 photo  Small.van                    =  Caminhão pequeno                                                                                           
        url                          =  Smallvan.jpg                                                                                               
-       
 fact   Small.van.1                  =  Versão reduzida da palavra caravana - um veículo coberto                                                   
-       
 fact   Small.van.2                  =  Equipado com barreiras de carga atrás dos bancos da frente                                                 
-       
 fact   Small.van.3                  =  Derivado de automóveis de passageiros sem janelas laterais traseiras                                       
        
 photo  Sports.car                   =  Carro esporte                                                                                              
        url                          =  Sportscar.jpg                                                                                              
-       
 fact   Sports.car.1                 =  Pequeno, dois assentos, carro de duas portas                                                               
-       
 fact   Sports.car.2                 =  Projetado para velocidade e manipulação                                                                    
        
 photo  Tanker                       =  Petroleiro                                                                                                 
        url                          =  Tanker.jpg                                                                                                 
-       
 fact   Tanker.1                     =  Usado para fornecer combustível para postos de gasolina                                                    
-       
 fact   Tanker.2                     =  Tanque de aço inoxidável para evitar corrosão                                                              
-       
 fact   Tanker.3                     =  Os compartimentos internos permitem que vários combustíveis diferentes sejam transportados ao mesmo tempo  
        
 photo  Taxi                         =  Táxi                                                                                                       
        url                          =  Taxi.jpg                                                                                                   
-       
 fact   Taxi.1                       =  Carro e motorista contratados para fazer viagens curtas                                                    
-       
 fact   Taxi.2                       =  O custo de cada viagem é medido por um metro                                                               
-       
 fact   Taxi.3                       =  Pintado de amarelo brilhante em Nova York.                                                                 
        
 photo  Tipper.lorry                 =  Camião basculante                                                                                          
        url                          =  Tipperlorry.jpg                                                                                            
-       
 fact   Tipper.lorry.1               =  Fornece carga seca que flui quando derrubada                                                               
-       
 fact   Tipper.lorry.2               =  Caixa de carga com ponta de um macaco hidráulico                                                           
-       
 fact   Tipper.lorry.3               =  A porta traseira está articulada no topo para permitir que a carga flua uniformemente                      
        
 photo  Tipper.truck                 =  caminhão basculante                                                                                        
        url                          =  Tipperlorry.jpg                                                                                            
-       
 fact   Tipper.truck.1               =  Fornece carga seca que flui quando derrubada                                                               
-       
 fact   Tipper.truck.2               =  Caixa de carga com ponta de um macaco hidráulico                                                           
-       
 fact   Tipper.truck.3               =  A porta traseira está articulada no topo para permitir que a carga flua uniformemente                      
        
 photo  Tractor                      =  Trator                                                                                                     
        url                          =  Tractor.jpg                                                                                                
-       
 fact   Tractor.1                    =  Veículo agrícola usado para mecanizar a agricultura                                                        
-       
 fact   Tractor.2                    =  Puxa um arado                                                                                              
-       
 fact   Tractor.3                    =  Powers equipment farm                                                                                      
        
 photo  Train                        =  Trem                                                                                                       
        url                          =  Train.jpg                                                                                                  
-       
 fact   Train.1                      =  Dois ou mais itens de material circulante acoplados, pelo menos um dos quais é uma locomotiva              
-       
 fact   Train.2                      =  Transporta passageiros ou frete ao longo das linhas ferroviárias                                           
-       
 fact   Train.3                      =  Pega e deposita passageiros nas estações ferroviárias                                                      
        
 photo  Vintage.bus                  =  Ônibus vintage                                                                                             
        url                          =  Vintagebus.jpg                                                                                             
-       
 fact   Vintage.bus.1                =  Ônibus de um tempo anterior restaurado à condição original                                                 
-       
 fact   Vintage.bus.2                =  Usado para turismo                                                                                         
-       
 fact   Vintage.bus.3                =  Exibido em manifestações e exposições                                                                      
        
 photo  Vintage.car                  =  Carro vintage                                                                                              
        url                          =  Vintagecar.jpg                                                                                             
-       
 fact   Vintage.car.1                =  Carro de um tempo anterior restaurado à condição original                                                  
-       
 fact   Vintage.car.2                =  Usado para casamentos                                                                                      
-       
 fact   Vintage.car.3                =  Exibido em manifestações e exposições                                                                      
-       
