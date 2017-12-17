@@ -7,465 +7,313 @@ app    CarsCranesTrucksTrains.l.ko  =  Cars, Cranes, Trucks, Trains in Korean
        
 photo  Airplane                     =  비행기                                          
        url                          =  Airplane.jpg                                 
-       
 fact   Airplane.1                   =  파일럿에 의해 비행                                   
-       
 fact   Airplane.2                   =  한 장소에서 다른 장소로 사람들과화물을 날아간다.                  
-       
 fact   Airplane.3                   =  공항에서 출발하여 착륙한다.                              
        
 photo  Ambulance                    =  구급차                                          
        url                          =  Ambulance.jpg                                
-       
 fact   Ambulance.1                  =  사람들을 병원에 빨리 데려 간다.                           
-       
 fact   Ambulance.2                  =  사이렌, 번쩍이는 조명 및 눈에 잘 띄는 표시                    
-       
 fact   Ambulance.3                  =  응급 의료 장비 및 구급대를 사고로 운반합니다.                   
        
 photo  Amphibious.vehicle           =  수륙 양용 차량                                     
        url                          =  Amphibiousvehicle.jpg                        
-       
 fact   Amphibious.vehicle.1         =  육지와 물을 몰 수 있음.                               
        
 photo  Auto.rickshaw                =  자동 인력거                                       
        url                          =  Cyclerickshaw.jpg                            
-       
 fact   Auto.rickshaw.1              =  엔진이있는 인력거                                    
-       
 fact   Auto.rickshaw.2              =  많은 개발 도상국가에서 도시 교통의 본질적인 형태                  
-       
 fact   Auto.rickshaw.3              =  인력거라는 단어는 인간이 동력을 사용하는 자동차의 일본어 구절에서 비롯됩니다.  
        
 photo  Caravan                      =  대상                                           
        url                          =  Caravan.jpg                                  
-       
 fact   Caravan.1                    =  텐트보다 편안하고 보호받는 곳                             
-       
 fact   Caravan.2                    =  밤에 잠자리를 제공하는 차 뒤에 견인                         
-       
 fact   Caravan.3                    =  휴가중인 사람들을위한 임시 주택                            
        
 photo  Cement.mixer                 =  시멘트 혼합기                                      
        url                          =  Cementmixer.jpg                              
-       
 fact   Cement.mixer.1               =  건축 현장으로 운반하는 동안 콘크리트를 혼합합니다.                 
-       
 fact   Cement.mixer.2               =  콘크리트 액을 유지하기 위해 운송 도중 드럼이 회전 함               
-       
 fact   Cement.mixer.3               =  영국의 속도는 시간당 56 마일로 제한됩니다.                    
        
 photo  Combine.Harvester            =  컴바인 수확기                                      
        url                          =  CombineHarvester.jpg                         
-       
 fact   Combine.Harvester.1          =  곡물 작물을 대규모로 수확한다.                            
-       
 fact   Combine.Harvester.2          =  거두기, 타작 및 놀림을 결합 함.                          
-       
 fact   Combine.Harvester.3          =  농업에서 가장 중요한 노동 절약 발명품 중 하나                   
        
 photo  Crane                        =  기중기                                          
        url                          =  Crane.jpg                                    
-       
 fact   Crane.1                      =  무거운 것을 들거나 낮추는 데 사용됩니다.                      
-       
 fact   Crane.2                      =  무거운 물건을 수평으로 짧은 거리로 이동하는 데 사용할 수 있습니다.       
-       
 fact   Crane.3                      =  트럭의 적재 및 하역에 사용됩니다.                          
        
 photo  Cycle.rickshaw               =  주기 인력거                                       
        url                          =  Cyclerickshaw.jpg                            
-       
 fact   Cycle.rickshaw.1             =  승객을 태울 수 있도록 설계된 세발 자전거                      
-       
 fact   Cycle.rickshaw.2             =  많은 도시의 관광 교통                                 
-       
 fact   Cycle.rickshaw.3             =  인력거라는 단어는 인간이 동력을 사용하는 자동차의 일본어 구절에서 비롯됩니다.  
        
 photo  Digger                       =  파는 사람                                        
        url                          =  Digger.jpg                                   
-       
 fact   Digger.1                     =  구멍과 트렌치를 빠르게 파다.                             
-       
 fact   Digger.2                     =  유압에 의해 움직이는 암 및 버킷                           
-       
 fact   Digger.3                     =  무한 궤도에 타기                                    
        
 photo  Double.decker.bus            =  이층 버스                                        
        url                          =  Double-deckerbus.jpg                         
-       
 fact   Double.decker.bus.1          =  2 개의 갑판이있는 버스                                
-       
 fact   Double.decker.bus.2          =  런던에서 사용되는 것들은 빨간색으로 칠해져 있습니다.                
-       
 fact   Double.decker.bus.3          =  도시에서 사용하기 때문에 기동성이 있습니다.                     
        
 photo  Dumper.truck                 =  덤퍼 트럭                                        
        url                          =  Dumpertruck.jpg                              
-       
 fact   Dumper.truck.1               =  건축물에 모래, 자갈 또는 흙을 운반합니다.                     
-       
 fact   Dumper.truck.2               =  덤프 박스의 한쪽 끝을 올리면 짐이 튀어 나옵니다                  
-       
 fact   Dumper.truck.3               =  거친 바닥에서 쉽게 운전할 수 있도록 캡 전체를 돌려 조종하십시오.        
        
 photo  Dustcart                     =  더스트 카트                                       
        url                          =  Dustcart.jpg                                 
-       
 fact   Dustcart.1                   =  쓰레기 수거                                       
-       
 fact   Dustcart.2                   =  쓰레기를 쓰레기통으로 옮깁니다.                            
-       
 fact   Dustcart.3                   =  여행을 구하기 위해 쓰레기를 과시하십시오.                      
        
 photo  Electric.tram                =  전차                                           
        url                          =  Electrictram.jpg                             
-       
 fact   Electric.tram.1              =  공공 도로를 따라 철도 노선을 운행합니다.                      
-       
 fact   Electric.tram.2              =  오버 헤드 팬터그래피에서 전기를 공급 받음                      
-       
 fact   Electric.tram.3              =  사람들을 운송하는 버스보다 조용하고 효율적                      
        
 photo  Estate.car                   =  부동산 자동차                                      
        url                          =  Estatecar.jpg                                
-       
 fact   Estate.car.1                 =  승객석 뒤에 수하물이있다.                               
-       
 fact   Estate.car.2                 =  수화물 지역은 뒤에 수직 문에 의해 접근됩니다                    
-       
 fact   Estate.car.3                 =  승객석의 등받이는 더 많은 수하물 공간을 만들기 위해 접을 수 있습니다.     
        
 photo  Fire.engine                  =  소방차                                          
        url                          =  Fireengine.jpg                               
-       
 fact   Fire.engine.1                =  화재 진압 용 트럭                                   
-       
 fact   Fire.engine.2                =  소방관을 화재로 이송                                  
-       
 fact   Fire.engine.3                =  물과 장비를 운반하여 화재 방지                            
        
 photo  Flatbed.truck                =  플랫 베드 트럭                                     
        url                          =  Flatbedtruck.jpg                             
-       
 fact   Flatbed.truck.1              =  측면이나 지붕이없는 트럭                                
-       
 fact   Flatbed.truck.2              =  굴착기 및 기타 중장비 운반에 사용                          
-       
 fact   Flatbed.truck.3              =  폐쇄 형 트럭보다 쉽게로드 및 언로드                         
        
 photo  Forklift.truck               =  포크 리프트 트럭                                    
        url                          =  Forklifttruck.jpg                            
-       
 fact   Forklift.truck.1             =  창고에서 재료를 움직이는 데 필수적입니다.                      
-       
 fact   Forklift.truck.2             =  창고에서화물의 적재 및 하역                              
-       
 fact   Forklift.truck.3             =  팔레트에 쌓인 재료 리프트                               
        
 photo  Hatchback                    =  해치백                                          
        url                          =  Hatchback.jpg                                
-       
 fact   Hatchback.1                  =  수화물 영역은 뒤쪽의 경 사진 문으로 접근 할 수 있습니다.            
-       
 fact   Hatchback.2                  =  승객석 뒤에 수하물이있다.                               
-       
 fact   Hatchback.3                  =  승객석의 등받이는 더 많은 수하물 공간을 만들기 위해 접을 수 있습니다.     
        
 photo  Helicopter                   =  헬리콥터                                         
        url                          =  Helicopter.jpg                               
-       
 fact   Helicopter.1                 =  수직으로 떨어져서 착륙한다.                              
-       
 fact   Helicopter.2                 =  호버                                           
-       
 fact   Helicopter.3                 =  거꾸로 날아간다.                                    
-       
 fact   Helicopter.4                 =  파일럿에 의해 비행                                   
-       
 fact   Helicopter.5                 =  한 장소에서 다른 장소로 사람들과화물을 날아간다.                  
        
 photo  Horse.and.cart               =  말과 마차                                        
        url                          =  Horseandcart.jpg                             
-       
 fact   Horse.and.cart.1             =  2 개의 바퀴가 있고 말에 의해 당겨진다                       
-       
 fact   Horse.and.cart.2             =  7 천년 전의 바퀴 발명 이후의 지속적인 사용                    
        
 photo  Ice.cream.van                =  아이스크림 밴                                      
        url                          =  Ice-creamvan.jpg                             
-       
 fact   Ice.cream.van.1              =  아이스크림 판매                                     
-       
 fact   Ice.cream.van.2              =  주로 여름에 보았습니다.                                
-       
 fact   Ice.cream.van.3              =  아이스크림의 그림으로 밝게 꾸며져 있습니다.                     
        
 photo  Jeep                         =  지프                                           
        url                          =  Jeep.jpg                                     
-       
 fact   Jeep.1                       =  이탈리아 자동차 제조업체 Fiat의 자회사                      
-       
 fact   Jeep.2                       =  가장 오래된 오프로드 자동차 및 스포츠 유틸리티 차량 브랜드            
-       
 fact   Jeep.3                       =  제 2 차 세계 대전 중 미 육군의 주요 경량 4 륜 구동 차량          
        
 photo  Land.Rover                   =  랜드 로버                                        
        url                          =  LandRover.jpg                                
-       
 fact   Land.Rover.1                 =  두 번째로 오래된 4 륜구동 브랜드                          
-       
 fact   Land.Rover.2                 =  인도 타타 모터스 자회사                                
        
 photo  Land.train                   =  육상 열차                                        
        url                          =  Roadtrain.jpg                                
-       
 fact   Land.train.1                 =  하나 이상의 트레일러를 당기는 트럭                          
-       
 fact   Land.train.2                 =  긴 직선 도로가 필요합니다.                              
        
 photo  Large.van                    =  대형 밴                                         
        url                          =  Largevan.jpg                                 
-       
 fact   Large.van.1                  =  경량의 제품을 제공하도록 설계된 상업용 차량                     
        
 photo  Lorry                        =  사륜 짐마차                                       
        url                          =  Lorry.jpg                                    
-       
 fact   Lorry.1                      =  도로로화물을 나른다.                                  
-       
 fact   Lorry.2                      =  엔진 위에 장착 된 운전실                               
        
 photo  Minibus                      =  소형 버스                                        
        url                          =  Minibus.jpg                                  
-       
 fact   Minibus.1                    =  소형 버스                                        
        
 photo  Motorbike                    =  오토바이                                         
        url                          =  Motorbike.jpg                                
-       
 fact   Motorbike.1                  =  2 륜 자동차                                      
-       
 fact   Motorbike.2                  =  가장 적당한 형태의 동력 전달 장치 중 하나                     
-       
 fact   Motorbike.3                  =  베트남에서 가장 일반적인 운송 수단                          
        
 photo  Motorhome                    =  모터 홈                                         
        url                          =  Motorhome.jpg                                
-       
 fact   Motorhome.1                  =  campervan보다 편안하지만 더 비싸고 기동성이 떨어집니다.          
-       
 fact   Motorhome.2                  =  기내 주방, 욕실 및 침실                               
-       
 fact   Motorhome.3                  =  동력 주택                                        
-       
 fact   Motorhome.4                  =  텐트보다 편안하고 보호받는 곳                             
-       
 fact   Motorhome.5                  =  휴가중인 사람들을위한 임시 주택                            
        
 photo  Mountain.bike                =  산악 자전거                                       
        url                          =  Mountainbike.jpg                             
-       
 fact   Mountain.bike.1              =  오프로드 자전거에 사용됨                                
-       
 fact   Mountain.bike.2              =  종종 프론트와 리어 서스펜션을 가지고있다.                      
-       
 fact   Mountain.bike.3              =  도로 자전거보다 더 강한 부품을 사용합니다.                     
        
 photo  Oil.tanker                   =  유조선                                          
        url                          =  Tanker.jpg                                   
-       
 fact   Oil.tanker.1                 =  주유소에 연료를 공급하는 데 사용됩니다.                       
-       
 fact   Oil.tanker.2                 =  부식을 피하기위한 스테인리스 탱크                           
-       
 fact   Oil.tanker.3                 =  내부 칸막이는 한 번에 여러 가지 다른 연료를 운반 할 수있게합니다.       
        
 photo  Open.top.bus                 =  오픈 탑 버스                                      
        url                          =  Open-topbus.jpg                              
-       
 fact   Open.top.bus.1               =  지붕없는 이층 버스                                   
-       
 fact   Open.top.bus.2               =  도시를 통해 투어 시력을 전달하는 데 사용됩니다.                  
-       
 fact   Open.top.bus.3               =  높은 시점에서 끊김없는 전망                              
        
 photo  Pakistani.lorry              =  파키스탄 트럭                                      
        url                          =  Pakistanilorry.jpg                           
-       
 fact   Pakistani.lorry.1            =  파키스탄에서 훌륭하게 장식 된 트럭                          
-       
 fact   Pakistani.lorry.2            =  카라코람 고속도로를 따라 상품과 사람들을 운송합니다.                
        
 photo  Pickup.truck                 =  픽업 트럭                                        
        url                          =  Pickuptruck.jpg                              
-       
 fact   Pickup.truck.1               =  개방형 후방화물 구역을 갖춘 경 자동차                        
-       
 fact   Pickup.truck.2               =  1925 년에 처음 생산 된 경우 281 달러                    
-       
 fact   Pickup.truck.3               =  텍사스의 공통점                                     
        
 photo  Police.car                   =  경찰차                                          
        url                          =  Policecar.jpg                                
-       
 fact   Police.car.1                 =  직무를 돕기 위해 경찰이 사용하는 지상 차량                     
-       
 fact   Police.car.2                 =  사이렌, 번쩍이는 조명 및 눈에 잘 띄는 표시                    
-       
 fact   Police.car.3                 =  범죄를 막기위한 순찰                                  
        
 photo  Quad.bike                    =  쿼드 바이크                                       
        url                          =  Quadbike.jpg                                 
-       
 fact   Quad.bike.1                  =  무시할 수있는 라이더 보호로 인한 사망자와 부상자 수의 증가            
-       
 fact   Quad.bike.2                  =  4 개의 바퀴와 550 kg 이하의 질량을 지닌 차량                
-       
 fact   Quad.bike.3                  =  거친 지형을 신속하게 통과하기 위해 농부들이 사용했습니다.             
        
 photo  Racing.bike                  =  레이싱 자전거                                      
        url                          =  Racingbike.jpg                               
-       
 fact   Racing.bike.1                =  경쟁 사이클링을 위해 설계된 자전거                          
-       
 fact   Racing.bike.2                =  손잡이 줄 놓기                                     
-       
 fact   Racing.bike.3                =  가볍고 튼튼한 프레임                                  
        
 photo  Rickshaw                     =  인력거                                          
        url                          =  Cyclerickshaw.jpg                            
-       
 fact   Rickshaw.1                   =  승객을 태울 수 있도록 설계된 세발 자전거                      
-       
 fact   Rickshaw.2                   =  많은 도시의 관광 교통                                 
-       
 fact   Rickshaw.3                   =  인력거라는 단어는 인간이 동력을 사용하는 자동차의 일본어 구절에서 비롯됩니다.  
        
 photo  Road.bike                    =  도로 자전거                                       
        url                          =  Roadbike.jpg                                 
-       
 fact   Road.bike.1                  =  자동차보다 사용량이 두 배나 많습니다.                        
-       
 fact   Road.bike.2                  =  인기있는 레크리에이션 형태                               
-       
 fact   Road.bike.3                  =  가장 효율적인 인간 동력 운송 수단                          
        
 photo  Road.sweeper                 =  환경 미화원                                       
        url                          =  Roadsweeper.jpg                              
-       
 fact   Road.sweeper.1               =  도시의 거리 청소                                    
-       
 fact   Road.sweeper.2               =  쓰레기 청소 및 진공 청소기 청소                           
-       
 fact   Road.sweeper.3               =  비가 오면 녹을 수있는 쓰레기를 제거하여 수질 오염을 줄입니다.          
        
 photo  Road.train                   =  도로 기차                                        
        url                          =  Roadtrain.jpg                                
-       
 fact   Road.train.1                 =  하나 이상의 트레일러를 당기는 트럭                          
-       
 fact   Road.train.2                 =  긴 직선 도로가 필요합니다.                              
        
 photo  Scooter                      =  스쿠터                                          
        url                          =  Scooter.jpg                                  
-       
 fact   Scooter.1                    =  라이더 발을위한 스텝 - 스루 프레임 및 플랫폼이있는 오토바이.          
-       
 fact   Scooter.2                    =  엔진과 기어가 리어 액슬에 부착되어 있습니다.                    
-       
 fact   Scooter.3                    =  저전력 개인 교통 수단                                 
        
 photo  Single.decker.bus            =  1 층 버스                                       
        url                          =  Single-deckerbus.jpg                         
-       
 fact   Single.decker.bus.1          =  승객을위한 단일 데크가있는 버스                            
        
 photo  Small.van                    =  소형 밴                                         
        url                          =  Smallvan.jpg                                 
-       
 fact   Small.van.1                  =  단어 캐러밴의 단축 버전 - 덮힌 차량                        
-       
 fact   Small.van.2                  =  앞 좌석 뒤에 화물창이 설치되어있다.                         
-       
 fact   Small.van.3                  =  뒤쪽 창문이없는 승용차에서 파생 됨                          
        
 photo  Sports.car                   =  스포츠카                                         
        url                          =  Sportscar.jpg                                
-       
 fact   Sports.car.1                 =  소형, 2 인용, 2 인용 자동차                           
-       
 fact   Sports.car.2                 =  속도 및 취급을 고려한 설계                              
        
 photo  Tanker                       =  탱커                                           
        url                          =  Tanker.jpg                                   
-       
 fact   Tanker.1                     =  주유소에 연료를 공급하는 데 사용됩니다.                       
-       
 fact   Tanker.2                     =  부식을 피하기위한 스테인리스 탱크                           
-       
 fact   Tanker.3                     =  내부 칸막이는 한 번에 여러 가지 다른 연료를 운반 할 수있게합니다.       
        
 photo  Taxi                         =  택시                                           
        url                          =  Taxi.jpg                                     
-       
 fact   Taxi.1                       =  짧은 여행을하기 위해 고용 된 자동차와 운전자                    
-       
 fact   Taxi.2                       =  각 여행의 비용은 미터로 측정됩니다.                         
-       
 fact   Taxi.3                       =  뉴욕에서 밝은 노란색을 그렸습니다.                          
        
 photo  Tipper.lorry                 =  티퍼 트럭                                        
        url                          =  Tipperlorry.jpg                              
-       
 fact   Tipper.lorry.1               =  덤프 할 때 흐르는 건조한화물을 제공합니다.                     
-       
 fact   Tipper.lorry.2               =  유압 잭으로 뒤덮힌화물 상자                              
-       
 fact   Tipper.lorry.3               =  꼬리 문은화물이 골고루 흘러 내릴 수 있도록 상단이 힌지되어 있습니다.      
        
 photo  Tipper.truck                 =  티퍼 트럭                                        
        url                          =  Tipperlorry.jpg                              
-       
 fact   Tipper.truck.1               =  덤프 할 때 흐르는 건조한화물을 제공합니다.                     
-       
 fact   Tipper.truck.2               =  유압 잭으로 뒤덮힌화물 상자                              
-       
 fact   Tipper.truck.3               =  꼬리 문은화물이 골고루 흘러 내릴 수 있도록 상단이 힌지되어 있습니다.      
        
 photo  Tractor                      =  트랙터                                          
        url                          =  Tractor.jpg                                  
-       
 fact   Tractor.1                    =  농업 기계화에 사용되는 농장 차량                           
-       
 fact   Tractor.2                    =  쟁기를 당긴다.                                     
-       
 fact   Tractor.3                    =  농장 기계 설비                                     
        
 photo  Train                        =  기차                                           
        url                          =  Train.jpg                                    
-       
 fact   Train.1                      =  2 개 이상의 철도 차량 품목이 함께 결합되며, 적어도 하나는 기관차       
-       
 fact   Train.2                      =  기차 선로를 따라 승객 또는화물 운송                         
-       
 fact   Train.3                      =  기차역에서 승객을 픽업하고 예금합니다.                        
        
 photo  Vintage.bus                  =  빈티지 버스                                       
        url                          =  Vintagebus.jpg                               
-       
 fact   Vintage.bus.1                =  이전 시간의 버스가 원래 상태로 복원되었습니다.                   
-       
 fact   Vintage.bus.2                =  관광에 사용                                       
-       
 fact   Vintage.bus.3                =  집회 및 전시회에 전시                                 
        
 photo  Vintage.car                  =  빈티지 자동차                                      
        url                          =  Vintagecar.jpg                               
-       
 fact   Vintage.car.1                =  더 일찍부터의 자동차는 원래의 상태로 복원되었습니다.                
-       
 fact   Vintage.car.2                =  결혼식에 사용                                      
-       
 fact   Vintage.car.3                =  집회 및 전시회에 전시                                 
-       
