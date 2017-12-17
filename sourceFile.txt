@@ -3,7 +3,7 @@ app carscranestruckstrains = Cars, Cranes, Trucks, Trains
   icon       = icon.png
   author     = philiprbrenan
   email      = philiprbrenan@gmail.com
-  speaker    = Amy
+  speakers   = Amy
 
 photo Airplane = Airplane.jpg
   fact Airplane.1 = Flown by a pilot
