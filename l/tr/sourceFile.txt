@@ -4,7 +4,6 @@ app    CarsCranesTrucksTrains.l.tr  =  Cars, Cranes, Trucks, Trains in Turkish
        email                        =  philiprbrenan@gmail.com                                                                  
        icon                         =  icon.png                                                                                 
        language                     =  tr                                                                                       
-       generate                     =  no                                                                                       
        
 photo  Airplane                     =  Uçak                                                                                     
        url                          =  Airplane.jpg                                                                             
