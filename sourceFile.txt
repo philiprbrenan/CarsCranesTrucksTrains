@@ -1,4 +1,4 @@
-app carscranestruckstrains = Cars, Cranes, Trucks, Trains
+app CarsCranesTrucksTrains = Cars, Cranes, Trucks, Trains
   description= Learn about cars, cranes, trucks and trains
   icon       = icon.png
   author     = philiprbrenan
