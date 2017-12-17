@@ -4,7 +4,6 @@ app    CarsCranesTrucksTrains.l.ro  =  Cars, Cranes, Trucks, Trains in Romanian
        email                        =  philiprbrenan@gmail.com                                                                                         
        icon                         =  icon.png                                                                                                        
        language                     =  ro                                                                                                              
-       generate                     =  no                                                                                                              
        
 photo  Airplane                     =  Avion                                                                                                           
        url                          =  Airplane.jpg                                                                                                    
