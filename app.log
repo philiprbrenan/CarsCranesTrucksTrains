@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-12-18 at 11:41:19 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains
+2017-12-18 at 12:44:51 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains
 
-2017-12-18 at 11:41:23 Step: parseSource
-2017-12-18 at 11:41:23 <b>Good source file!</b>
-2017-12-18 at 11:41:23 Step: loadAssets
-2017-12-18 at 11:44:24 205 new, 0 reused audio files
-2017-12-18 at 11:44:24 Step: multiplyPhotosByFacts
-2017-12-18 at 11:44:24 Step: genJavaManifest
-2017-12-18 at 11:44:24 Step: genJsonManifest
-2017-12-18 at 11:44:24 Step: genGameHtml
-2017-12-18 at 11:44:24 Step: genHtmlAssets
-2017-12-18 at 11:44:24 Step: zipAssets
-2017-12-18 at 11:44:24 Step: compileApp
-2017-12-18 at 11:44:28 Step: copyLinksToGitHub
-2017-12-18 at 11:44:32 Step: copyFilesIntoPositionOnWebServer
+2017-12-18 at 12:44:55 Step: parseSource
+2017-12-18 at 12:44:55 <b>Good source file!</b>
+2017-12-18 at 12:44:55 Step: loadAssets
+2017-12-18 at 12:45:01 0 new, 205 reused audio files
+2017-12-18 at 12:45:01 Step: multiplyPhotosByFacts
+2017-12-18 at 12:45:01 Step: genJavaManifest
+2017-12-18 at 12:45:01 Step: genJsonManifest
+2017-12-18 at 12:45:01 Step: genGameHtml
+2017-12-18 at 12:45:01 Step: genHtmlAssets
+2017-12-18 at 12:45:01 Step: zipAssets
+2017-12-18 at 12:45:02 Step: compileApp
+2017-12-18 at 12:45:06 Step: copyLinksToGitHub
+2017-12-18 at 12:45:10 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -34,13 +34,13 @@ do {
                        log           => [
                                           "",
                                           "",
-                                          "libpng error: Read Error\nlibpng error: Read Error\nlibpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                                           "",
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenanCarsCranesTrucksTrains",
-                       parameters    => "1513597464,philiprbrenan,CarsCranesTrucksTrains,,http://www.appaapps.com,Cars, Cranes, Trucks, Trains",
+                       parameters    => "1513601102,philiprbrenan,CarsCranesTrucksTrains,,http://www.appaapps.com,Cars, Cranes, Trucks, Trains",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -85,7 +85,7 @@ do {
                          fullNameOnGooglePlay => undef,
                          icon                 => "icon.png",
                          language             => "en",
-                         maxImages            => 8,
+                         maxImages            => 12,
                          name                 => "CarsCranesTrucksTrains",
                          ordered              => "never",
                          rightInARow          => 7,
@@ -99,20 +99,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-18 at 11:41:19 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains\n",
-                       "2017-12-18 at 11:41:23 Step: parseSource",
-                       "2017-12-18 at 11:41:23 <b>Good source file!</b>",
-                       "2017-12-18 at 11:41:23 Step: loadAssets",
-                       "2017-12-18 at 11:44:24 205 new, 0 reused audio files",
-                       "2017-12-18 at 11:44:24 Step: multiplyPhotosByFacts",
-                       "2017-12-18 at 11:44:24 Step: genJavaManifest",
-                       "2017-12-18 at 11:44:24 Step: genJsonManifest",
-                       "2017-12-18 at 11:44:24 Step: genGameHtml",
-                       "2017-12-18 at 11:44:24 Step: genHtmlAssets",
-                       "2017-12-18 at 11:44:24 Step: zipAssets",
-                       "2017-12-18 at 11:44:24 Step: compileApp",
-                       "2017-12-18 at 11:44:28 Step: copyLinksToGitHub",
-                       "2017-12-18 at 11:44:32 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-18 at 12:44:51 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains\n",
+                       "2017-12-18 at 12:44:55 Step: parseSource",
+                       "2017-12-18 at 12:44:55 <b>Good source file!</b>",
+                       "2017-12-18 at 12:44:55 Step: loadAssets",
+                       "2017-12-18 at 12:45:01 0 new, 205 reused audio files",
+                       "2017-12-18 at 12:45:01 Step: multiplyPhotosByFacts",
+                       "2017-12-18 at 12:45:01 Step: genJavaManifest",
+                       "2017-12-18 at 12:45:01 Step: genJsonManifest",
+                       "2017-12-18 at 12:45:01 Step: genGameHtml",
+                       "2017-12-18 at 12:45:01 Step: genHtmlAssets",
+                       "2017-12-18 at 12:45:01 Step: zipAssets",
+                       "2017-12-18 at 12:45:02 Step: compileApp",
+                       "2017-12-18 at 12:45:06 Step: copyLinksToGitHub",
+                       "2017-12-18 at 12:45:10 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
