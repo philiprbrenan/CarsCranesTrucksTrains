@@ -1,9 +1,10 @@
 app CarsCranesTrucksTrains = Cars, Cranes, Trucks, Trains
-  description= Learn about cars, cranes, trucks and trains
-  icon       = icon.png
-  author     = philiprbrenan
-  email      = philiprbrenan@gmail.com
-  speakers   = Amy
+  description  = Learn about cars, cranes, trucks and trains
+  icon         = icon.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  screenshots  = Airplane Crane Digger Fire.engine Land.rover Motorbike Tipper.lorry Train
+  speakers     = Amy
 
        
 photo  Airplane              =  Airplane                                                                                    
@@ -23,7 +24,7 @@ photo  Amphibious.vehicle    =  Amphibious vehicle
 fact   Amphibious.vehicle.1  =  Can drive over land and water                                                               
        
 photo  Auto.rickshaw         =  Auto rickshaw                                                                               
-       url                   =  Cyclerickshaw.jpg                                                                           
+       url                   =  Autorickshaw.jpg                                                                            
 fact   Auto.rickshaw.1       =  A rickshaw with an engine                                                                   
 fact   Auto.rickshaw.2       =  Essential form of urban transport in many developing countries                              
 fact   Auto.rickshaw.3       =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
@@ -148,11 +149,6 @@ photo  Land.Rover            =  Land Rover
 fact   Land.Rover.1          =  Second oldest 4-wheel-drive brand                                                           
 fact   Land.Rover.2          =  Subsidiary of Tata Motors, India                                                            
        
-photo  Land.train            =  Land train                                                                                  
-       url                   =  Roadtrain.jpg                                                                               
-fact   Land.train.1          =  Truck pulling one or more trailers                                                          
-fact   Land.train.2          =  Needs long straight roads                                                                   
-       
 photo  Large.van             =  Large van                                                                                   
        url                   =  Largevan.jpg                                                                                
 fact   Large.van.1           =  Commercial vehicle designed to deliver lightweight goods                                    
@@ -185,12 +181,6 @@ photo  Mountain.bike         =  Mountain bike
 fact   Mountain.bike.1       =  Used for cycling off-road                                                                   
 fact   Mountain.bike.2       =  Often has front and rear suspension                                                         
 fact   Mountain.bike.3       =  Uses stronger components than road bikes                                                    
-       
-photo  Oil.tanker            =  Oil tanker                                                                                  
-       url                   =  Tanker.jpg                                                                                  
-fact   Oil.tanker.1          =  Used to deliver fuel to petrol stations                                                     
-fact   Oil.tanker.2          =  Stainless steel tank to avoid corrosion                                                     
-fact   Oil.tanker.3          =  Internal compartments allows several different fuels to be carried at one time              
        
 photo  Open.top.bus          =  Open-top bus                                                                                
        url                   =  Open-topbus.jpg                                                                             
@@ -226,12 +216,6 @@ photo  Racing.bike           =  Racing bike
 fact   Racing.bike.1         =  Bicycle designed for competitive road cycling                                               
 fact   Racing.bike.2         =  Drop handle bars                                                                            
 fact   Racing.bike.3         =  Light and stiff frame                                                                       
-       
-photo  Rickshaw              =  Rickshaw                                                                                    
-       url                   =  Cyclerickshaw.jpg                                                                           
-fact   Rickshaw.1            =  Tricycle designed to carry passengers                                                       
-fact   Rickshaw.2            =  Tourist transportation in many cities                                                       
-fact   Rickshaw.3            =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
        
 photo  Road.bike             =  Road bike                                                                                   
        url                   =  Roadbike.jpg                                                                                
@@ -288,12 +272,6 @@ photo  Tipper.lorry          =  Tipper lorry
 fact   Tipper.lorry.1        =  Delivers dry cargo that flows when tipped                                                   
 fact   Tipper.lorry.2        =  Cargo box tipped by a hydraulic jack                                                        
 fact   Tipper.lorry.3        =  Tailgate is hinged at the top to let the cargo flow out evenly                              
-       
-photo  Tipper.truck          =  Tipper truck                                                                                
-       url                   =  Tipperlorry.jpg                                                                             
-fact   Tipper.truck.1        =  Delivers dry cargo that flows when tipped                                                   
-fact   Tipper.truck.2        =  Cargo box tipped by a hydraulic jack                                                        
-fact   Tipper.truck.3        =  Tailgate is hinged at the top to let the cargo flow out evenly                              
        
 photo  Tractor               =  Tractor                                                                                     
        url                   =  Tractor.jpg                                                                                 
