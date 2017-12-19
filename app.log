@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-12-19 at 12:19:16 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains
+2017-12-19 at 18:32:46 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains
 
-2017-12-19 at 12:19:19 Step: parseSource
-2017-12-19 at 12:19:19 <b>Good source file!</b>
-2017-12-19 at 12:19:19 Step: loadAssets
-2017-12-19 at 12:19:40 0 new, 190 reused audio files
-2017-12-19 at 12:19:40 Step: multiplyPhotosByFacts
-2017-12-19 at 12:19:40 Step: genJavaManifest
-2017-12-19 at 12:19:40 Step: genJsonManifest
-2017-12-19 at 12:19:40 Step: genGameHtml
-2017-12-19 at 12:19:41 Step: genHtmlAssets
-2017-12-19 at 12:19:41 Step: zipAssets
-2017-12-19 at 12:19:41 Step: compileApp
-2017-12-19 at 12:19:45 Step: copyLinksToGitHub
-2017-12-19 at 12:19:48 Step: copyFilesIntoPositionOnWebServer
+2017-12-19 at 18:32:50 Step: parseSource
+2017-12-19 at 18:32:50 <b>Good source file!</b>
+2017-12-19 at 18:32:50 Step: loadAssets
+2017-12-19 at 18:33:20 0 new, 190 reused audio files
+2017-12-19 at 18:33:20 Step: multiplyPhotosByFacts
+2017-12-19 at 18:33:20 Step: genJavaManifest
+2017-12-19 at 18:33:20 Step: genJsonManifest
+2017-12-19 at 18:33:20 Step: genGameHtml
+2017-12-19 at 18:33:20 Step: genHtmlAssets
+2017-12-19 at 18:33:20 Step: zipAssets
+2017-12-19 at 18:33:20 Step: compileApp
+2017-12-19 at 18:33:24 Step: copyLinksToGitHub
+2017-12-19 at 18:33:27 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -34,13 +34,13 @@ do {
                        log           => [
                                           "",
                                           "",
-                                          "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "libpng error: Read Error\nlibpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                                           "",
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenanCarsCranesTrucksTrains",
-                       parameters    => "1513685981,philiprbrenan,CarsCranesTrucksTrains,,http://www.appaapps.com,Cars, Cranes, Trucks, Trains",
+                       parameters    => "1513708400,philiprbrenan,CarsCranesTrucksTrains,,http://www.appaapps.com,Cars, Cranes, Trucks, Trains",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -100,20 +100,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-19 at 12:19:16 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains\n",
-                       "2017-12-19 at 12:19:19 Step: parseSource",
-                       "2017-12-19 at 12:19:19 <b>Good source file!</b>",
-                       "2017-12-19 at 12:19:19 Step: loadAssets",
-                       "2017-12-19 at 12:19:40 0 new, 190 reused audio files",
-                       "2017-12-19 at 12:19:40 Step: multiplyPhotosByFacts",
-                       "2017-12-19 at 12:19:40 Step: genJavaManifest",
-                       "2017-12-19 at 12:19:40 Step: genJsonManifest",
-                       "2017-12-19 at 12:19:40 Step: genGameHtml",
-                       "2017-12-19 at 12:19:41 Step: genHtmlAssets",
-                       "2017-12-19 at 12:19:41 Step: zipAssets",
-                       "2017-12-19 at 12:19:41 Step: compileApp",
-                       "2017-12-19 at 12:19:45 Step: copyLinksToGitHub",
-                       "2017-12-19 at 12:19:48 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-19 at 18:32:46 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/CarsCranesTrucksTrains\n",
+                       "2017-12-19 at 18:32:50 Step: parseSource",
+                       "2017-12-19 at 18:32:50 <b>Good source file!</b>",
+                       "2017-12-19 at 18:32:50 Step: loadAssets",
+                       "2017-12-19 at 18:33:20 0 new, 190 reused audio files",
+                       "2017-12-19 at 18:33:20 Step: multiplyPhotosByFacts",
+                       "2017-12-19 at 18:33:20 Step: genJavaManifest",
+                       "2017-12-19 at 18:33:20 Step: genJsonManifest",
+                       "2017-12-19 at 18:33:20 Step: genGameHtml",
+                       "2017-12-19 at 18:33:20 Step: genHtmlAssets",
+                       "2017-12-19 at 18:33:20 Step: zipAssets",
+                       "2017-12-19 at 18:33:20 Step: compileApp",
+                       "2017-12-19 at 18:33:24 Step: copyLinksToGitHub",
+                       "2017-12-19 at 18:33:27 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
@@ -125,14 +125,15 @@ do {
                          name => "Airplane",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 383,
-                           level     => 1,
-                           name      => "Airplane",
-                           title     => "Airplane",
+                           cmd => "photo",
+                           height => 383,
+                           level => 1,
+                           name => "Airplane",
+                           screenShot => 1,
+                           title => "Airplane",
                            titleFile => "Airplane",
-                           url       => "Airplane.jpg",
-                           width     => 512,
+                           url => "Airplane.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 10,
@@ -602,14 +603,15 @@ do {
                          name => "Crane",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 384,
-                           level     => 1,
-                           name      => "Crane",
-                           title     => "Crane",
+                           cmd => "photo",
+                           height => 384,
+                           level => 1,
+                           name => "Crane",
+                           screenShot => 1,
+                           title => "Crane",
                            titleFile => "Crane",
-                           url       => "Crane.jpg",
-                           width     => 512,
+                           url => "Crane.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 50,
@@ -748,14 +750,15 @@ do {
                          name => "Digger",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 384,
-                           level     => 1,
-                           name      => "Digger",
-                           title     => "Digger",
+                           cmd => "photo",
+                           height => 384,
+                           level => 1,
+                           name => "Digger",
+                           screenShot => 1,
+                           title => "Digger",
                            titleFile => "Digger",
-                           url       => "Digger.jpg",
-                           width     => 512,
+                           url => "Digger.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 62,
@@ -1186,14 +1189,15 @@ do {
                          name => "Fire.engine",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 385,
-                           level     => 1,
-                           name      => "Fire.engine",
-                           title     => "Fire engine",
+                           cmd => "photo",
+                           height => 385,
+                           level => 1,
+                           name => "Fire.engine",
+                           screenShot => 1,
+                           title => "Fire engine",
                            titleFile => "Fireengine",
-                           url       => "Fireengine.jpg",
-                           width     => 512,
+                           url => "Fireengine.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 98,
@@ -1787,14 +1791,15 @@ do {
                          name => "Land.Rover",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 385,
-                           level     => 1,
-                           name      => "Land.Rover",
-                           title     => "Land Rover",
+                           cmd => "photo",
+                           height => 385,
+                           level => 1,
+                           name => "Land.Rover",
+                           screenShot => 1,
+                           title => "Land Rover",
                            titleFile => "LandRover",
-                           url       => "LandRover.jpg",
-                           width     => 512,
+                           url => "LandRover.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 147,
@@ -1977,14 +1982,15 @@ do {
                          name => "Motorbike",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 383,
-                           level     => 1,
-                           name      => "Motorbike",
-                           title     => "Motorbike",
+                           cmd => "photo",
+                           height => 383,
+                           level => 1,
+                           name => "Motorbike",
+                           screenShot => 1,
+                           title => "Motorbike",
                            titleFile => "Motorbike",
-                           url       => "Motorbike.jpg",
-                           width     => 512,
+                           url => "Motorbike.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 165,
@@ -3240,14 +3246,15 @@ do {
                          name => "Tipper.lorry",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 384,
-                           level     => 1,
-                           name      => "Tipper.lorry",
-                           title     => "Tipper lorry",
+                           cmd => "photo",
+                           height => 384,
+                           level => 1,
+                           name => "Tipper.lorry",
+                           screenShot => 1,
+                           title => "Tipper lorry",
                            titleFile => "Tipperlorry",
-                           url       => "Tipperlorry.jpg",
-                           width     => 512,
+                           url => "Tipperlorry.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 270,
@@ -3386,14 +3393,15 @@ do {
                          name => "Train",
                          parsedKeys => bless({
                            aFewChars => undef,
-                           cmd       => "photo",
-                           height    => 385,
-                           level     => 1,
-                           name      => "Train",
-                           title     => "Train",
+                           cmd => "photo",
+                           height => 385,
+                           level => 1,
+                           name => "Train",
+                           screenShot => 1,
+                           title => "Train",
                            titleFile => "Train",
-                           url       => "Train.jpg",
-                           width     => 512,
+                           url => "Train.jpg",
+                           width => 512,
                          }, "ParsedKeys"),
                          say => undef,
                          start => 282,
