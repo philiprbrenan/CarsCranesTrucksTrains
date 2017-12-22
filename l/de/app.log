@@ -1,19 +1,19 @@
 Failed.
 
-2017-12-22 at 10:00:10 Generate AppaAppsPhotoApp version 20171222-8 philiprbrenan/CarsCranesTrucksTrains/l/de
+2017-12-22 at 10:03:13 Generate AppaAppsPhotoApp version 20171222-8 philiprbrenan/CarsCranesTrucksTrains/l/de
 
-2017-12-22 at 10:00:12 Step: parseSource
-2017-12-22 at 10:00:12 <b>Good source file!</b>
-2017-12-22 at 10:00:12 Step: loadAssets
-2017-12-22 at 10:00:20 0 new, 570 reused audio files
-2017-12-22 at 10:00:20 Step: multiplyPhotosByFacts
-2017-12-22 at 10:00:20 Step: genJavaManifest
-2017-12-22 at 10:00:20 Step: genJsonManifest
-2017-12-22 at 10:00:20 Step: genGameHtml
-2017-12-22 at 10:00:20 Step: genHtmlAssets
-2017-12-22 at 10:00:20 Step: zipAssets
-2017-12-22 at 10:00:21 Step: compileApp
-2017-12-22 at 10:00:21 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/philiprbrenanCarsCranesTrucksTrainslde.apk in build folder:
+2017-12-22 at 10:03:15 Step: parseSource
+2017-12-22 at 10:03:15 <b>Good source file!</b>
+2017-12-22 at 10:03:15 Step: loadAssets
+2017-12-22 at 10:03:21 0 new, 570 reused audio files
+2017-12-22 at 10:03:21 Step: multiplyPhotosByFacts
+2017-12-22 at 10:03:21 Step: genJavaManifest
+2017-12-22 at 10:03:21 Step: genJsonManifest
+2017-12-22 at 10:03:21 Step: genGameHtml
+2017-12-22 at 10:03:21 Step: genHtmlAssets
+2017-12-22 at 10:03:21 Step: zipAssets
+2017-12-22 at 10:03:22 Step: compileApp
+2017-12-22 at 10:03:22 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/philiprbrenanCarsCranesTrucksTrainslde.apk in build folder:
 /tmp/AppaAppsPhotoApp/users/philiprbrenan/CarsCranesTrucksTrains/l/de/
 Argument "/tmp/AppaAppsPhotoApp/build/res/drawable-mdpi/ic_launche..." isn't numeric in numeric lt (<) at /usr/local/share/perl/5.22.1/Android/Build.pm line 215.
 
@@ -28,7 +28,7 @@ do {
                        debug         => 0,
                        device        => "-s emulator-5554",
                        fastIcons     => undef,
-                       home          => "/root/",
+                       home          => "/home/phil/AppaAppsPhotoApp/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -36,7 +36,7 @@ do {
                        libs          => [],
                        log           => [],
                        package       => "com.appaapps.photoapp.philiprbrenanCarsCranesTrucksTrainslde",
-                       parameters    => "1513936821,philiprbrenan,CarsCranesTrucksTrains,l/de,http://www.appaapps.com,Cars, Cranes, Trucks, Trains in German",
+                       parameters    => "1513937002,philiprbrenan,CarsCranesTrucksTrains,l/de,http://www.appaapps.com,Cars, Cranes, Trucks, Trains in German",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -96,19 +96,19 @@ do {
     error         => 1,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-22 at 10:00:10 Generate AppaAppsPhotoApp version 20171222-8 philiprbrenan/CarsCranesTrucksTrains/l/de\n",
-                       "2017-12-22 at 10:00:12 Step: parseSource",
-                       "2017-12-22 at 10:00:12 <b>Good source file!</b>",
-                       "2017-12-22 at 10:00:12 Step: loadAssets",
-                       "2017-12-22 at 10:00:20 0 new, 570 reused audio files",
-                       "2017-12-22 at 10:00:20 Step: multiplyPhotosByFacts",
-                       "2017-12-22 at 10:00:20 Step: genJavaManifest",
-                       "2017-12-22 at 10:00:20 Step: genJsonManifest",
-                       "2017-12-22 at 10:00:20 Step: genGameHtml",
-                       "2017-12-22 at 10:00:20 Step: genHtmlAssets",
-                       "2017-12-22 at 10:00:20 Step: zipAssets",
-                       "2017-12-22 at 10:00:21 Step: compileApp",
-                       "2017-12-22 at 10:00:21 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/philiprbrenanCarsCranesTrucksTrainslde.apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/CarsCranesTrucksTrains/l/de/\nArgument \"/tmp/AppaAppsPhotoApp/build/res/drawable-mdpi/ic_launche...\" isn't numeric in numeric lt (<) at /usr/local/share/perl/5.22.1/Android/Build.pm line 215.\n",
+                       "\n2017-12-22 at 10:03:13 Generate AppaAppsPhotoApp version 20171222-8 philiprbrenan/CarsCranesTrucksTrains/l/de\n",
+                       "2017-12-22 at 10:03:15 Step: parseSource",
+                       "2017-12-22 at 10:03:15 <b>Good source file!</b>",
+                       "2017-12-22 at 10:03:15 Step: loadAssets",
+                       "2017-12-22 at 10:03:21 0 new, 570 reused audio files",
+                       "2017-12-22 at 10:03:21 Step: multiplyPhotosByFacts",
+                       "2017-12-22 at 10:03:21 Step: genJavaManifest",
+                       "2017-12-22 at 10:03:21 Step: genJsonManifest",
+                       "2017-12-22 at 10:03:21 Step: genGameHtml",
+                       "2017-12-22 at 10:03:21 Step: genHtmlAssets",
+                       "2017-12-22 at 10:03:21 Step: zipAssets",
+                       "2017-12-22 at 10:03:22 Step: compileApp",
+                       "2017-12-22 at 10:03:22 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/philiprbrenanCarsCranesTrucksTrainslde.apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/CarsCranesTrucksTrains/l/de/\nArgument \"/tmp/AppaAppsPhotoApp/build/res/drawable-mdpi/ic_launche...\" isn't numeric in numeric lt (<) at /usr/local/share/perl/5.22.1/Android/Build.pm line 215.\n",
                      ],
     parsedCmds    => [
                        'fix',
