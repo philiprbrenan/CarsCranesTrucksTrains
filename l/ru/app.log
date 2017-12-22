@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-12-22 at 14:20:41 Generate AppaAppsPhotoApp version 20171222-10 philiprbrenan/CarsCranesTrucksTrains/l/ru
+2017-12-22 at 14:36:36 Generate AppaAppsPhotoApp version 20171222-10 philiprbrenan/CarsCranesTrucksTrains/l/ru
 
-2017-12-22 at 14:20:45 Step: parseSource
-2017-12-22 at 14:20:45 <b>Good source file!</b>
-2017-12-22 at 14:20:45 Step: loadAssets
-2017-12-22 at 14:27:56 380 new, 0 reused audio files
-2017-12-22 at 14:27:56 Step: multiplyPhotosByFacts
-2017-12-22 at 14:27:56 Step: genJavaManifest
-2017-12-22 at 14:27:56 Step: genJsonManifest
-2017-12-22 at 14:27:56 Step: genGameHtml
-2017-12-22 at 14:27:56 Step: genHtmlAssets
-2017-12-22 at 14:27:56 Step: zipAssets
-2017-12-22 at 14:27:56 Step: compileApp
-2017-12-22 at 14:28:11 Step: copyLinksToGitHub
-2017-12-22 at 14:28:15 Step: copyFilesIntoPositionOnWebServer
+2017-12-22 at 14:36:41 Step: parseSource
+2017-12-22 at 14:36:41 <b>Good source file!</b>
+2017-12-22 at 14:36:41 Step: loadAssets
+2017-12-22 at 14:37:02 0 new, 380 reused audio files
+2017-12-22 at 14:37:02 Step: multiplyPhotosByFacts
+2017-12-22 at 14:37:02 Step: genJavaManifest
+2017-12-22 at 14:37:02 Step: genJsonManifest
+2017-12-22 at 14:37:02 Step: genGameHtml
+2017-12-22 at 14:37:02 Step: genHtmlAssets
+2017-12-22 at 14:37:02 Step: zipAssets
+2017-12-22 at 14:37:02 Step: compileApp
+2017-12-22 at 14:37:06 Step: copyLinksToGitHub
+2017-12-22 at 14:37:10 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -34,7 +34,7 @@ do {
                        libs          => [],
                        log           => [],
                        package       => "com.appaapps.photoapp.philiprbrenanCarsCranesTrucksTrainslru",
-                       parameters    => "1513952876,philiprbrenan,CarsCranesTrucksTrains,l/ru,http://www.appaapps.com,Cars, Cranes, Trucks, Trains in Russian",
+                       parameters    => "1513953422,philiprbrenan,CarsCranesTrucksTrains,l/ru,http://www.appaapps.com,Cars, Cranes, Trucks, Trains in Russian",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -96,20 +96,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-22 at 14:20:41 Generate AppaAppsPhotoApp version 20171222-10 philiprbrenan/CarsCranesTrucksTrains/l/ru\n",
-                       "2017-12-22 at 14:20:45 Step: parseSource",
-                       "2017-12-22 at 14:20:45 <b>Good source file!</b>",
-                       "2017-12-22 at 14:20:45 Step: loadAssets",
-                       "2017-12-22 at 14:27:56 380 new, 0 reused audio files",
-                       "2017-12-22 at 14:27:56 Step: multiplyPhotosByFacts",
-                       "2017-12-22 at 14:27:56 Step: genJavaManifest",
-                       "2017-12-22 at 14:27:56 Step: genJsonManifest",
-                       "2017-12-22 at 14:27:56 Step: genGameHtml",
-                       "2017-12-22 at 14:27:56 Step: genHtmlAssets",
-                       "2017-12-22 at 14:27:56 Step: zipAssets",
-                       "2017-12-22 at 14:27:56 Step: compileApp",
-                       "2017-12-22 at 14:28:11 Step: copyLinksToGitHub",
-                       "2017-12-22 at 14:28:15 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-22 at 14:36:36 Generate AppaAppsPhotoApp version 20171222-10 philiprbrenan/CarsCranesTrucksTrains/l/ru\n",
+                       "2017-12-22 at 14:36:41 Step: parseSource",
+                       "2017-12-22 at 14:36:41 <b>Good source file!</b>",
+                       "2017-12-22 at 14:36:41 Step: loadAssets",
+                       "2017-12-22 at 14:37:02 0 new, 380 reused audio files",
+                       "2017-12-22 at 14:37:02 Step: multiplyPhotosByFacts",
+                       "2017-12-22 at 14:37:02 Step: genJavaManifest",
+                       "2017-12-22 at 14:37:02 Step: genJsonManifest",
+                       "2017-12-22 at 14:37:02 Step: genGameHtml",
+                       "2017-12-22 at 14:37:02 Step: genHtmlAssets",
+                       "2017-12-22 at 14:37:02 Step: zipAssets",
+                       "2017-12-22 at 14:37:02 Step: compileApp",
+                       "2017-12-22 at 14:37:06 Step: copyLinksToGitHub",
+                       "2017-12-22 at 14:37:10 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
