@@ -1,58 +1,11 @@
 Failed.
 
-2017-12-23 at 19:27:02 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es
+2017-12-23 at 19:30:30 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es
 
-2017-12-23 at 19:27:06 Step: parseSource
-2017-12-23 at 19:27:06 Choose at least one of the "url" or "aFewChars" keywords on line(s) 5
+2017-12-23 at 19:30:35 Step: parseSource
+2017-12-23 at 19:30:35 Choose at least one of the "url" or "aFewChars" keywords on line(s) 5
 Choose at least one of the "url" or "aFewChars" keywords on line(s) 10
 Choose at least one of the "url" or "aFewChars" keywords on line(s) 15
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 18
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 23
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 28
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 33
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 38
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 43
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 48
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 53
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 58
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 63
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 68
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 73
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 78
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 83
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 88
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 93
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 98
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 105
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 109
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 114
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 119
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 123
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 126
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 130
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 133
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 138
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 145
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 150
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 155
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 159
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 164
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 169
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 174
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 179
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 184
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 189
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 193
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 198
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 201
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 206
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 210
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 215
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 220
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 225
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 230
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 235
-Choose at least one of the "url" or "aFewChars" keywords on line(s) 240
 
 --------------------------------------------------------------------------------
 do {
@@ -80,11 +33,11 @@ do {
       start => 1,
       title => "Cars, Cranes, Trucks, Trains in Spanish",
     }, "ParsedCmd"),
-    error => 50,
+    error => 3,
     log => [
-      "\n2017-12-23 at 19:27:02 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es\n",
-      "2017-12-23 at 19:27:06 Step: parseSource",
-      "2017-12-23 at 19:27:06 Choose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 5\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 10\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 15\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 18\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 23\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 28\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 33\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 38\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 43\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 48\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 53\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 58\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 63\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 68\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 73\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 78\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 83\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 88\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 93\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 98\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 105\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 109\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 114\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 119\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 123\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 126\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 130\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 133\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 138\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 145\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 150\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 155\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 159\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 164\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 169\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 174\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 179\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 184\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 189\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 193\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 198\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 201\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 206\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 210\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 215\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 220\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 225\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 230\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 235\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 240\n",
+      "\n2017-12-23 at 19:30:30 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es\n",
+      "2017-12-23 at 19:30:35 Step: parseSource",
+      "2017-12-23 at 19:30:35 Choose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 5\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 10\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 15\n",
     ],
     parsedCmds => [
       'fix',
