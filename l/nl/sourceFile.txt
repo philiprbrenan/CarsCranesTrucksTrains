@@ -1,101 +1,125 @@
 app    CarsCranesTrucksTrains.l.nl  =  Cars, Cranes, Trucks, Trains in Dutch                                                                                 
+       author                       =  philiprbrenan                                                                                                         
        description                  =  Meer informatie over auto's, kranen, vrachtwagens en treinen                                                          
+       email                        =  philiprbrenan@gmail.com                                                                                               
+       emphasis                     =                                                                                                                    15  
+       icon                         =  icon.png                                                                                                              
        language                     =  nl                                                                                                                    
        
 photo  Airplane                     =  Vliegtuig                                                                                                             
+       url                          =  Airplane.jpg                                                                                                          
 fact   Airplane.1                   =  Gevlogen door een piloot                                                                                              
 fact   Airplane.2                   =  Vliegt mensen en vracht van de ene plaats naar de andere                                                              
 fact   Airplane.3                   =  Neemt afstand en landt op luchthavens                                                                                 
        
 photo  Ambulance                    =  Ambulance                                                                                                             
+       url                          =  Ambulance.jpg                                                                                                         
 fact   Ambulance.1                  =  Brengt mensen snel naar het ziekenhuis                                                                                
 fact   Ambulance.2                  =  Sirene, zwaailichten en goed zichtbare markeringen                                                                    
 fact   Ambulance.3                  =  Biedt medische hulpdiensten en paramedici voor ongevallen                                                             
        
 photo  Amphibious.vehicle           =  Amfibievoertuig                                                                                                       
+       url                          =  Amphibiousvehicle.jpg                                                                                                 
 fact   Amphibious.vehicle.1         =  Kan over land en water rijden                                                                                         
        
 photo  Auto.rickshaw                =  Auto-riksja                                                                                                           
+       url                          =  Autorickshaw.jpg                                                                                                      
 fact   Auto.rickshaw.1              =  Een riksja met een motor                                                                                              
 fact   Auto.rickshaw.2              =  Essentiële vorm van stedelijk vervoer in veel ontwikkelingslanden                                                     
 fact   Auto.rickshaw.3              =  Het woord riksja komt van de Japanse uitdrukking voor een door mensen aangedreven voertuig                            
        
 photo  Caravan                      =  Caravan                                                                                                               
+       url                          =  Caravan.jpg                                                                                                           
 fact   Caravan.1                    =  Comfortabeler en beter beschermd dan een tent                                                                         
 fact   Caravan.2                    =  Gesleept achter een auto om 's nachts een slaapplaats te bieden                                                       
 fact   Caravan.3                    =  Een tijdelijk huis voor mensen op vakantie                                                                            
        
 photo  Cement.mixer                 =  Cement mixer                                                                                                          
+       url                          =  Cementmixer.jpg                                                                                                       
 fact   Cement.mixer.1               =  Mengt beton tijdens transport naar bouwterreinen                                                                      
 fact   Cement.mixer.2               =  Trommel draait tijdens transport om de betonvloeistof te behouden                                                     
 fact   Cement.mixer.3               =  Snelheid beperkt in het VK tot 56 mijl per uur                                                                        
        
 photo  Combine.Harvester            =  Maaidorser                                                                                                            
+       url                          =  CombineHarvester.jpg                                                                                                  
 fact   Combine.Harvester.1          =  Oogsten graangewassen op grote schaal                                                                                 
 fact   Combine.Harvester.2          =  Combineert maaien, dorsen en wannen                                                                                   
 fact   Combine.Harvester.3          =  Een van de belangrijkste arbeidsbesparende uitvindingen in de landbouw                                                
        
 photo  Crane                        =  Kraan                                                                                                                 
+       url                          =  Crane.jpg                                                                                                             
 fact   Crane.1                      =  Gebruikt om zware dingen op te tillen en te laten zakken                                                              
 fact   Crane.2                      =  Kan worden gebruikt om zware dingen over korte afstanden horizontaal te verplaatsen                                   
 fact   Crane.3                      =  Gebruikt om vrachtwagens te laden en te lossen                                                                        
        
 photo  Cycle.rickshaw               =  Cyclusrikaw                                                                                                           
+       url                          =  Cyclerickshaw.jpg                                                                                                     
 fact   Cycle.rickshaw.1             =  Driewieler ontworpen om passagiers te vervoeren                                                                       
 fact   Cycle.rickshaw.2             =  Toeristisch vervoer in veel steden                                                                                    
 fact   Cycle.rickshaw.3             =  Het woord riksja komt van de Japanse uitdrukking voor een door mensen aangedreven voertuig                            
        
 photo  Digger                       =  Graver                                                                                                                
+       url                          =  Digger.jpg                                                                                                            
 fact   Digger.1                     =  Vindt snel gaten en greppels                                                                                          
 fact   Digger.2                     =  Arm en emmer verplaatst door hydraulische druk                                                                        
 fact   Digger.3                     =  Ritten op rupsbanden                                                                                                  
        
 photo  Double.decker.bus            =  Dubbeldekker                                                                                                          
+       url                          =  Double-deckerbus.jpg                                                                                                  
 fact   Double.decker.bus.1          =  Bus met twee decks                                                                                                    
 fact   Double.decker.bus.2          =  De in Londen gebruikte zijn rood geverfd                                                                              
 fact   Double.decker.bus.3          =  Gebruikt in steden omdat ze manoeuvreerbaar zijn                                                                      
        
 photo  Dumper.truck                 =  Afvalwagen                                                                                                            
+       url                          =  Dumpertruck.jpg                                                                                                       
 fact   Dumper.truck.1               =  Transporteert zand, grind of vuil op bouwlocaties                                                                     
 fact   Dumper.truck.2               =  De lading wordt getipt door het ene uiteinde van de stortbak omhoog te brengen                                        
 fact   Dumper.truck.3               =  Wordt bestuurd door de hele cabine te draaien om het rijden op ruwe ondergrond te vergemakkelijken                    
        
 photo  Dustcart                     =  vuilniswagen                                                                                                          
+       url                          =  Dustcart.jpg                                                                                                          
 fact   Dustcart.1                   =  Verzamelt onzin                                                                                                       
 fact   Dustcart.2                   =  Transporteert afval naar vuilnisbelten                                                                                
 fact   Dustcart.3                   =  Plet het vuilnis om reizen te redden                                                                                  
        
 photo  Electric.tram                =  Elektrische tram                                                                                                      
+       url                          =  Electrictram.jpg                                                                                                      
 fact   Electric.tram.1              =  Loopt op spoorlijnen langs openbare straten                                                                           
 fact   Electric.tram.2              =  Elektrisch gevoed door een stroomafnemer boven het hoofd                                                              
 fact   Electric.tram.3              =  Stiller en efficiënter dan bussen voor het vervoeren van mensen                                                       
        
 photo  Estate.car                   =  Estate auto                                                                                                           
+       url                          =  Estatecar.jpg                                                                                                         
 fact   Estate.car.1                 =  Heeft een bagageruimte achter de passagiersstoelen                                                                    
 fact   Estate.car.2                 =  Bagageruimte is toegankelijk via een verticale deur aan de achterkant                                                 
 fact   Estate.car.3                 =  De achterkant van de passagiersstoelen kan naar beneden worden geklapt om meer bagageruimte te creëren                
        
 photo  Fire.engine                  =  Brandweerwagen                                                                                                        
+       url                          =  Fireengine.jpg                                                                                                        
 fact   Fire.engine.1                =  Vrachtwagen gebruikt voor het bestrijden van bosbranden                                                               
 fact   Fire.engine.2                =  Transporteert brandweermannen naar vuren                                                                              
 fact   Fire.engine.3                =  Transporteert water en apparatuur om branden te bestrijden                                                            
        
 photo  Flatbed.truck                =  Flatbed vrachtwagen                                                                                                   
+       url                          =  Flatbedtruck.jpg                                                                                                      
 fact   Flatbed.truck.1              =  Vrachtwagen zonder zijkanten of dak                                                                                   
 fact   Flatbed.truck.2              =  Gebruikt om gravers en andere zware apparatuur te dragen                                                              
 fact   Flatbed.truck.3              =  Gemakkelijker te laden en te lossen dan een ingesloten vrachtwagen                                                    
        
 photo  Forklift.truck               =  Vorkheftruck                                                                                                          
+       url                          =  Forklifttruck.jpg                                                                                                     
 fact   Forklift.truck.1             =  In wezen voor het verplaatsen van materialen in magazijnen                                                            
 fact   Forklift.truck.2             =  Laadt en ontlaadt vracht in magazijnen                                                                                
 fact   Forklift.truck.3             =  Heft materialen op die op pallets zijn gestapeld                                                                      
        
 photo  Hatchback                    =  hatchback                                                                                                             
+       url                          =  Hatchback.jpg                                                                                                         
 fact   Hatchback.1                  =  Bagageruimte is toegankelijk via een schuine deur aan de achterzijde                                                  
 fact   Hatchback.2                  =  Heeft een bagageruimte achter de passagiersstoelen                                                                    
 fact   Hatchback.3                  =  De achterkant van de passagiersstoelen kan naar beneden worden geklapt om meer bagageruimte te creëren                
        
 photo  Helicopter                   =  Helikopter                                                                                                            
+       url                          =  Helicopter.jpg                                                                                                        
 fact   Helicopter.1                 =  Neemt afstand en landt verticaal                                                                                      
 fact   Helicopter.2                 =  Hovers                                                                                                                
 fact   Helicopter.3                 =  Vliegt achteruit                                                                                                      
@@ -103,39 +127,48 @@ fact   Helicopter.4                 =  Gevlogen door een piloot
 fact   Helicopter.5                 =  Vliegt mensen en vracht van de ene plaats naar de andere                                                              
        
 photo  Horse.and.cart               =  Paard en wagen                                                                                                        
+       url                          =  Horseandcart.jpg                                                                                                      
 fact   Horse.and.cart.1             =  Heeft twee wielen en wordt getrokken door een paard                                                                   
 fact   Horse.and.cart.2             =  In continu gebruik sinds de uitvinding van het wiel 7000 jaar geleden                                                 
        
 photo  Ice.cream.van                =  IJsje                                                                                                                 
+       url                          =  Ice-creamvan.jpg                                                                                                      
 fact   Ice.cream.van.1              =  Verkoopt ijs                                                                                                          
 fact   Ice.cream.van.2              =  Vooral in de zomer gezien                                                                                             
 fact   Ice.cream.van.3              =  Helder ingericht met foto's van ijs                                                                                   
        
 photo  Jeep                         =  Jeep                                                                                                                  
+       url                          =  Jeep.jpg                                                                                                              
 fact   Jeep.1                       =  Dochteronderneming van de Italiaanse autofabrikant Fiat                                                               
 fact   Jeep.2                       =  Het oudste merk voor off-road voertuigen en sportvoertuigen                                                           
 fact   Jeep.3                       =  Belangrijkste lichtgewicht voertuig met vierwielaandrijving van het Amerikaanse leger tijdens de Tweede Wereldoorlog  
        
 photo  Land.Rover                   =  Landrover                                                                                                             
+       url                          =  LandRover.jpg                                                                                                         
 fact   Land.Rover.1                 =  Tweede oudste merk met vierwielaandrijving                                                                            
 fact   Land.Rover.2                 =  Dochteronderneming van Tata Motors, India                                                                             
        
 photo  Large.van                    =  Grote bestelwagen                                                                                                     
+       url                          =  Largevan.jpg                                                                                                          
 fact   Large.van.1                  =  Bedrijfsvoertuig ontworpen om lichtgewicht goederen te leveren                                                        
        
 photo  Lorry                        =  Vrachtwagen                                                                                                           
+       url                          =  Lorry.jpg                                                                                                             
 fact   Lorry.1                      =  Voert lading over de weg                                                                                              
 fact   Lorry.2                      =  Cabine gemonteerd over de motor                                                                                       
        
 photo  Minibus                      =  Minibus                                                                                                               
+       url                          =  Minibus.jpg                                                                                                           
 fact   Minibus.1                    =  Kleine bus                                                                                                            
        
 photo  Motorbike                    =  motorfiets                                                                                                            
+       url                          =  Motorbike.jpg                                                                                                         
 fact   Motorbike.1                  =  Motorvoertuig op twee wielen                                                                                          
 fact   Motorbike.2                  =  Een van de meest betaalbare vormen van gemotoriseerd transport                                                        
 fact   Motorbike.3                  =  Meest gebruikelijke vorm van transport in Vietnam                                                                     
        
 photo  Motorhome                    =  Camper                                                                                                                
+       url                          =  Motorhome.jpg                                                                                                         
 fact   Motorhome.1                  =  Comfortabeler, maar duurder en minder manoeuvreerbaar dan een campervan                                               
 fact   Motorhome.2                  =  Aan boord van de keuken, badkamer en slaapkamer                                                                       
 fact   Motorhome.3                  =  Gemotoriseerd huis                                                                                                    
@@ -143,101 +176,122 @@ fact   Motorhome.4                  =  Comfortabeler en beter beschermd dan een 
 fact   Motorhome.5                  =  Een tijdelijk huis voor mensen op vakantie                                                                            
        
 photo  Mountain.bike                =  Mountain bike                                                                                                         
+       url                          =  Mountainbike.jpg                                                                                                      
 fact   Mountain.bike.1              =  Wordt gebruikt voor off-road fietsen                                                                                  
 fact   Mountain.bike.2              =  Heeft vaak voor- en achtervering                                                                                      
 fact   Mountain.bike.3              =  Gebruikt sterkere componenten dan racefietsen                                                                         
        
 photo  Open.top.bus                 =  Bus met open dak                                                                                                      
+       url                          =  Open-topbus.jpg                                                                                                       
 fact   Open.top.bus.1               =  Dubbeldekkerbus zonder dak                                                                                            
 fact   Open.top.bus.2               =  Gebruikt om sight seers te vervoeren op tochten door steden                                                           
 fact   Open.top.bus.3               =  Ononderbroken uitzicht vanuit een hoog gezichtspunt                                                                   
        
 photo  Pakistani.lorry              =  Pakistaanse vrachtwagen                                                                                               
+       url                          =  Pakistanilorry.jpg                                                                                                    
 fact   Pakistani.lorry.1            =  Briljant gedecoreerde vrachtwagen gebruikt in Pakistan                                                                
 fact   Pakistani.lorry.2            =  Transporteert goederen en mensen langs de Karakoram Highway                                                           
        
 photo  Pickup.truck                 =  Pick-up truck                                                                                                         
+       url                          =  Pickuptruck.jpg                                                                                                       
 fact   Pickup.truck.1               =  Licht motorvoertuig met een bagageruimte achteraan                                                                    
 fact   Pickup.truck.2               =  Kosten US $ 281 toen het voor het eerst werd geproduceerd in 1925                                                     
 fact   Pickup.truck.3               =  Gebruikelijk in Texas                                                                                                 
        
 photo  Police.car                   =  Politieauto                                                                                                           
+       url                          =  Policecar.jpg                                                                                                         
 fact   Police.car.1                 =  Grondvoertuig dat door de politie wordt gebruikt om te helpen bij hun taken                                           
 fact   Police.car.2                 =  Sirene, zwaailichten en goed zichtbare markeringen                                                                    
 fact   Police.car.3                 =  Patrouilles om criminaliteit te ontmoedigen                                                                           
        
 photo  Quad.bike                    =  Quad                                                                                                                  
+       url                          =  Quadbike.jpg                                                                                                          
 fact   Quad.bike.1                  =  Hoog aantal doden en gewonden door verwaarloosbare bescherming van de bestuurder                                      
 fact   Quad.bike.2                  =  Voertuig met vier wielen en een massa van minder dan 550 kg                                                           
 fact   Quad.bike.3                  =  Gebruikt door boeren om snel ruw terrein te doorkruisen                                                               
        
 photo  Racing.bike                  =  Race fiets                                                                                                            
+       url                          =  Racingbike.jpg                                                                                                        
 fact   Racing.bike.1                =  Fiets ontworpen voor competitief wielrennen op de weg                                                                 
 fact   Racing.bike.2                =  Laat handvatten vallen                                                                                                
 fact   Racing.bike.3                =  Licht en stijf frame                                                                                                  
        
 photo  Road.bike                    =  Racefiets                                                                                                             
+       url                          =  Roadbike.jpg                                                                                                          
 fact   Road.bike.1                  =  Er zijn er twee keer zoveel in gebruik als er auto's zijn                                                             
 fact   Road.bike.2                  =  Populaire vorm van recreatie                                                                                          
 fact   Road.bike.3                  =  Meest efficiënte door mensen aangedreven transportmiddelen                                                            
        
 photo  Road.sweeper                 =  Straatveger                                                                                                           
+       url                          =  Roadsweeper.jpg                                                                                                       
 fact   Road.sweeper.1               =  Reinigt de straten in steden                                                                                          
 fact   Road.sweeper.2               =  Veegt en zuigt afval op                                                                                               
 fact   Road.sweeper.3               =  Vermindert watervervuiling door afval te verwijderen dat anders zou oplossen in de regen                              
        
 photo  Road.train                   =  Wegtrein                                                                                                              
+       url                          =  Roadtrain.jpg                                                                                                         
 fact   Road.train.1                 =  Vrachtwagen die één of meerdere aanhangwagens trekt                                                                   
 fact   Road.train.2                 =  Heeft lange rechte wegen nodig                                                                                        
        
 photo  Scooter                      =  Scooter                                                                                                               
+       url                          =  Scooter.jpg                                                                                                           
 fact   Scooter.1                    =  Motorfiets met een opstapframe en een platform voor de voeten van de rijder.                                          
 fact   Scooter.2                    =  Motor en versnellingen zijn bevestigd aan de achteras                                                                 
 fact   Scooter.3                    =  Persoonlijk vervoer met weinig vermogen                                                                               
        
 photo  Single.decker.bus            =  Enkeldekker bus                                                                                                       
+       url                          =  Single-deckerbus.jpg                                                                                                  
 fact   Single.decker.bus.1          =  Bus met een enkel dek voor passagiers                                                                                 
        
 photo  Small.van                    =  Klein busje                                                                                                           
+       url                          =  Smallvan.jpg                                                                                                          
 fact   Small.van.1                  =  Verkorte versie van het woord caravan - een bedekt voertuig                                                           
 fact   Small.van.2                  =  Uitgerust met bagagerekken achter de voorstoelen                                                                      
 fact   Small.van.3                  =  Afgeleid van personenauto's zonder achterste zijruiten                                                                
        
 photo  Sports.car                   =  Sportwagen                                                                                                            
+       url                          =  Sportscar.jpg                                                                                                         
 fact   Sports.car.1                 =  Kleine auto met twee zitplaatsen en twee deuren                                                                       
 fact   Sports.car.2                 =  Ontworpen voor snelheid en handling                                                                                   
        
 photo  Tanker                       =  tankschip                                                                                                             
+       url                          =  Tanker.jpg                                                                                                            
 fact   Tanker.1                     =  Wordt gebruikt om brandstof af te leveren bij benzinestations                                                         
 fact   Tanker.2                     =  Roestvrijstalen tank om corrosie te voorkomen                                                                         
 fact   Tanker.3                     =  Interne compartimenten zorgen ervoor dat verschillende brandstoffen tegelijkertijd kunnen worden vervoerd             
        
 photo  Taxi                         =  Taxi                                                                                                                  
+       url                          =  Taxi.jpg                                                                                                              
 fact   Taxi.1                       =  Auto en chauffeur ingehuurd om korte ritten te maken                                                                  
 fact   Taxi.2                       =  De kosten van elke rit worden gemeten met een meter                                                                   
 fact   Taxi.3                       =  Helder geel geschilderd in New York.                                                                                  
        
 photo  Tipper.lorry                 =  Kipper vrachtwagen                                                                                                    
+       url                          =  Tipperlorry.jpg                                                                                                       
 fact   Tipper.lorry.1               =  Levert droge lading die stroomt als deze kantelt                                                                      
 fact   Tipper.lorry.2               =  Ladekast getipt door een hydraulische krik                                                                            
 fact   Tipper.lorry.3               =  De achterklep is scharnierend aan de bovenkant om de lading gelijkmatig te laten uitstromen                           
        
 photo  Tractor                      =  Tractor                                                                                                               
+       url                          =  Tractor.jpg                                                                                                           
 fact   Tractor.1                    =  Landbouwvoertuig dat de landbouw mechaniseert                                                                         
 fact   Tractor.2                    =  Trekt een ploeg                                                                                                       
 fact   Tractor.3                    =  Maakt landbouwmachines mogelijk                                                                                       
        
 photo  Train                        =  Trein                                                                                                                 
+       url                          =  Train.jpg                                                                                                             
 fact   Train.1                      =  Twee of meer rollend materieel aan elkaar gekoppeld, waarvan er tenminste één een locomotief is                       
 fact   Train.2                      =  Transporteert passagiers of vracht langs spoorlijnen                                                                  
 fact   Train.3                      =  Neemt passagiers op en deponeert ze op stations                                                                       
        
 photo  Vintage.bus                  =  Vintage bus                                                                                                           
+       url                          =  Vintagebus.jpg                                                                                                        
 fact   Vintage.bus.1                =  Bus uit vroegere tijd hersteld naar originele staat                                                                   
 fact   Vintage.bus.2                =  Gebruikt voor toerisme                                                                                                
 fact   Vintage.bus.3                =  Weergegeven op rally's en tentoonstellingen                                                                           
        
 photo  Vintage.car                  =  Vintage auto                                                                                                          
+       url                          =  Vintagecar.jpg                                                                                                        
 fact   Vintage.car.1                =  Auto uit een eerdere tijd hersteld naar originele staat                                                               
 fact   Vintage.car.2                =  Gebruikt voor bruiloften                                                                                              
 fact   Vintage.car.3                =  Weergegeven op rally's en tentoonstellingen                                                                           
