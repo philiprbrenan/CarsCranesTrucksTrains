@@ -1,101 +1,125 @@
 app    CarsCranesTrucksTrains.l.tr  =  Cars, Cranes, Trucks, Trains in Turkish                                                  
+       author                       =  philiprbrenan                                                                            
        description                  =  Otomobiller, vinçler, kamyonlar ve trenler hakkında bilgi edinin                         
+       email                        =  philiprbrenan@gmail.com                                                                  
+       emphasis                     =                                                                                       15  
+       icon                         =  icon.png                                                                                 
        language                     =  tr                                                                                       
        
 photo  Airplane                     =  Uçak                                                                                     
+       url                          =  Airplane.jpg                                                                             
 fact   Airplane.1                   =  Bir pilot tarafından uçuruldu                                                            
 fact   Airplane.2                   =  İnsanları ve kargoları bir yerden diğerine uçar                                          
 fact   Airplane.3                   =  Havaalanında kalkıyor ve topraklarda                                                     
        
 photo  Ambulance                    =  Ambulans                                                                                 
+       url                          =  Ambulance.jpg                                                                            
 fact   Ambulance.1                  =  İnsanları hızla hastaneye götürür                                                        
 fact   Ambulance.2                  =  Siren, yanıp sönen ışıklar ve görünür işaretler                                          
 fact   Ambulance.3                  =  Acil tıbbi malzeme ve paramedikleri kazalara taşır.                                      
        
 photo  Amphibious.vehicle           =  Amfibi araç                                                                              
+       url                          =  Amphibiousvehicle.jpg                                                                    
 fact   Amphibious.vehicle.1         =  Kara ve suyun üzerinden geçebilirsin                                                     
        
 photo  Auto.rickshaw                =  Otomatik çekçek                                                                          
+       url                          =  Autorickshaw.jpg                                                                         
 fact   Auto.rickshaw.1              =  Bir motorlu çekçek                                                                       
 fact   Auto.rickshaw.2              =  Birçok gelişmekte olan ülkede kentsel ulaşımın temel biçimi                              
 fact   Auto.rickshaw.3              =  Çekçek kelimesi insan gücüyle çalışan araç için Japon deyiminden geliyor                 
        
 photo  Caravan                      =  Karavan                                                                                  
+       url                          =  Caravan.jpg                                                                              
 fact   Caravan.1                    =  Çadırdan daha rahat ve korunaklı                                                         
 fact   Caravan.2                    =  Gece uyuacak bir yer sağlamak için arabanın arkasında çekildi                            
 fact   Caravan.3                    =  Tatilde insanlar için geçici bir ev                                                      
        
 photo  Cement.mixer                 =  Çimento karıştırıcı                                                                      
+       url                          =  Cementmixer.jpg                                                                          
 fact   Cement.mixer.1               =  Betonun inşaat alanlarına taşınırken karıştırılmasını sağlar.                            
 fact   Cement.mixer.2               =  Beton sıvıyı tutmak için nakliye esnasında dönen silindir                                
 fact   Cement.mixer.3               =  İngiltere'de saatte 56 mil hızla sınırlı                                                 
        
 photo  Combine.Harvester            =  Biçer Biçer                                                                              
+       url                          =  CombineHarvester.jpg                                                                     
 fact   Combine.Harvester.1          =  Tahıl mahsullerini büyük ölçekte hasat eder                                              
 fact   Combine.Harvester.2          =  Biçme, harmanlama ve kazıma kombinasyonu                                                 
 fact   Combine.Harvester.3          =  İşgücünden tasarruf sağlayan en önemli buluşlardan biri olan tarımda                     
        
 photo  Crane                        =  Vinç                                                                                     
+       url                          =  Crane.jpg                                                                                
 fact   Crane.1                      =  Ağır şeyleri kaldırmak ve indirmek için kullanılır                                       
 fact   Crane.2                      =  Ağır şeyleri yatay olarak kısa mesafelerde taşımak için kullanılabilir                   
 fact   Crane.3                      =  Kamyonları yüklemek ve boşaltmak için kullanılır                                         
        
 photo  Cycle.rickshaw               =  Döngü Çekcek                                                                             
+       url                          =  Cyclerickshaw.jpg                                                                        
 fact   Cycle.rickshaw.1             =  Yolcu taşımak için tasarlanan üç tekerlekli bisiklet                                     
 fact   Cycle.rickshaw.2             =  Birçok şehirde turist taşımacılığı                                                       
 fact   Cycle.rickshaw.3             =  Çekçek kelimesi insan gücüyle çalışan araç için Japon deyiminden geliyor                 
        
 photo  Digger                       =  kazıcı                                                                                   
+       url                          =  Digger.jpg                                                                               
 fact   Digger.1                     =  Çukurları ve deliklerin hızla kazımasını sağlar                                          
 fact   Digger.2                     =  Kol ve kepçe hidrolik basınç ile hareket ettirildi                                       
 fact   Digger.3                     =  Tırtıllı parkurda sürmek                                                                 
        
 photo  Double.decker.bus            =  Çift katlı otobüs                                                                        
+       url                          =  Double-deckerbus.jpg                                                                     
 fact   Double.decker.bus.1          =  İki güverteli otobüs                                                                     
 fact   Double.decker.bus.2          =  Londra'da kullanılanlar kırmızı renkte                                                   
 fact   Double.decker.bus.3          =  Şehirlerde manevra yapabildikleri için kullanılırlar                                     
        
 photo  Dumper.truck                 =  Damperli kamyon                                                                          
+       url                          =  Dumpertruck.jpg                                                                          
 fact   Dumper.truck.1               =  Şantiyelerde kum, çakıl veya kir taşır                                                   
 fact   Dumper.truck.2               =  Dökme kutusunun bir ucunu kaldırarak yük dışarıya verilir                                
 fact   Dumper.truck.3               =  Tüm kabini çevirerek zor arazide sürmeyi kolaylaştırdık                                  
        
 photo  Dustcart                     =  dustcart                                                                                 
+       url                          =  Dustcart.jpg                                                                             
 fact   Dustcart.1                   =  Çöp toplar                                                                               
 fact   Dustcart.2                   =  Çöpleri çöp dökümhanelerine taşır                                                        
 fact   Dustcart.3                   =  Gezileri kurtarmak için çöpleri çömeler                                                  
        
 photo  Electric.tram                =  Elektrikli tramvay                                                                       
+       url                          =  Electrictram.jpg                                                                         
 fact   Electric.tram.1              =  Toplu caddelerde demiryolu hattında çalışır                                              
 fact   Electric.tram.2              =  Havayla çalışan pantograftan beslenen elektrikle besleniyor                              
 fact   Electric.tram.3              =  İnsanları taşımak için otobüslerden daha sessiz ve daha verimli                          
        
 photo  Estate.car                   =  Emlak araba                                                                              
+       url                          =  Estatecar.jpg                                                                            
 fact   Estate.car.1                 =  Yolcu koltuğunun arkasında bagaj alanı var                                               
 fact   Estate.car.2                 =  Bagaj alanına arka taraftaki dikey bir kapı ile ulaşılmaktadır.                          
 fact   Estate.car.3                 =  Yolcu koltuk sırtları daha fazla bagaj alanı oluşturmak için katlanabilir                
        
 photo  Fire.engine                  =  Yangın motoru                                                                            
+       url                          =  Fireengine.jpg                                                                           
 fact   Fire.engine.1                =  Yangınlar için kullanılan kamyon                                                         
 fact   Fire.engine.2                =  İtfaiyeleri yangınlara nakletir                                                          
 fact   Fire.engine.3                =  Yangınla mücadele için su ve ekipman nakletir                                            
        
 photo  Flatbed.truck                =  Düz yataklı kamyon                                                                       
+       url                          =  Flatbedtruck.jpg                                                                         
 fact   Flatbed.truck.1              =  Yan veya çatıya sahip olmayan kamyon                                                     
 fact   Flatbed.truck.2              =  Kazıcılar ve diğer ağır teçhizatları taşımak için kullanılır                             
 fact   Flatbed.truck.3              =  Kapalı bir kamyona göre daha kolay yükleme ve boşaltma                                   
        
 photo  Forklift.truck               =  Kaldırma kamyonu                                                                         
+       url                          =  Forklifttruck.jpg                                                                        
 fact   Forklift.truck.1             =  Esasen ambarlardaki malzemeleri hareket ettirmek için                                    
 fact   Forklift.truck.2             =  Depoları yük yükler ve boşaltır                                                          
 fact   Forklift.truck.3             =  Palet üzerine yığılmış materyalleri kaldırır                                             
        
 photo  Hatchback                    =  yukarıya açılır arka kapı                                                                
+       url                          =  Hatchback.jpg                                                                            
 fact   Hatchback.1                  =  Bagaj alanına arka taraftaki eğimli bir kapı ile ulaşılmaktadır.                         
 fact   Hatchback.2                  =  Yolcu koltuğunun arkasında bagaj alanı var                                               
 fact   Hatchback.3                  =  Yolcu koltuk sırtları daha fazla bagaj alanı oluşturmak için katlanabilir                
        
 photo  Helicopter                   =  Helikopter                                                                               
+       url                          =  Helicopter.jpg                                                                           
 fact   Helicopter.1                 =  Dikey olarak kalkar ve topraklar.                                                        
 fact   Helicopter.2                 =  Hovers                                                                                   
 fact   Helicopter.3                 =  Geri uçuyor                                                                              
@@ -103,39 +127,48 @@ fact   Helicopter.4                 =  Bir pilot tarafından uçuruldu
 fact   Helicopter.5                 =  İnsanları ve kargoları bir yerden diğerine uçar                                          
        
 photo  Horse.and.cart               =  At arabası                                                                               
+       url                          =  Horseandcart.jpg                                                                         
 fact   Horse.and.cart.1             =  İki tekerlidir ve bir at tarafından çekilir.                                             
 fact   Horse.and.cart.2             =  Tekerleğin icadından bu yana sürekli kullanımda 7 bin yıl önce                           
        
 photo  Ice.cream.van                =  Dondurma arabası                                                                         
+       url                          =  Ice-creamvan.jpg                                                                         
 fact   Ice.cream.van.1              =  Dondurma satıyor                                                                         
 fact   Ice.cream.van.2              =  Özellikle yaz mevsiminde görülür                                                         
 fact   Ice.cream.van.3              =  Dondurma resimleri ile parlak bir şekilde dekore edilmiştir.                             
        
 photo  Jeep                         =  jip                                                                                      
+       url                          =  Jeep.jpg                                                                                 
 fact   Jeep.1                       =  İtalyan otomobil üreticisi Fiat'ın yan kuruluşu                                          
 fact   Jeep.2                       =  En eski arazi aracı ve spor aracı araç markası                                           
 fact   Jeep.3                       =  2. Dünya Savaşı sırasında ABD ordusunun ana hafif ağırlığı 4 tekerlekli araç             
        
 photo  Land.Rover                   =  Land Rover                                                                               
+       url                          =  LandRover.jpg                                                                            
 fact   Land.Rover.1                 =  İkinci en eski 4 tekerlekten çekişli marka                                               
 fact   Land.Rover.2                 =  Tata Motors'un Bağlı Ortaklığı, Hindistan                                                
        
 photo  Large.van                    =  Büyük kamyonet                                                                           
+       url                          =  Largevan.jpg                                                                             
 fact   Large.van.1                  =  Hafif ürünler sunmak için tasarlanmış ticari araç                                        
        
 photo  Lorry                        =  kamyon                                                                                   
+       url                          =  Lorry.jpg                                                                                
 fact   Lorry.1                      =  Karayolu ile karayolu yük taşımacılığı                                                   
 fact   Lorry.2                      =  Kabin, motorun üzerine monte edilmiş                                                     
        
 photo  Minibus                      =  Minibüs                                                                                  
+       url                          =  Minibus.jpg                                                                              
 fact   Minibus.1                    =  Küçük otobüs                                                                             
        
 photo  Motorbike                    =  Motosiklet                                                                               
+       url                          =  Motorbike.jpg                                                                            
 fact   Motorbike.1                  =  İki tekerlekli motorlu taşıt                                                             
 fact   Motorbike.2                  =  Motorlu taşıtın en uygun fiyatlı biçimlerinden biri                                      
 fact   Motorbike.3                  =  Vietnam'da en yaygın ulaşım şekli                                                        
        
 photo  Motorhome                    =  Tekerlekli ev                                                                            
+       url                          =  Motorhome.jpg                                                                            
 fact   Motorhome.1                  =  Daha konforlu, ancak daha pahalı ve daha az manevra kabiliyesinden daha                  
 fact   Motorhome.2                  =  Mutfak, banyo ve yatak odasında                                                          
 fact   Motorhome.3                  =  Motorlu ev                                                                               
@@ -143,101 +176,122 @@ fact   Motorhome.4                  =  Çadırdan daha rahat ve korunaklı
 fact   Motorhome.5                  =  Tatilde insanlar için geçici bir ev                                                      
        
 photo  Mountain.bike                =  dağ bisikleti                                                                            
+       url                          =  Mountainbike.jpg                                                                         
 fact   Mountain.bike.1              =  Arazide bisiklet sürmek için kullanılır                                                  
 fact   Mountain.bike.2              =  Genellikle ön ve arka süspansiyona sahiptir                                              
 fact   Mountain.bike.3              =  Yol bisikletlerinden daha güçlü bileşenler kullanır                                      
        
 photo  Open.top.bus                 =  Üstü açık otobüs                                                                         
+       url                          =  Open-topbus.jpg                                                                          
 fact   Open.top.bus.1               =  Çatı bulunmayan çift katlı otobüs                                                        
 fact   Open.top.bus.2               =  Turlar sırasında görme sehirlerini şehirler boyunca taşımak için kullanılır              
 fact   Open.top.bus.3               =  Yüksek görüş açısından kesintisiz görüntüler                                             
        
 photo  Pakistani.lorry              =  Pakistanlı kamyon                                                                        
+       url                          =  Pakistanilorry.jpg                                                                       
 fact   Pakistani.lorry.1            =  Pakistan'da kullanılan parlak araba                                                      
 fact   Pakistani.lorry.2            =  Karakoram Yolu boyunca mal ve insanlar taşıyor                                           
        
 photo  Pickup.truck                 =  Kamyonet                                                                                 
+       url                          =  Pickuptruck.jpg                                                                          
 fact   Pickup.truck.1               =  Açık üst arka kargo alanlı hafif motorlu araç                                            
 fact   Pickup.truck.2               =  1925'te ilk kez üretildiğinde 281 ABD doları                                             
 fact   Pickup.truck.3               =  Teksas'ta ortak                                                                          
        
 photo  Police.car                   =  Polis arabası                                                                            
+       url                          =  Policecar.jpg                                                                            
 fact   Police.car.1                 =  Polis tarafından görevlerine yardımcı olması için kullanılan yer aracı                   
 fact   Police.car.2                 =  Siren, yanıp sönen ışıklar ve görünür işaretler                                          
 fact   Police.car.3                 =  Suçu caydırmak için Devriyeler                                                           
        
 photo  Quad.bike                    =  dörtlü bisiklet                                                                          
+       url                          =  Quadbike.jpg                                                                             
 fact   Quad.bike.1                  =  Gözardı edilen bisiklet koruması nedeniyle çok sayıda ölüm ve yaralanma                  
 fact   Quad.bike.2                  =  Dört tekerlekli ve 550 kg'dan daha kütleye sahip araç                                    
 fact   Quad.bike.3                  =  Çiftçiler tarafından kaba araziyi hızla geçmek için kullanılır                           
        
 photo  Racing.bike                  =  Yarış bisikleti                                                                          
+       url                          =  Racingbike.jpg                                                                           
 fact   Racing.bike.1                =  Rekabetçi yol bisikleti için tasarlanmış bisiklet                                        
 fact   Racing.bike.2                =  Damla tutma çubukları                                                                    
 fact   Racing.bike.3                =  Hafif ve sağlam çerçeve                                                                  
        
 photo  Road.bike                    =  Yol Bisikleti                                                                            
+       url                          =  Roadbike.jpg                                                                             
 fact   Road.bike.1                  =  Otomobillerin olduğu gibi iki kat daha fazla kullanım var                                
 fact   Road.bike.2                  =  Popüler rekreasyon biçimi                                                                
 fact   Road.bike.3                  =  En etkin insan kaynaklı taşıma araçları                                                  
        
 photo  Road.sweeper                 =  Yol temizleme makinesi                                                                   
+       url                          =  Roadsweeper.jpg                                                                          
 fact   Road.sweeper.1               =  Şehirlerdeki sokakları temizler                                                          
 fact   Road.sweeper.2               =  Çöpleri temizler ve süzer                                                                
 fact   Road.sweeper.3               =  Aksi takdirde yağmurda çözülebilecek çöpleri atarak su kirliliğini azaltır.              
        
 photo  Road.train                   =  Yol tren                                                                                 
+       url                          =  Roadtrain.jpg                                                                            
 fact   Road.train.1                 =  Bir veya daha fazla römork çeken kamyon                                                  
 fact   Road.train.2                 =  Uzun düz yollara ihtiyacı var                                                            
        
 photo  Scooter                      =  Mobilet                                                                                  
+       url                          =  Scooter.jpg                                                                              
 fact   Scooter.1                    =  Step-through çerçeve ve sürücünün ayağı için bir platform olan motosiklet.               
 fact   Scooter.2                    =  Motor ve dişliler arka aksa takılmıştır                                                  
 fact   Scooter.3                    =  Düşük güçte kişisel ulaşım                                                               
        
 photo  Single.decker.bus            =  Tek katlı otobüs                                                                         
+       url                          =  Single-deckerbus.jpg                                                                     
 fact   Single.decker.bus.1          =  Yolcular için tek bir güverte olan otobüs                                                
        
 photo  Small.van                    =  Küçük kamyonet                                                                           
+       url                          =  Smallvan.jpg                                                                             
 fact   Small.van.1                  =  Karavan kelimesinin kısaltılmış hali - örtülü bir araç                                   
 fact   Small.van.2                  =  Ön koltukların arkasında yük engelleri var                                               
 fact   Small.van.3                  =  Arka yan camlar olmadan binek otomobillerden kaynaklanmaktadır.                          
        
 photo  Sports.car                   =  Spor araba                                                                               
+       url                          =  Sportscar.jpg                                                                            
 fact   Sports.car.1                 =  Küçük, iki koltuklu, iki kapılı araba                                                    
 fact   Sports.car.2                 =  Hız ve kullanım için tasarlandı                                                          
        
 photo  Tanker                       =  Tanker                                                                                   
+       url                          =  Tanker.jpg                                                                               
 fact   Tanker.1                     =  Benzin istasyonlarına yakıt dağıtmak için kullanılır                                     
 fact   Tanker.2                     =  Paslanmayı önlemek için paslanmaz çelik depo                                             
 fact   Tanker.3                     =  İç bölmeler, bir defada birçok farklı yakıtın taşınmasını sağlar                         
        
 photo  Taxi                         =  Taksi                                                                                    
+       url                          =  Taxi.jpg                                                                                 
 fact   Taxi.1                       =  Kısa yolculuklar yapmak için araba ve şoför kiralandı                                    
 fact   Taxi.2                       =  Her seyahatin maliyeti bir metre ile ölçülür                                             
 fact   Taxi.3                       =  New York'ta parlak sarı boyalı.                                                          
        
 photo  Tipper.lorry                 =  Damperli kamyon                                                                          
+       url                          =  Tipperlorry.jpg                                                                          
 fact   Tipper.lorry.1               =  Uçlarken akan kuru yükleri teslim eder.                                                  
 fact   Tipper.lorry.2               =  Hidrolik kriko ile dökme yük gemileri                                                    
 fact   Tipper.lorry.3               =  Bagaj kapısı, yükün eşit olarak dışarıya akmasına izin vermek için üste menteşelidir     
        
 photo  Tractor                      =  Traktör                                                                                  
+       url                          =  Tractor.jpg                                                                              
 fact   Tractor.1                    =  Tarımın mekanize edilmesi için kullanılan tarım aracı                                    
 fact   Tractor.2                    =  Pulluğu çeker                                                                            
 fact   Tractor.3                    =  Powers tarım ekipmanları                                                                 
        
 photo  Train                        =  Tren                                                                                     
+       url                          =  Train.jpg                                                                                
 fact   Train.1                      =  Birlikte bağlanmış iki veya daha fazla vagon simgesi, bunlardan en az biri lokomotiftir  
 fact   Train.2                      =  Demiryolları boyunca yolcu veya yük taşımacılığı                                         
 fact   Train.3                      =  Tren istasyonlarında yolcular seçer ve yatırır                                           
        
 photo  Vintage.bus                  =  Vintage otobüs                                                                           
+       url                          =  Vintagebus.jpg                                                                           
 fact   Vintage.bus.1                =  Eski zamanlarından orijinal durumuna getirilen otobüs                                    
 fact   Vintage.bus.2                =  Turizm için kullanıldı                                                                   
 fact   Vintage.bus.3                =  Mitingler ve sergilerde sergilenenler                                                    
        
 photo  Vintage.car                  =  Vintage araba                                                                            
+       url                          =  Vintagecar.jpg                                                                           
 fact   Vintage.car.1                =  Daha önceki bir saatteki araba orijinal durumuna getirildi                               
 fact   Vintage.car.2                =  Düğünlerde kullanılır                                                                    
 fact   Vintage.car.3                =  Mitingler ve sergilerde sergilenenler                                                    
