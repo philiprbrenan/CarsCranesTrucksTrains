@@ -1,149 +1,101 @@
 app    CarsCranesTrucksTrains.l.cy  =  Cars, Cranes, Trucks, Trains in Welsh                                                               
-       author                       =  philiprbrenan                                                                                       
        description                  =  Dysgwch am geir, craeniau, tryciau a threnau                                                        
-       email                        =  philiprbrenan@gmail.com                                                                             
-       icon                         =  icon.png                                                                                            
-       screenShots                  =  Airplane Crane Digger Fire.engine Land.Rover Motorbike Tipper.lorry Train                           
        language                     =  cy                                                                                                  
        
 photo  Airplane                     =  Awyren                                                                                              
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Airplane.jpg                                                                                        
 fact   Airplane.1                   =  Wedi'i gyrru gan beilot                                                                             
 fact   Airplane.2                   =  Yn llifo pobl a cargo o un lle i'r llall                                                            
 fact   Airplane.3                   =  Yn ymgymryd â thiroedd mewn meysydd awyr                                                            
        
 photo  Ambulance                    =  Ambiwlans                                                                                           
-       aFewChars                    =                                                                                                      
-       url                          =  Ambulance.jpg                                                                                       
 fact   Ambulance.1                  =  Yn mynd â phobl i'r ysbyty yn gyflym                                                                
 fact   Ambulance.2                  =  Siren, goleuadau fflachio a marciau amlwg iawn                                                      
 fact   Ambulance.3                  =  Yn cynnal offer meddygol brys a pharameddygon i ddamweiniau                                         
        
 photo  Amphibious.vehicle           =  Cerbyd anffibriol                                                                                   
-       aFewChars                    =                                                                                                      
-       url                          =  Amphibiousvehicle.jpg                                                                               
 fact   Amphibious.vehicle.1         =  Yn gallu gyrru dros dir a dŵr                                                                       
        
 photo  Auto.rickshaw                =  Rickshaw Auto                                                                                       
-       aFewChars                    =                                                                                                      
-       url                          =  Autorickshaw.jpg                                                                                    
 fact   Auto.rickshaw.1              =  Rickshaw gydag injan                                                                                
 fact   Auto.rickshaw.2              =  Ffurf hanfodol o gludiant trefol mewn llawer o wledydd sy'n datblygu                                
 fact   Auto.rickshaw.3              =  Daw'r gair rickshaw o'r ymadrodd Siapan ar gyfer cerbyd sy'n cael ei bweru gan bobl                 
        
 photo  Caravan                      =  Carafan                                                                                             
-       aFewChars                    =                                                                                                      
-       url                          =  Caravan.jpg                                                                                         
 fact   Caravan.1                    =  Yn fwy cyfforddus ac wedi'i ddiogelu na babell                                                      
 fact   Caravan.2                    =  Towch y tu ôl i gar i ddarparu lle i gysgu yn ystod y nos                                           
 fact   Caravan.3                    =  Cartref dros dro i bobl ar wyliau                                                                   
        
 photo  Cement.mixer                 =  Cymysgydd sment                                                                                     
-       aFewChars                    =                                                                                                      
-       url                          =  Cementmixer.jpg                                                                                     
 fact   Cement.mixer.1               =  Yn cymysgu concrid wrth ei gludo i safleoedd adeiladu                                               
 fact   Cement.mixer.2               =  Mae drwm yn troi yn ystod cludiant i gadw'r hylif concrid                                           
 fact   Cement.mixer.3               =  Cyflymder yn gyfyngedig yn y DU i 56 milltir yr awr                                                 
        
 photo  Combine.Harvester            =  Cyfuno Harwester                                                                                    
-       aFewChars                    =                                                                                                      
-       url                          =  CombineHarvester.jpg                                                                                
 fact   Combine.Harvester.1          =  Cynaeafu cnydau grawn ar raddfa fawr                                                                
 fact   Combine.Harvester.2          =  Yn cyfuno i fagu, trwytho a chneifio                                                                
 fact   Combine.Harvester.3          =  Un o'r dyfeisiadau arbedion pwysicaf mewn amaethyddiaeth                                            
        
 photo  Crane                        =  Crane                                                                                               
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Crane.jpg                                                                                           
 fact   Crane.1                      =  Wedi'i ddefnyddio i godi a lleihau pethau trwm                                                      
 fact   Crane.2                      =  Gellir ei ddefnyddio i symud pethau trwm pellteroedd byr yn llorweddol                              
 fact   Crane.3                      =  Wedi'i ddefnyddio i lwytho a dadlwytho tryciau                                                      
        
 photo  Cycle.rickshaw               =  Ricyll Beicio                                                                                       
-       aFewChars                    =                                                                                                      
-       url                          =  Cyclerickshaw.jpg                                                                                   
 fact   Cycle.rickshaw.1             =  Tricycle wedi'i gynllunio i gludo teithwyr                                                          
 fact   Cycle.rickshaw.2             =  Cludiant i dwristiaid mewn llawer o ddinasoedd                                                      
 fact   Cycle.rickshaw.3             =  Daw'r gair rickshaw o'r ymadrodd Siapan ar gyfer cerbyd sy'n cael ei bweru gan bobl                 
        
 photo  Digger                       =  Digger                                                                                              
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Digger.jpg                                                                                          
 fact   Digger.1                     =  Dyllau tyllau a ffosydd yn gyflym                                                                   
 fact   Digger.2                     =  Symud braich a bwced gan bwysedd hydrolig                                                           
 fact   Digger.3                     =  Taith ar lwybrau lindys                                                                             
        
 photo  Double.decker.bus            =  Bws deulawr                                                                                         
-       aFewChars                    =                                                                                                      
-       url                          =  Double-deckerbus.jpg                                                                                
 fact   Double.decker.bus.1          =  Bws gyda dau ddeunydd                                                                               
 fact   Double.decker.bus.2          =  Mae'r rhai a ddefnyddir yn Llundain wedi'u peintio'n goch                                           
 fact   Double.decker.bus.3          =  Wedi'i ddefnyddio mewn dinasoedd oherwydd eu bod yn symudadwy                                       
        
 photo  Dumper.truck                 =  Trac dyrnwr                                                                                         
-       aFewChars                    =                                                                                                      
-       url                          =  Dumpertruck.jpg                                                                                     
 fact   Dumper.truck.1               =  Mae'n trosglwyddo tywod, graean, neu baw ar safleoedd adeiladu                                      
 fact   Dumper.truck.2               =  Caiff y llwyth ei dynnu allan trwy godi un pen y blwch dump                                         
 fact   Dumper.truck.3               =  Wedi'i stereiddio trwy droi'r caban cyfan gan ei gwneud yn haws i yrru ar dir garw                  
        
 photo  Dustcart                     =  Dustcart                                                                                            
-       aFewChars                    =                                                                                                      
-       url                          =  Dustcart.jpg                                                                                        
 fact   Dustcart.1                   =  Casglu sbwriel                                                                                      
 fact   Dustcart.2                   =  Trosglwyddo sbwriel i dipiau sbwriel                                                                
 fact   Dustcart.3                   =  Gwasgu sbwriel i achub teithiau                                                                     
        
 photo  Electric.tram                =  Tram trydan                                                                                         
-       aFewChars                    =                                                                                                      
-       url                          =  Electrictram.jpg                                                                                    
 fact   Electric.tram.1              =  Mae'n rhedeg ar linellau rheilffordd ar hyd strydoedd cyhoeddus                                     
 fact   Electric.tram.2              =  Wedi'i bweru gan drydan a fwydwyd o pantograff uwchben                                              
 fact   Electric.tram.3              =  Yn waeth ac yn fwy effeithlon na bysiau ar gyfer cludo pobl                                         
        
 photo  Estate.car                   =  Car ystâd                                                                                           
-       aFewChars                    =                                                                                                      
-       url                          =  Estatecar.jpg                                                                                       
 fact   Estate.car.1                 =  Mae ganddo faes bagiau y tu ôl i'r seddau teithwyr                                                  
 fact   Estate.car.2                 =  Mae drws fertigol yn y cefn yn dod o hyd i faes bagiau                                              
 fact   Estate.car.3                 =  Gall cefn y seddau teithwyr blygu i lawr i greu mwy o ofod bagiau                                   
        
 photo  Fire.engine                  =  Injan dân                                                                                           
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Fireengine.jpg                                                                                      
 fact   Fire.engine.1                =  Truck wedi'i ddefnyddio ar gyfer ymladd tanau                                                       
 fact   Fire.engine.2                =  Trosglwyddo dynion tân i danau                                                                      
 fact   Fire.engine.3                =  Mae'n trosglwyddo dwr ac offer i ymladd tanau                                                       
        
 photo  Flatbed.truck                =  Lori gwely fflat                                                                                    
-       aFewChars                    =                                                                                                      
-       url                          =  Flatbedtruck.jpg                                                                                    
 fact   Flatbed.truck.1              =  Truc heb unrhyw ochr neu do                                                                         
 fact   Flatbed.truck.2              =  Wedi'i ddefnyddio i gludo cloddwyr ac offer trwm arall                                              
 fact   Flatbed.truck.3              =  Yn haws i'w lwytho a'i ddadlwytho na lori ar gau                                                    
        
 photo  Forklift.truck               =  Lori arian                                                                                          
-       aFewChars                    =                                                                                                      
-       url                          =  Forklifttruck.jpg                                                                                   
 fact   Forklift.truck.1             =  Yn hanfod ar gyfer symud deunyddiau o gwmpas mewn warysau                                           
 fact   Forklift.truck.2             =  Llwythi a dadlwytho cludo nwyddau mewn warysau                                                      
 fact   Forklift.truck.3             =  Deunyddiau lifftiau wedi'u pentyrru ar baletau                                                      
        
 photo  Hatchback                    =  Hatchback                                                                                           
-       aFewChars                    =                                                                                                      
-       url                          =  Hatchback.jpg                                                                                       
 fact   Hatchback.1                  =  Mae drws llethr yn y cefn yn dod o hyd i faes bagiau                                                
 fact   Hatchback.2                  =  Mae ganddo faes bagiau y tu ôl i'r seddau teithwyr                                                  
 fact   Hatchback.3                  =  Gall cefn y seddau teithwyr blygu i lawr i greu mwy o ofod bagiau                                   
        
 photo  Helicopter                   =  Hofrennydd                                                                                          
-       aFewChars                    =                                                                                                      
-       url                          =  Helicopter.jpg                                                                                      
 fact   Helicopter.1                 =  Yn tynnu oddi arno ac yn dirio yn fertigol                                                          
 fact   Helicopter.2                 =  Gwyliau                                                                                             
 fact   Helicopter.3                 =  Yn hedfan yn ôl                                                                                     
@@ -151,59 +103,39 @@ fact   Helicopter.4                 =  Wedi'i gyrru gan beilot
 fact   Helicopter.5                 =  Yn llifo pobl a cargo o un lle i'r llall                                                            
        
 photo  Horse.and.cart               =  Ceffyl a chart                                                                                      
-       aFewChars                    =                                                                                                      
-       url                          =  Horseandcart.jpg                                                                                    
 fact   Horse.and.cart.1             =  Mae ganddo ddau olwyn ac mae ceffyl wedi'i dynnu                                                    
 fact   Horse.and.cart.2             =  Mewn defnydd parhaus ers dyfeisio'r olwyn 7 mil o flynyddoedd yn ôl                                 
        
 photo  Ice.cream.van                =  Fan hufen iâ                                                                                        
-       aFewChars                    =                                                                                                      
-       url                          =  Ice-creamvan.jpg                                                                                    
 fact   Ice.cream.van.1              =  Yn cynhyrchu hufen iâ                                                                               
 fact   Ice.cream.van.2              =  Wedi'i weld yn bennaf yn yr haf                                                                     
 fact   Ice.cream.van.3              =  Wedi'i addurno'n llwyr gyda lluniau o hufen iâ                                                      
        
 photo  Jeep                         =  Jeep                                                                                                
-       aFewChars                    =                                                                                                      
-       url                          =  Jeep.jpg                                                                                            
 fact   Jeep.1                       =  Is-gwmni o Fiat gwneuthurwr ceir Eidaleg                                                            
 fact   Jeep.2                       =  Y brand cerbydau cyfleustodau cerbyd oddi ar y ffordd a chwaraeon hynaf                             
 fact   Jeep.3                       =  Prif gerbyd gyrru 4-olwyn pwysau ysgafn y Fyddin yr Unol Daleithiau yn ystod Rhyfel Byd Cyntaf      
        
 photo  Land.Rover                   =  Land Rover                                                                                          
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  LandRover.jpg                                                                                       
 fact   Land.Rover.1                 =  Ail brand gyrru 4-olwyn hynaf                                                                       
 fact   Land.Rover.2                 =  Is-gwmni o Tata Motors, India                                                                       
        
 photo  Large.van                    =  Fan fawr                                                                                            
-       aFewChars                    =                                                                                                      
-       url                          =  Largevan.jpg                                                                                        
 fact   Large.van.1                  =  Cerbyd masnachol wedi'i gynllunio i ddarparu nwyddau ysgafn                                         
        
 photo  Lorry                        =  Lorry                                                                                               
-       aFewChars                    =                                                                                                      
-       url                          =  Lorry.jpg                                                                                           
 fact   Lorry.1                      =  Mae'n cario car ar y ffordd                                                                         
 fact   Lorry.2                      =  Gosododd Cab dros yr injan                                                                          
        
 photo  Minibus                      =  Bws mini                                                                                            
-       aFewChars                    =                                                                                                      
-       url                          =  Minibus.jpg                                                                                         
 fact   Minibus.1                    =  Bws bach                                                                                            
        
 photo  Motorbike                    =  Beic modur                                                                                          
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Motorbike.jpg                                                                                       
 fact   Motorbike.1                  =  Dau gerbyd modur olwyn                                                                              
 fact   Motorbike.2                  =  Un o'r mathau mwyaf trafnidiaeth fforddiadwy o drafnidiaeth modur                                   
 fact   Motorbike.3                  =  Y math mwyaf cyffredin o gludiant yn Fietnam                                                        
        
 photo  Motorhome                    =  Motorhome                                                                                           
-       aFewChars                    =                                                                                                      
-       url                          =  Motorhome.jpg                                                                                       
 fact   Motorhome.1                  =  Yn fwy cyfforddus, ond yn ddrutach ac yn llai maneuverable na gwersyll                              
 fact   Motorhome.2                  =  Ar fwrdd cegin, ystafell ymolchi ac ystafell wely                                                   
 fact   Motorhome.3                  =  Cartref wedi'i moduro                                                                               
@@ -211,145 +143,101 @@ fact   Motorhome.4                  =  Yn fwy cyfforddus ac wedi'i ddiogelu na b
 fact   Motorhome.5                  =  Cartref dros dro i bobl ar wyliau                                                                   
        
 photo  Mountain.bike                =  Beicio mynydd                                                                                       
-       aFewChars                    =                                                                                                      
-       url                          =  Mountainbike.jpg                                                                                    
 fact   Mountain.bike.1              =  Wedi'i ddefnyddio ar gyfer beicio oddi ar y ffordd                                                  
 fact   Mountain.bike.2              =  Yn aml mae ganddo ataliad blaen a chefn                                                             
 fact   Mountain.bike.3              =  Yn defnyddio cydrannau cryfach na beiciau ffordd                                                    
        
 photo  Open.top.bus                 =  Bws ar agor                                                                                         
-       aFewChars                    =                                                                                                      
-       url                          =  Open-topbus.jpg                                                                                     
 fact   Open.top.bus.1               =  Bws deulawr heb do                                                                                  
 fact   Open.top.bus.2               =  Wedi'i ddefnyddio i gludo gwylwyr golwg ar deithiau trwy ddinasoedd                                 
 fact   Open.top.bus.3               =  Golygfeydd di-dor o safbwynt uchel                                                                  
        
 photo  Pakistani.lorry              =  Lori Pacistanaidd                                                                                   
-       aFewChars                    =                                                                                                      
-       url                          =  Pakistanilorry.jpg                                                                                  
 fact   Pakistani.lorry.1            =  Lori wedi'i addurno'n wych a ddefnyddir ym Mhacistan                                                
 fact   Pakistani.lorry.2            =  Mae'n trosglwyddo nwyddau a phobl ar hyd y Briffordd Karakoram                                      
        
 photo  Pickup.truck                 =  Trysell Pickup                                                                                      
-       aFewChars                    =                                                                                                      
-       url                          =  Pickuptruck.jpg                                                                                     
 fact   Pickup.truck.1               =  Cerbyd modur ysgafn gydag ardal cargo cefn uchaf y cefn                                             
 fact   Pickup.truck.2               =  Cost US $ 281 pan gynhyrchwyd gyntaf yn 1925                                                        
 fact   Pickup.truck.3               =  Cyffredin yn Texas                                                                                  
        
 photo  Police.car                   =  Car heddlu                                                                                          
-       aFewChars                    =                                                                                                      
-       url                          =  Policecar.jpg                                                                                       
 fact   Police.car.1                 =  Cerbyd tir a ddefnyddir gan yr heddlu i gynorthwyo gyda'u dyletswyddau                              
 fact   Police.car.2                 =  Siren, goleuadau fflachio a marciau amlwg iawn                                                      
 fact   Police.car.3                 =  Patrolwyr i atal troseddu                                                                           
        
 photo  Quad.bike                    =  Beic Quad                                                                                           
-       aFewChars                    =                                                                                                      
-       url                          =  Quadbike.jpg                                                                                        
 fact   Quad.bike.1                  =  Nifer uchel o farwolaethau ac anafiadau oherwydd amddiffyniad rhinweddol anifail                    
 fact   Quad.bike.2                  =  Cerbyd gyda phedwar olwyn a mas o lai na 550 kg                                                     
 fact   Quad.bike.3                  =  Wedi'i ddefnyddio gan ffermwyr i groesi tir garw yn gyflym                                          
        
 photo  Racing.bike                  =  Beicio rasio                                                                                        
-       aFewChars                    =                                                                                                      
-       url                          =  Racingbike.jpg                                                                                      
 fact   Racing.bike.1                =  Beic wedi'i gynllunio ar gyfer beicio ar y ffordd gystadleuol                                       
 fact   Racing.bike.2                =  Bariau trin heibio                                                                                  
 fact   Racing.bike.3                =  Ffrâm ysgafn a stiff                                                                                
        
 photo  Road.bike                    =  Beic ffordd                                                                                         
-       aFewChars                    =                                                                                                      
-       url                          =  Roadbike.jpg                                                                                        
 fact   Road.bike.1                  =  Mae dwywaith cymaint yn cael eu defnyddio gan fod yna automobiles                                   
 fact   Road.bike.2                  =  Dull poblogaidd o hamdden                                                                           
 fact   Road.bike.3                  =  Y modd mwyaf cludadwy o ddulliau o gludo dynol                                                      
        
 photo  Road.sweeper                 =  Ysgubwr ffyrdd                                                                                      
-       aFewChars                    =                                                                                                      
-       url                          =  Roadsweeper.jpg                                                                                     
 fact   Road.sweeper.1               =  Glanhau'r strydoedd mewn dinasoedd                                                                  
 fact   Road.sweeper.2               =  Sweeps a gwactod i fyny sbwriel                                                                     
 fact   Road.sweeper.3               =  Yn lleihau llygredd dŵr trwy gael gwared ar sbwriel a fyddai fel arall yn diddymu mewn glaw         
        
 photo  Road.train                   =  Trên ffordd                                                                                         
-       aFewChars                    =                                                                                                      
-       url                          =  Roadtrain.jpg                                                                                       
 fact   Road.train.1                 =  Truck yn tynnu un neu ragor o gerbydau                                                              
 fact   Road.train.2                 =  Angen ffyrdd hir syth                                                                               
        
 photo  Scooter                      =  Sgwteri                                                                                             
-       aFewChars                    =                                                                                                      
-       url                          =  Scooter.jpg                                                                                         
 fact   Scooter.1                    =  Beic modur gyda ffrâm gam-tro a llwyfan ar gyfer traed y gyrrwr.                                    
 fact   Scooter.2                    =  Mae'r peiriant a'r gerau ynghlwm wrth yr echel gefn                                                 
 fact   Scooter.3                    =  Trafnidiaeth bersonol pŵer isel                                                                     
        
 photo  Single.decker.bus            =  Bws sengl                                                                                           
-       aFewChars                    =                                                                                                      
-       url                          =  Single-deckerbus.jpg                                                                                
 fact   Single.decker.bus.1          =  Bws gydag un dec ar gyfer teithwyr                                                                  
        
 photo  Small.van                    =  Fan fach                                                                                            
-       aFewChars                    =                                                                                                      
-       url                          =  Smallvan.jpg                                                                                        
 fact   Small.van.1                  =  Fersiwn wedi'i fyrhau o'r gair carafán - cerbyd wedi'i orchuddio                                    
 fact   Small.van.2                  =  Wedi'i osod â rhwystrau cargo tu ôl i'r seddi blaen                                                 
 fact   Small.van.3                  =  Deillio o geir teithwyr heb ffenestri ochr gefn                                                     
        
 photo  Sports.car                   =  Car chwaraeon                                                                                       
-       aFewChars                    =                                                                                                      
-       url                          =  Sportscar.jpg                                                                                       
 fact   Sports.car.1                 =  Car bach, dau sedd, dwy ddrws                                                                       
 fact   Sports.car.2                 =  Wedi'i gynllunio ar gyfer cyflymder a thrin                                                         
        
 photo  Tanker                       =  Tancer                                                                                              
-       aFewChars                    =                                                                                                      
-       url                          =  Tanker.jpg                                                                                          
 fact   Tanker.1                     =  Wedi'i ddefnyddio i ddarparu tanwydd i orsafoedd petrol                                             
 fact   Tanker.2                     =  Tanc dur di-staen i osgoi cyrydu                                                                    
 fact   Tanker.3                     =  Mae adrannau mewnol yn caniatáu i sawl tanwydd wahanol gael ei gario ar un adeg                     
        
 photo  Taxi                         =  Tacsi                                                                                               
-       aFewChars                    =                                                                                                      
-       url                          =  Taxi.jpg                                                                                            
 fact   Taxi.1                       =  Car a gyrrwr wedi llogi i wneud teithiau byr                                                        
 fact   Taxi.2                       =  Mesurir cost pob taith fesul metr                                                                   
 fact   Taxi.3                       =  Wedi'i baentio melyn llachar yn Efrog Newydd.                                                       
        
 photo  Tipper.lorry                 =  Lori tipper                                                                                         
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Tipperlorry.jpg                                                                                     
 fact   Tipper.lorry.1               =  Yn darparu cargo sych sy'n llifo pan gaiff ei dipio                                                 
 fact   Tipper.lorry.2               =  Blwch cargo wedi'i dipio gan jac hydrolig                                                           
 fact   Tipper.lorry.3               =  Mae tailgate wedi'i chlymu ar y brig i adael i'r cargo gyrraedd allan yn gyfartal                   
        
 photo  Tractor                      =  Tractor                                                                                             
-       aFewChars                    =                                                                                                      
-       url                          =  Tractor.jpg                                                                                         
 fact   Tractor.1                    =  Cerbyd fferm a ddefnyddir i fecanwaith amaethyddiaeth                                               
 fact   Tractor.2                    =  Tynnwch aren                                                                                        
 fact   Tractor.3                    =  Offer fferm Pwerau                                                                                  
        
 photo  Train                        =  Hyfforddi                                                                                           
-       aFewChars                    =                                                                                                      
-       screenShot                   =                                                                                                   1  
-       url                          =  Train.jpg                                                                                           
 fact   Train.1                      =  Mae dau neu ragor o eitemau o gerbydau wedi'u cyd-fynd â'i gilydd, o leiaf un ohonynt yn locomotif  
 fact   Train.2                      =  Trosglwyddo teithwyr neu nwyddau ar hyd rheilffyrdd                                                 
 fact   Train.3                      =  Yn codi ac yn adneuo teithwyr mewn gorsafoedd rheilffyrdd                                           
        
 photo  Vintage.bus                  =  Bws hen                                                                                             
-       aFewChars                    =                                                                                                      
-       url                          =  Vintagebus.jpg                                                                                      
 fact   Vintage.bus.1                =  Bws o gyfnod cynharach wedi'i adfer i gyflwr gwreiddiol                                             
 fact   Vintage.bus.2                =  Wedi'i ddefnyddio ar gyfer twristiaeth                                                              
 fact   Vintage.bus.3                =  Wedi'i arddangos mewn ralïau ac arddangosfeydd                                                      
        
 photo  Vintage.car                  =  Car hen                                                                                             
-       aFewChars                    =                                                                                                      
-       url                          =  Vintagecar.jpg                                                                                      
 fact   Vintage.car.1                =  Car o gyfnod cynharach wedi'i adfer i gyflwr gwreiddiol                                             
 fact   Vintage.car.2                =  Wedi'i ddefnyddio ar gyfer priodasau                                                                
 fact   Vintage.car.3                =  Wedi'i arddangos mewn ralïau ac arddangosfeydd                                                      
