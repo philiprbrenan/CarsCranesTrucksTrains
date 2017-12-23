@@ -1,9 +1,9 @@
 Failed.
 
-2017-12-23 at 19:30:30 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es
+2017-12-23 at 19:33:49 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es
 
-2017-12-23 at 19:30:35 Step: parseSource
-2017-12-23 at 19:30:35 Choose at least one of the "url" or "aFewChars" keywords on line(s) 5
+2017-12-23 at 19:33:53 Step: parseSource
+2017-12-23 at 19:33:53 Choose at least one of the "url" or "aFewChars" keywords on line(s) 5
 Choose at least one of the "url" or "aFewChars" keywords on line(s) 10
 Choose at least one of the "url" or "aFewChars" keywords on line(s) 15
 
@@ -35,9 +35,9 @@ do {
     }, "ParsedCmd"),
     error => 3,
     log => [
-      "\n2017-12-23 at 19:30:30 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es\n",
-      "2017-12-23 at 19:30:35 Step: parseSource",
-      "2017-12-23 at 19:30:35 Choose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 5\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 10\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 15\n",
+      "\n2017-12-23 at 19:33:49 Generate AppaAppsPhotoApp version 20171223-1 philiprbrenan/CarsCranesTrucksTrains/l/es\n",
+      "2017-12-23 at 19:33:53 Step: parseSource",
+      "2017-12-23 at 19:33:53 Choose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 5\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 10\nChoose at least one of the \"url\" or \"aFewChars\" keywords on line(s) 15\n",
     ],
     parsedCmds => [
       'fix',
