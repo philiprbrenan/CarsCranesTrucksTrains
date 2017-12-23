@@ -1,0 +1,414 @@
+app CarsCranesTrucksTrains   = Cars, Cranes, Trucks, Trains
+  maximages = 6
+  icon      = https://avatars1.githubusercontent.com/u/7548378?v=4
+  author    = philiprbrenan
+  email     = philiprbrenan@gmail.com
+
+
+# Details of photo Airplane
+photo Airplane = Title of Airplane
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Airplane.jpg
+
+fact Airplane.1 = First fact about Airplane
+fact Airplane.2 = Another fact about Airplane
+
+
+# Details of photo Ambulance
+photo Ambulance = Title of Ambulance
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Ambulance.jpg
+
+fact Ambulance.1 = First fact about Ambulance
+fact Ambulance.2 = Another fact about Ambulance
+
+
+# Details of photo Amphibiousvehicle
+photo Amphibiousvehicle = Title of Amphibiousvehicle
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Amphibiousvehicle.jpg
+
+fact Amphibiousvehicle.1 = First fact about Amphibiousvehicle
+fact Amphibiousvehicle.2 = Another fact about Amphibiousvehicle
+
+
+# Details of photo Autorickshaw
+photo Autorickshaw = Title of Autorickshaw
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Autorickshaw.jpg
+
+fact Autorickshaw.1 = First fact about Autorickshaw
+fact Autorickshaw.2 = Another fact about Autorickshaw
+
+
+# Details of photo Caravan
+photo Caravan = Title of Caravan
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Caravan.jpg
+
+fact Caravan.1 = First fact about Caravan
+fact Caravan.2 = Another fact about Caravan
+
+
+# Details of photo Cementmixer
+photo Cementmixer = Title of Cementmixer
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Cementmixer.jpg
+
+fact Cementmixer.1 = First fact about Cementmixer
+fact Cementmixer.2 = Another fact about Cementmixer
+
+
+# Details of photo CombineHarvester
+photo CombineHarvester = Title of CombineHarvester
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/CombineHarvester.jpg
+
+fact CombineHarvester.1 = First fact about CombineHarvester
+fact CombineHarvester.2 = Another fact about CombineHarvester
+
+
+# Details of photo Crane
+photo Crane = Title of Crane
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Crane.jpg
+
+fact Crane.1 = First fact about Crane
+fact Crane.2 = Another fact about Crane
+
+
+# Details of photo Cyclerickshaw
+photo Cyclerickshaw = Title of Cyclerickshaw
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Cyclerickshaw.jpg
+
+fact Cyclerickshaw.1 = First fact about Cyclerickshaw
+fact Cyclerickshaw.2 = Another fact about Cyclerickshaw
+
+
+# Details of photo Digger
+photo Digger = Title of Digger
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Digger.jpg
+
+fact Digger.1 = First fact about Digger
+fact Digger.2 = Another fact about Digger
+
+
+# Details of photo Double-deckerbus
+photo Doubledeckerbus = Title of Double-deckerbus
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Double-deckerbus.jpg
+
+fact Doubledeckerbus.1 = First fact about Double-deckerbus
+fact Doubledeckerbus.2 = Another fact about Double-deckerbus
+
+
+# Details of photo Dumpertruck
+photo Dumpertruck = Title of Dumpertruck
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Dumpertruck.jpg
+
+fact Dumpertruck.1 = First fact about Dumpertruck
+fact Dumpertruck.2 = Another fact about Dumpertruck
+
+
+# Details of photo Dustcart
+photo Dustcart = Title of Dustcart
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Dustcart.jpg
+
+fact Dustcart.1 = First fact about Dustcart
+fact Dustcart.2 = Another fact about Dustcart
+
+
+# Details of photo Electrictram
+photo Electrictram = Title of Electrictram
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Electrictram.jpg
+
+fact Electrictram.1 = First fact about Electrictram
+fact Electrictram.2 = Another fact about Electrictram
+
+
+# Details of photo Estatecar
+photo Estatecar = Title of Estatecar
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Estatecar.jpg
+
+fact Estatecar.1 = First fact about Estatecar
+fact Estatecar.2 = Another fact about Estatecar
+
+
+# Details of photo Fireengine
+photo Fireengine = Title of Fireengine
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Fireengine.jpg
+
+fact Fireengine.1 = First fact about Fireengine
+fact Fireengine.2 = Another fact about Fireengine
+
+
+# Details of photo Flatbedtruck
+photo Flatbedtruck = Title of Flatbedtruck
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Flatbedtruck.jpg
+
+fact Flatbedtruck.1 = First fact about Flatbedtruck
+fact Flatbedtruck.2 = Another fact about Flatbedtruck
+
+
+# Details of photo Forklifttruck
+photo Forklifttruck = Title of Forklifttruck
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Forklifttruck.jpg
+
+fact Forklifttruck.1 = First fact about Forklifttruck
+fact Forklifttruck.2 = Another fact about Forklifttruck
+
+
+# Details of photo Hatchback
+photo Hatchback = Title of Hatchback
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Hatchback.jpg
+
+fact Hatchback.1 = First fact about Hatchback
+fact Hatchback.2 = Another fact about Hatchback
+
+
+# Details of photo Helicopter
+photo Helicopter = Title of Helicopter
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Helicopter.jpg
+
+fact Helicopter.1 = First fact about Helicopter
+fact Helicopter.2 = Another fact about Helicopter
+
+
+# Details of photo Horseandcart
+photo Horseandcart = Title of Horseandcart
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Horseandcart.jpg
+
+fact Horseandcart.1 = First fact about Horseandcart
+fact Horseandcart.2 = Another fact about Horseandcart
+
+
+# Details of photo Ice-creamvan
+photo Icecreamvan = Title of Ice-creamvan
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Ice-creamvan.jpg
+
+fact Icecreamvan.1 = First fact about Ice-creamvan
+fact Icecreamvan.2 = Another fact about Ice-creamvan
+
+
+# Details of photo Jeep
+photo Jeep = Title of Jeep
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Jeep.jpg
+
+fact Jeep.1 = First fact about Jeep
+fact Jeep.2 = Another fact about Jeep
+
+
+# Details of photo LandRover
+photo LandRover = Title of LandRover
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/LandRover.jpg
+
+fact LandRover.1 = First fact about LandRover
+fact LandRover.2 = Another fact about LandRover
+
+
+# Details of photo Largevan
+photo Largevan = Title of Largevan
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Largevan.jpg
+
+fact Largevan.1 = First fact about Largevan
+fact Largevan.2 = Another fact about Largevan
+
+
+# Details of photo Lorry
+photo Lorry = Title of Lorry
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Lorry.jpg
+
+fact Lorry.1 = First fact about Lorry
+fact Lorry.2 = Another fact about Lorry
+
+
+# Details of photo Minibus
+photo Minibus = Title of Minibus
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Minibus.jpg
+
+fact Minibus.1 = First fact about Minibus
+fact Minibus.2 = Another fact about Minibus
+
+
+# Details of photo Motorbike
+photo Motorbike = Title of Motorbike
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Motorbike.jpg
+
+fact Motorbike.1 = First fact about Motorbike
+fact Motorbike.2 = Another fact about Motorbike
+
+
+# Details of photo Motorhome
+photo Motorhome = Title of Motorhome
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Motorhome.jpg
+
+fact Motorhome.1 = First fact about Motorhome
+fact Motorhome.2 = Another fact about Motorhome
+
+
+# Details of photo Mountainbike
+photo Mountainbike = Title of Mountainbike
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Mountainbike.jpg
+
+fact Mountainbike.1 = First fact about Mountainbike
+fact Mountainbike.2 = Another fact about Mountainbike
+
+
+# Details of photo Open-topbus
+photo Opentopbus = Title of Open-topbus
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Open-topbus.jpg
+
+fact Opentopbus.1 = First fact about Open-topbus
+fact Opentopbus.2 = Another fact about Open-topbus
+
+
+# Details of photo Pakistanilorry
+photo Pakistanilorry = Title of Pakistanilorry
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Pakistanilorry.jpg
+
+fact Pakistanilorry.1 = First fact about Pakistanilorry
+fact Pakistanilorry.2 = Another fact about Pakistanilorry
+
+
+# Details of photo Pickuptruck
+photo Pickuptruck = Title of Pickuptruck
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Pickuptruck.jpg
+
+fact Pickuptruck.1 = First fact about Pickuptruck
+fact Pickuptruck.2 = Another fact about Pickuptruck
+
+
+# Details of photo Policecar
+photo Policecar = Title of Policecar
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Policecar.jpg
+
+fact Policecar.1 = First fact about Policecar
+fact Policecar.2 = Another fact about Policecar
+
+
+# Details of photo Quadbike
+photo Quadbike = Title of Quadbike
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Quadbike.jpg
+
+fact Quadbike.1 = First fact about Quadbike
+fact Quadbike.2 = Another fact about Quadbike
+
+
+# Details of photo Racingbike
+photo Racingbike = Title of Racingbike
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Racingbike.jpg
+
+fact Racingbike.1 = First fact about Racingbike
+fact Racingbike.2 = Another fact about Racingbike
+
+
+# Details of photo Roadbike
+photo Roadbike = Title of Roadbike
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Roadbike.jpg
+
+fact Roadbike.1 = First fact about Roadbike
+fact Roadbike.2 = Another fact about Roadbike
+
+
+# Details of photo Roadsweeper
+photo Roadsweeper = Title of Roadsweeper
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Roadsweeper.jpg
+
+fact Roadsweeper.1 = First fact about Roadsweeper
+fact Roadsweeper.2 = Another fact about Roadsweeper
+
+
+# Details of photo Roadtrain
+photo Roadtrain = Title of Roadtrain
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Roadtrain.jpg
+
+fact Roadtrain.1 = First fact about Roadtrain
+fact Roadtrain.2 = Another fact about Roadtrain
+
+
+# Details of photo Scooter
+photo Scooter = Title of Scooter
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Scooter.jpg
+
+fact Scooter.1 = First fact about Scooter
+fact Scooter.2 = Another fact about Scooter
+
+
+# Details of photo Single-deckerbus
+photo Singledeckerbus = Title of Single-deckerbus
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Single-deckerbus.jpg
+
+fact Singledeckerbus.1 = First fact about Single-deckerbus
+fact Singledeckerbus.2 = Another fact about Single-deckerbus
+
+
+# Details of photo Smallvan
+photo Smallvan = Title of Smallvan
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Smallvan.jpg
+
+fact Smallvan.1 = First fact about Smallvan
+fact Smallvan.2 = Another fact about Smallvan
+
+
+# Details of photo Sportscar
+photo Sportscar = Title of Sportscar
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Sportscar.jpg
+
+fact Sportscar.1 = First fact about Sportscar
+fact Sportscar.2 = Another fact about Sportscar
+
+
+# Details of photo Tanker
+photo Tanker = Title of Tanker
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Tanker.jpg
+
+fact Tanker.1 = First fact about Tanker
+fact Tanker.2 = Another fact about Tanker
+
+
+# Details of photo Taxi
+photo Taxi = Title of Taxi
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Taxi.jpg
+
+fact Taxi.1 = First fact about Taxi
+fact Taxi.2 = Another fact about Taxi
+
+
+# Details of photo Tipperlorry
+photo Tipperlorry = Title of Tipperlorry
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Tipperlorry.jpg
+
+fact Tipperlorry.1 = First fact about Tipperlorry
+fact Tipperlorry.2 = Another fact about Tipperlorry
+
+
+# Details of photo Tractor
+photo Tractor = Title of Tractor
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Tractor.jpg
+
+fact Tractor.1 = First fact about Tractor
+fact Tractor.2 = Another fact about Tractor
+
+
+# Details of photo Train
+photo Train = Title of Train
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Train.jpg
+
+fact Train.1 = First fact about Train
+fact Train.2 = Another fact about Train
+
+
+# Details of photo Vintagebus
+photo Vintagebus = Title of Vintagebus
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Vintagebus.jpg
+
+fact Vintagebus.1 = First fact about Vintagebus
+fact Vintagebus.2 = Another fact about Vintagebus
+
+
+# Details of photo Vintagecar
+photo Vintagecar = Title of Vintagecar
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/Vintagecar.jpg
+
+fact Vintagecar.1 = First fact about Vintagecar
+fact Vintagecar.2 = Another fact about Vintagecar
+
+
+# Details of photo icon
+photo icon = Title of icon
+  url = https://raw.githubusercontent.com/philiprbrenan/CarsCranesTrucksTrains/master/images/icon.png
+
+fact icon.1 = First fact about icon
+fact icon.2 = Another fact about icon
+
