@@ -1,149 +1,101 @@
 app    CarsCranesTrucksTrains.l.is  =  Cars, Cranes, Trucks, Trains in Icelandic                                               
-       author                       =  philiprbrenan                                                                           
        description                  =  Lærðu um bíla, krana, vörubíla og lestir                                                
-       email                        =  philiprbrenan@gmail.com                                                                 
-       icon                         =  icon.png                                                                                
-       screenShots                  =  Airplane Crane Digger Fire.engine Land.Rover Motorbike Tipper.lorry Train               
        language                     =  is                                                                                      
        
 photo  Airplane                     =  Flugvél                                                                                 
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Airplane.jpg                                                                            
 fact   Airplane.1                   =  Flogið af flugmanni                                                                     
 fact   Airplane.2                   =  Flýgur fólk og farm frá einum stað til annars                                           
 fact   Airplane.3                   =  Taktu af og lendir á flugvöllum                                                         
        
 photo  Ambulance                    =  Sjúkrabíll                                                                              
-       aFewChars                    =                                                                                          
-       url                          =  Ambulance.jpg                                                                           
 fact   Ambulance.1                  =  Tekur fólk á sjúkrahús fljótt                                                           
 fact   Ambulance.2                  =  Síren, blikkandi ljós og mjög sýnileg merki                                             
 fact   Ambulance.3                  =  Býr neyðar lækningatækjum og paramedics við slys                                        
        
 photo  Amphibious.vehicle           =  Amfibíu ökutæki                                                                         
-       aFewChars                    =                                                                                          
-       url                          =  Amphibiousvehicle.jpg                                                                   
 fact   Amphibious.vehicle.1         =  Hægt að keyra yfir land og vatn                                                         
        
 photo  Auto.rickshaw                =  Auto rickshaw                                                                           
-       aFewChars                    =                                                                                          
-       url                          =  Autorickshaw.jpg                                                                        
 fact   Auto.rickshaw.1              =  A rickshaw með vél                                                                      
 fact   Auto.rickshaw.2              =  Mikilvægt form flutninga í þéttbýli í mörgum þróunarríkjum                              
 fact   Auto.rickshaw.3              =  Orðið rickshaw kemur frá japönsku setningunni fyrir ökutæki sem knúin eru á menn        
        
 photo  Caravan                      =  Hjólhýsi                                                                                
-       aFewChars                    =                                                                                          
-       url                          =  Caravan.jpg                                                                             
 fact   Caravan.1                    =  Mjög þægilegt og verndað en tjald                                                       
 fact   Caravan.2                    =  Towed á bak við bíl til að koma sér til að sofa á kvöldin                               
 fact   Caravan.3                    =  Tímabundið heimili fyrir fólk í fríi                                                    
        
 photo  Cement.mixer                 =  Sementblandari                                                                          
-       aFewChars                    =                                                                                          
-       url                          =  Cementmixer.jpg                                                                         
 fact   Cement.mixer.1               =  Blandar steypu við flutning á byggingarsvæðum                                           
 fact   Cement.mixer.2               =  Drum snýst um flutning til að halda steypuvökvanum                                      
 fact   Cement.mixer.3               =  Hraði takmarkaður í Bretlandi til 56 mílur á klukkustund                                
        
 photo  Combine.Harvester            =  Sameina Harvester                                                                       
-       aFewChars                    =                                                                                          
-       url                          =  CombineHarvester.jpg                                                                    
 fact   Combine.Harvester.1          =  Uppskerir korn uppskeru í stórum stíl                                                   
 fact   Combine.Harvester.2          =  Sameinar uppskera, þreska og winnowing                                                  
 fact   Combine.Harvester.3          =  Eitt af mikilvægustu vinnuverndarsvörunum í landbúnaði                                  
        
 photo  Crane                        =  Crane                                                                                   
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Crane.jpg                                                                               
 fact   Crane.1                      =  Notað til að lyfta og lækka þungar hluti                                                
 fact   Crane.2                      =  Hægt að nota til að flytja þungar hlutar styttri vegalengdir lárétt                     
 fact   Crane.3                      =  Notað til að hlaða og afferma vörubíla                                                  
        
 photo  Cycle.rickshaw               =  Hringrás rickshaw                                                                       
-       aFewChars                    =                                                                                          
-       url                          =  Cyclerickshaw.jpg                                                                       
 fact   Cycle.rickshaw.1             =  Hjólhjóla sem ætlað er að flytja farþega                                                
 fact   Cycle.rickshaw.2             =  Ferðaþjónusta í mörgum borgum                                                           
 fact   Cycle.rickshaw.3             =  Orðið rickshaw kemur frá japönsku setningunni fyrir ökutæki sem knúin eru á menn        
        
 photo  Digger                       =  Digger                                                                                  
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Digger.jpg                                                                              
 fact   Digger.1                     =  Grípur holur og skurðir fljótt                                                          
 fact   Digger.2                     =  Arm og fötu fluttur með vökvaþrýstingi                                                  
 fact   Digger.3                     =  Ríður á Caterpillar lög                                                                 
        
 photo  Double.decker.bus            =  Tveggja hæða strætó                                                                     
-       aFewChars                    =                                                                                          
-       url                          =  Double-deckerbus.jpg                                                                    
 fact   Double.decker.bus.1          =  Rútur með tveimur þiljum                                                                
 fact   Double.decker.bus.2          =  Þeir sem eru notaðir í London eru máluðar rauðir                                        
 fact   Double.decker.bus.3          =  Notað í borgum vegna þess að þau eru maneuverable                                       
        
 photo  Dumper.truck                 =  Dumper vörubíll                                                                         
-       aFewChars                    =                                                                                          
-       url                          =  Dumpertruck.jpg                                                                         
 fact   Dumper.truck.1               =  Flytur sand, möl eða óhreinindi á byggingarsvæðum                                       
 fact   Dumper.truck.2               =  Hlaðið er tipped út með því að hækka eina enda sorphaugur                               
 fact   Dumper.truck.3               =  Stýrð með því að snúa öllu leigubílnum auðvelda akstur á gróft jörðu                    
        
 photo  Dustcart                     =  Dustcart                                                                                
-       aFewChars                    =                                                                                          
-       url                          =  Dustcart.jpg                                                                            
 fact   Dustcart.1                   =  Safnar rusl                                                                             
 fact   Dustcart.2                   =  Flutningur rusl að ruslpotti                                                            
 fact   Dustcart.3                   =  Skrýtir ruslinn til að spara ferðir                                                     
        
 photo  Electric.tram                =  Rafmagns sporvagn                                                                       
-       aFewChars                    =                                                                                          
-       url                          =  Electrictram.jpg                                                                        
 fact   Electric.tram.1              =  Keyrir á járnbrautarlínum meðfram götum                                                 
 fact   Electric.tram.2              =  Keyrt af rafmagni sem fæst úr loftþrýstingi                                             
 fact   Electric.tram.3              =  Réttari og skilvirkari en rútur til að flytja fólk                                      
        
 photo  Estate.car                   =  Estate bíll                                                                             
-       aFewChars                    =                                                                                          
-       url                          =  Estatecar.jpg                                                                           
 fact   Estate.car.1                 =  Er farangursrými á bak við farþegasætin                                                 
 fact   Estate.car.2                 =  Farangursrými er aðgengilegt með lóðréttum dyrum að aftan                               
 fact   Estate.car.3                 =  Ryggir farþegasæti geta fellt niður til að búa til meira farangursrými                  
        
 photo  Fire.engine                  =  Slökkviliðsbíll                                                                         
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Fireengine.jpg                                                                          
 fact   Fire.engine.1                =  Vörubíll sem notaður er til að berjast við eldsvoða                                     
 fact   Fire.engine.2                =  Fluttir eldimenn til eldsvoða                                                           
 fact   Fire.engine.3                =  Flytur vatn og búnað til að berjast við eldsvoða                                        
        
 photo  Flatbed.truck                =  Flatbed vörubíll                                                                        
-       aFewChars                    =                                                                                          
-       url                          =  Flatbedtruck.jpg                                                                        
 fact   Flatbed.truck.1              =  Vörubíll með engum hliðum eða þaki                                                      
 fact   Flatbed.truck.2              =  Notað til að bera diggers og annan þung búnað                                           
 fact   Flatbed.truck.3              =  Auðveldara að hlaða og afferma en lokað vörubíll                                        
        
 photo  Forklift.truck               =  Lyftarinn                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Forklifttruck.jpg                                                                       
 fact   Forklift.truck.1             =  Aðallega til að flytja efni í kringum vöruhús                                           
 fact   Forklift.truck.2             =  Hleður og afferðar farmi á vöruhúsum                                                    
 fact   Forklift.truck.3             =  Lyftuefni staflað á bretti                                                              
        
 photo  Hatchback                    =  Hatchback                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Hatchback.jpg                                                                           
 fact   Hatchback.1                  =  Farangursaðstaða er aðgengilegt með hallandi hurð að aftan                              
 fact   Hatchback.2                  =  Er farangursrými á bak við farþegasætin                                                 
 fact   Hatchback.3                  =  Ryggir farþegasæti geta fellt niður til að búa til meira farangursrými                  
        
 photo  Helicopter                   =  Þyrla                                                                                   
-       aFewChars                    =                                                                                          
-       url                          =  Helicopter.jpg                                                                          
 fact   Helicopter.1                 =  Taktu af og lendir lóðrétt                                                              
 fact   Helicopter.2                 =  Hovers                                                                                  
 fact   Helicopter.3                 =  Flýgur aftur á bak                                                                      
@@ -151,59 +103,39 @@ fact   Helicopter.4                 =  Flogið af flugmanni
 fact   Helicopter.5                 =  Flýgur fólk og farm frá einum stað til annars                                           
        
 photo  Horse.and.cart               =  Hest og körfu                                                                           
-       aFewChars                    =                                                                                          
-       url                          =  Horseandcart.jpg                                                                        
 fact   Horse.and.cart.1             =  Hefur tvö hjól og er dreginn af hesti                                                   
 fact   Horse.and.cart.2             =  Í stöðugri notkun frá upphafi hjólsins fyrir 7 þúsund árum                              
        
 photo  Ice.cream.van                =  Ís van                                                                                  
-       aFewChars                    =                                                                                          
-       url                          =  Ice-creamvan.jpg                                                                        
 fact   Ice.cream.van.1              =  Selur ís                                                                                
 fact   Ice.cream.van.2              =  Sést aðallega á sumrin                                                                  
 fact   Ice.cream.van.3              =  Björt skreytt með myndum af ís                                                          
        
 photo  Jeep                         =  Jeppa                                                                                   
-       aFewChars                    =                                                                                          
-       url                          =  Jeep.jpg                                                                                
 fact   Jeep.1                       =  Dótturfyrirtæki ítalska bílaframleiðandans Fiat                                         
 fact   Jeep.2                       =  Elsta utanvega ökutæki og íþróttir gagnsemi ökutæki vörumerki                           
 fact   Jeep.3                       =  Aðalljós 4-hjólhjóladrif í bandaríska hernum á síðari heimstyrjöldinni                  
        
 photo  Land.Rover                   =  Land Rover                                                                              
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  LandRover.jpg                                                                           
 fact   Land.Rover.1                 =  Í öðru lagi elsta 4-hjólhjólamerkið                                                     
 fact   Land.Rover.2                 =  Dótturfélag Tata Motors, Indlandi                                                       
        
 photo  Large.van                    =  Stór van                                                                                
-       aFewChars                    =                                                                                          
-       url                          =  Largevan.jpg                                                                            
 fact   Large.van.1                  =  Auglýsingartæki sem ætlað er að afhenda léttar vörur                                    
        
 photo  Lorry                        =  Vörubíll                                                                                
-       aFewChars                    =                                                                                          
-       url                          =  Lorry.jpg                                                                               
 fact   Lorry.1                      =  Býr farm á vegum                                                                        
 fact   Lorry.2                      =  Hjólhýsi festur yfir vélina                                                             
        
 photo  Minibus                      =  Minibus                                                                                 
-       aFewChars                    =                                                                                          
-       url                          =  Minibus.jpg                                                                             
 fact   Minibus.1                    =  Lítil strætó                                                                            
        
 photo  Motorbike                    =  Mótorhjól                                                                               
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Motorbike.jpg                                                                           
 fact   Motorbike.1                  =  Tveir hjóla vélknúin ökutæki                                                            
 fact   Motorbike.2                  =  Einn af hagkvæmustu formum vélknúinna flutninga                                         
 fact   Motorbike.3                  =  Algengasta form flutninga í Víetnam                                                     
        
 photo  Motorhome                    =  Hjólhýsi                                                                                
-       aFewChars                    =                                                                                          
-       url                          =  Motorhome.jpg                                                                           
 fact   Motorhome.1                  =  Mjög þægilegt, en dýrara og minna maneuverable en campervan                             
 fact   Motorhome.2                  =  Um borð í eldhúsi, baðherbergi og svefnherbergi                                         
 fact   Motorhome.3                  =  Vélknúið heimili                                                                        
@@ -211,145 +143,101 @@ fact   Motorhome.4                  =  Mjög þægilegt og verndað en tjald
 fact   Motorhome.5                  =  Tímabundið heimili fyrir fólk í fríi                                                    
        
 photo  Mountain.bike                =  fjallahjól                                                                              
-       aFewChars                    =                                                                                          
-       url                          =  Mountainbike.jpg                                                                        
 fact   Mountain.bike.1              =  Notað til hjólreiða á vegum                                                             
 fact   Mountain.bike.2              =  Oft hefur framan og aftan fjöðrun                                                       
 fact   Mountain.bike.3              =  Notar sterkari hluti en hjólreiðar                                                      
        
 photo  Open.top.bus                 =  Opið rútu                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Open-topbus.jpg                                                                         
 fact   Open.top.bus.1               =  Double-decker strætó án þak                                                             
 fact   Open.top.bus.2               =  Notað til að flytja sjómenn á ferðir í gegnum borgir                                    
 fact   Open.top.bus.3               =  Órótt útsýni frá mikilli sjónarhóli                                                     
        
 photo  Pakistani.lorry              =  Pakistanska vörubíll                                                                    
-       aFewChars                    =                                                                                          
-       url                          =  Pakistanilorry.jpg                                                                      
 fact   Pakistani.lorry.1            =  Glæsilega skreytt vörubíll sem notaður er í Pakistan                                    
 fact   Pakistani.lorry.2            =  Vöruflutningar og fólk meðfram Karakoram þjóðveginum                                    
        
 photo  Pickup.truck                 =  Pallbíll                                                                                
-       aFewChars                    =                                                                                          
-       url                          =  Pickuptruck.jpg                                                                         
 fact   Pickup.truck.1               =  Létt vélknúið ökutæki með opið aftan farmsvæði                                          
 fact   Pickup.truck.2               =  Kostnaður US $ 281 þegar fyrst framleitt árið 1925                                      
 fact   Pickup.truck.3               =  Algengt í Texas                                                                         
        
 photo  Police.car                   =  Lögregla bíll                                                                           
-       aFewChars                    =                                                                                          
-       url                          =  Policecar.jpg                                                                           
 fact   Police.car.1                 =  Ground ökutæki notað af lögreglu til að aðstoða við störf sín                           
 fact   Police.car.2                 =  Síren, blikkandi ljós og mjög sýnileg merki                                             
 fact   Police.car.3                 =  Patrols að hindra glæp                                                                  
        
 photo  Quad.bike                    =  Quad reiðhjól                                                                           
-       aFewChars                    =                                                                                          
-       url                          =  Quadbike.jpg                                                                            
 fact   Quad.bike.1                  =  Mikill fjöldi dauðsfalla og meiðslna vegna óverulegra knapaverndar                      
 fact   Quad.bike.2                  =  Ökutæki með fjórum hjólum og massa minna en 550 kg                                      
 fact   Quad.bike.3                  =  Notað af bændum til að fara yfir gróft landslag fljótt                                  
        
 photo  Racing.bike                  =  Racing reiðhjól                                                                         
-       aFewChars                    =                                                                                          
-       url                          =  Racingbike.jpg                                                                          
 fact   Racing.bike.1                =  Hjól hönnuð fyrir samkeppnishæf hjólreiðum                                              
 fact   Racing.bike.2                =  Slepptu handfangsstikum                                                                 
 fact   Racing.bike.3                =  Létt og stífur rammi                                                                    
        
 photo  Road.bike                    =  Road reiðhjól                                                                           
-       aFewChars                    =                                                                                          
-       url                          =  Roadbike.jpg                                                                            
 fact   Road.bike.1                  =  Það eru tvisvar sinnum eins og margir eru í notkun og það eru bílar                     
 fact   Road.bike.2                  =  Vinsælt form af afþreyingu                                                              
 fact   Road.bike.3                  =  Skilvirkasta mannvirki flutningsmáta                                                    
        
 photo  Road.sweeper                 =  Road sopa                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Roadsweeper.jpg                                                                         
 fact   Road.sweeper.1               =  Hreinsar göturnar í borgum                                                              
 fact   Road.sweeper.2               =  Sopa og tómarúm upp rusl                                                                
 fact   Road.sweeper.3               =  Dregur úr mengun vatns með því að fjarlægja rusl sem annars leysist upp í rigningu      
        
 photo  Road.train                   =  Road lest                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Roadtrain.jpg                                                                           
 fact   Road.train.1                 =  Vörubíll sem dregur eitt eða fleiri eftirvagna                                          
 fact   Road.train.2                 =  Þarftu langa beina vegi                                                                 
        
 photo  Scooter                      =  Scooter                                                                                 
-       aFewChars                    =                                                                                          
-       url                          =  Scooter.jpg                                                                             
 fact   Scooter.1                    =  Mótorhjól með skref í gegnum ramma og vettvang fyrir fætur knapa.                       
 fact   Scooter.2                    =  Mótor og gír eru fest á afturás                                                         
 fact   Scooter.3                    =  Low-máttur persónuleg samgöngur                                                         
        
 photo  Single.decker.bus            =  Einn decker strætó                                                                      
-       aFewChars                    =                                                                                          
-       url                          =  Single-deckerbus.jpg                                                                    
 fact   Single.decker.bus.1          =  Rútur með einum þilfari fyrir farþega                                                   
        
 photo  Small.van                    =  Lítil van                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Smallvan.jpg                                                                            
 fact   Small.van.1                  =  Skammstafað útgáfa af orðinu hjólhýsi - fjallað ökutæki                                 
 fact   Small.van.2                  =  Búið til með farm hindrunum á bak við framsætin                                         
 fact   Small.van.3                  =  Afleidd úr fólksbifreiðum án þess að aftan hliðarglugga                                 
        
 photo  Sports.car                   =  Sportbíll                                                                               
-       aFewChars                    =                                                                                          
-       url                          =  Sportscar.jpg                                                                           
 fact   Sports.car.1                 =  Lítið, tvö sæti, tveir hurðir                                                           
 fact   Sports.car.2                 =  Hannað fyrir hraða og meðhöndlun                                                        
        
 photo  Tanker                       =  Tanker                                                                                  
-       aFewChars                    =                                                                                          
-       url                          =  Tanker.jpg                                                                              
 fact   Tanker.1                     =  Notað til að afhenda eldsneyti til bensínstöðva                                         
 fact   Tanker.2                     =  Ryðfrítt stál tankur til að forðast tæringu                                             
 fact   Tanker.3                     =  Innri hólf gerir kleift að flytja nokkrar mismunandi eldsneyti í einu                   
        
 photo  Taxi                         =  Taxi                                                                                    
-       aFewChars                    =                                                                                          
-       url                          =  Taxi.jpg                                                                                
 fact   Taxi.1                       =  Bíll og bílstjóri ráðinn til að gera stuttar ferðir                                     
 fact   Taxi.2                       =  Kostnaður við hverja ferð er mældur með metra                                           
 fact   Taxi.3                       =  Máluð skærgult í New York.                                                              
        
 photo  Tipper.lorry                 =  Tipper vörubíll                                                                         
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Tipperlorry.jpg                                                                         
 fact   Tipper.lorry.1               =  Býr til þurrt farm sem rennur út þegar hann er áfengi                                   
 fact   Tipper.lorry.2               =  Vöruboxur áfengi með vökva Jack                                                         
 fact   Tipper.lorry.3               =  Tailgate er lóðrétt efst til að láta farminn flæða jafnt út                             
        
 photo  Tractor                      =  Dráttarvél                                                                              
-       aFewChars                    =                                                                                          
-       url                          =  Tractor.jpg                                                                             
 fact   Tractor.1                    =  Farm ökutæki notað til að mechanize landbúnaði                                          
 fact   Tractor.2                    =  Pullar plóg                                                                             
 fact   Tractor.3                    =  Bændur búnað                                                                            
        
 photo  Train                        =  Lest                                                                                    
-       aFewChars                    =                                                                                          
-       screenShot                   =                                                                                       1  
-       url                          =  Train.jpg                                                                               
 fact   Train.1                      =  Tvær eða fleiri hlutir af veltubúnaði saman, að minnsta kosti einn þeirra er farartæki  
 fact   Train.2                      =  Flytur farþega eða frakt með járnbrautarlínum                                           
 fact   Train.3                      =  Picks upp og innborgar farþega á lestarstöðvum                                          
        
 photo  Vintage.bus                  =  Vintage strætó                                                                          
-       aFewChars                    =                                                                                          
-       url                          =  Vintagebus.jpg                                                                          
 fact   Vintage.bus.1                =  Rútur frá fyrri tíma aftur til upprunalegs ástands                                      
 fact   Vintage.bus.2                =  Notað til ferðaþjónustu                                                                 
 fact   Vintage.bus.3                =  Sýnt í rallies og sýningum                                                              
        
 photo  Vintage.car                  =  Vintage bíll                                                                            
-       aFewChars                    =                                                                                          
-       url                          =  Vintagecar.jpg                                                                          
 fact   Vintage.car.1                =  Bíll frá fyrri tíma aftur í upprunalegu ástandi                                         
 fact   Vintage.car.2                =  Notað fyrir brúðkaup                                                                    
 fact   Vintage.car.3                =  Sýnt í rallies og sýningum                                                              
