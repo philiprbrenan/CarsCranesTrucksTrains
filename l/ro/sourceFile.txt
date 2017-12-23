@@ -1,149 +1,101 @@
 app    CarsCranesTrucksTrains.l.ro  =  Cars, Cranes, Trucks, Trains in Romanian                                                                        
-       author                       =  philiprbrenan                                                                                                   
        description                  =  Aflați mai multe despre autoturisme, macarale, camioane și trenuri                                              
-       email                        =  philiprbrenan@gmail.com                                                                                         
-       icon                         =  icon.png                                                                                                        
-       screenShots                  =  Airplane Crane Digger Fire.engine Land.Rover Motorbike Tipper.lorry Train                                       
        language                     =  ro                                                                                                              
        
 photo  Airplane                     =  Avion                                                                                                           
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Airplane.jpg                                                                                                    
 fact   Airplane.1                   =  Fluturat de un pilot                                                                                            
 fact   Airplane.2                   =  Muște oameni și mărfuri de la un loc la altul                                                                   
 fact   Airplane.3                   =  Se decolează și aterizează în aeroporturi                                                                       
        
 photo  Ambulance                    =  Ambulanță                                                                                                       
-       aFewChars                    =                                                                                                                  
-       url                          =  Ambulance.jpg                                                                                                   
 fact   Ambulance.1                  =  Îi ia pe oameni în spital repede                                                                                
 fact   Ambulance.2                  =  Sirena, lumini intermitente și semne foarte vizibile                                                            
 fact   Ambulance.3                  =  Conduce echipamentul medical de urgență și paramedicii la accidente                                             
        
 photo  Amphibious.vehicle           =  Vehicul amfibian                                                                                                
-       aFewChars                    =                                                                                                                  
-       url                          =  Amphibiousvehicle.jpg                                                                                           
 fact   Amphibious.vehicle.1         =  Poate conduce peste pământ și apă                                                                               
        
 photo  Auto.rickshaw                =  Ricșa auto                                                                                                      
-       aFewChars                    =                                                                                                                  
-       url                          =  Autorickshaw.jpg                                                                                                
 fact   Auto.rickshaw.1              =  O ricșă cu motor                                                                                                
 fact   Auto.rickshaw.2              =  Forma esențială a transportului urban în multe țări în curs de dezvoltare                                       
 fact   Auto.rickshaw.3              =  Cuvântul rickshaw vine de la fraza japoneză pentru vehiculul alimentat de la om                                 
        
 photo  Caravan                      =  Caravană                                                                                                        
-       aFewChars                    =                                                                                                                  
-       url                          =  Caravan.jpg                                                                                                     
 fact   Caravan.1                    =  Mai confortabil și protejat decât un cort                                                                       
 fact   Caravan.2                    =  Tractată în spatele unei mașini pentru a oferi un loc de dormit pe timp de noapte                               
 fact   Caravan.3                    =  O casă temporară pentru oamenii aflați în vacanță                                                               
        
 photo  Cement.mixer                 =  Betoniera                                                                                                       
-       aFewChars                    =                                                                                                                  
-       url                          =  Cementmixer.jpg                                                                                                 
 fact   Cement.mixer.1               =  Amestec betoane în timp ce le transportă în șantierele de construcții                                           
 fact   Cement.mixer.2               =  Tamburul se învârte în timpul transportului pentru a menține lichidul din beton                                 
 fact   Cement.mixer.3               =  Viteza limitată în Regatul Unit la 56 de mile pe oră                                                            
        
 photo  Combine.Harvester            =  Combină agricolă                                                                                                
-       aFewChars                    =                                                                                                                  
-       url                          =  CombineHarvester.jpg                                                                                            
 fact   Combine.Harvester.1          =  Recoltează cereale la scară largă                                                                               
 fact   Combine.Harvester.2          =  Combină culegerea, treierarea și rățuirea                                                                       
 fact   Combine.Harvester.3          =  Una dintre cele mai importante invenții de economisire a forței de muncă în agricultură                         
        
 photo  Crane                        =  Macara                                                                                                          
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Crane.jpg                                                                                                       
 fact   Crane.1                      =  Folosit pentru a ridica și a reduce lucrurile grele                                                             
 fact   Crane.2                      =  Poate fi folosit pentru a deplasa lucruri grele pe distanțe scurte pe orizontală                                
 fact   Crane.3                      =  Folosit pentru încărcarea și descărcarea camioanelor                                                            
        
 photo  Cycle.rickshaw               =  Ciclu ricșa                                                                                                     
-       aFewChars                    =                                                                                                                  
-       url                          =  Cyclerickshaw.jpg                                                                                               
 fact   Cycle.rickshaw.1             =  Triciclu conceput pentru a transporta pasageri                                                                  
 fact   Cycle.rickshaw.2             =  Transportul turistic în multe orașe                                                                             
 fact   Cycle.rickshaw.3             =  Cuvântul rickshaw vine de la fraza japoneză pentru vehiculul alimentat de la om                                 
        
 photo  Digger                       =  săpător                                                                                                         
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Digger.jpg                                                                                                      
 fact   Digger.1                     =  Diguri gauri și șanțuri rapid                                                                                   
 fact   Digger.2                     =  Brațul și cupa sunt deplasate de presiunea hidraulică                                                           
 fact   Digger.3                     =  Călărește pe șenile de omidă                                                                                    
        
 photo  Double.decker.bus            =  Autobuz cu etaj                                                                                                 
-       aFewChars                    =                                                                                                                  
-       url                          =  Double-deckerbus.jpg                                                                                            
 fact   Double.decker.bus.1          =  Autobuz cu două punți                                                                                           
 fact   Double.decker.bus.2          =  Cele folosite în Londra sunt vopsite în roșu                                                                    
 fact   Double.decker.bus.3          =  Folosit în orașe pentru că sunt manevrabil                                                                      
        
 photo  Dumper.truck                 =  Camion autobasculant                                                                                            
-       aFewChars                    =                                                                                                                  
-       url                          =  Dumpertruck.jpg                                                                                                 
 fact   Dumper.truck.1               =  Transportă nisip, pietriș sau murdărie pe șantiere                                                              
 fact   Dumper.truck.2               =  Încărcarea este înclinată prin ridicarea unui capăt al cutiei de gunoi                                          
 fact   Dumper.truck.3               =  Direcționată prin rotirea întregii cabine, ușurând conducerea pe terenul dur                                    
        
 photo  Dustcart                     =  Dustcart                                                                                                        
-       aFewChars                    =                                                                                                                  
-       url                          =  Dustcart.jpg                                                                                                    
 fact   Dustcart.1                   =  Colectează gunoi                                                                                                
 fact   Dustcart.2                   =  Transportă gunoi în haldele de gunoi                                                                            
 fact   Dustcart.3                   =  Sculează gunoiul pentru a salva călătoriile                                                                     
        
 photo  Electric.tram                =  Tramvai electric                                                                                                
-       aFewChars                    =                                                                                                                  
-       url                          =  Electrictram.jpg                                                                                                
 fact   Electric.tram.1              =  Se execută pe liniile de cale ferată de-a lungul străzilor publice                                              
 fact   Electric.tram.2              =  Conductă electrică alimentată de la un pantograf deasupra capului                                               
 fact   Electric.tram.3              =  Mai silențioase și mai eficiente decât autobuzele pentru transportul oamenilor                                  
        
 photo  Estate.car                   =  Mașină                                                                                                          
-       aFewChars                    =                                                                                                                  
-       url                          =  Estatecar.jpg                                                                                                   
 fact   Estate.car.1                 =  Are o zonă de bagaje în spatele scaunelor pentru pasageri                                                       
 fact   Estate.car.2                 =  Zona pentru bagaje este accesată de o ușă verticală din spate                                                   
 fact   Estate.car.3                 =  Spatele scaunelor pentru pasageri poate fi îndoit pentru a crea mai mult spațiu pentru bagaje                   
        
 photo  Fire.engine                  =  Motorul de incendiu                                                                                             
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Fireengine.jpg                                                                                                  
 fact   Fire.engine.1                =  Camion folosit pentru combaterea incendiilor                                                                    
 fact   Fire.engine.2                =  Transportă pompierii către incendii                                                                             
 fact   Fire.engine.3                =  Transportă apă și echipamente pentru combaterea incendiilor                                                     
        
 photo  Flatbed.truck                =  Camion plat                                                                                                     
-       aFewChars                    =                                                                                                                  
-       url                          =  Flatbedtruck.jpg                                                                                                
 fact   Flatbed.truck.1              =  Camion fără laturi sau acoperiș                                                                                 
 fact   Flatbed.truck.2              =  Folosit pentru a transporta excavatoare și alte echipamente grele                                               
 fact   Flatbed.truck.3              =  Ușor de încărcat și descărcat decât un camion închis                                                            
        
 photo  Forklift.truck               =  Camion stivuitor                                                                                                
-       aFewChars                    =                                                                                                                  
-       url                          =  Forklifttruck.jpg                                                                                               
 fact   Forklift.truck.1             =  În esență pentru mutarea materialelor în depozite                                                               
 fact   Forklift.truck.2             =  Încărcarea și descărcarea mărfurilor la depozite                                                                
 fact   Forklift.truck.3             =  Ascensoare materiale stivuite pe paleti                                                                         
        
 photo  Hatchback                    =  Hatchback                                                                                                       
-       aFewChars                    =                                                                                                                  
-       url                          =  Hatchback.jpg                                                                                                   
 fact   Hatchback.1                  =  Zona pentru bagaje este accesată de o ușă înclinată spre spate                                                  
 fact   Hatchback.2                  =  Are o zonă de bagaje în spatele scaunelor pentru pasageri                                                       
 fact   Hatchback.3                  =  Spatele scaunelor pentru pasageri poate fi îndoit pentru a crea mai mult spațiu pentru bagaje                   
        
 photo  Helicopter                   =  Elicopter                                                                                                       
-       aFewChars                    =                                                                                                                  
-       url                          =  Helicopter.jpg                                                                                                  
 fact   Helicopter.1                 =  Se îndepărtează și coboară vertical                                                                             
 fact   Helicopter.2                 =  Hovers                                                                                                          
 fact   Helicopter.3                 =  Zboară înapoi                                                                                                   
@@ -151,59 +103,39 @@ fact   Helicopter.4                 =  Fluturat de un pilot
 fact   Helicopter.5                 =  Muște oameni și mărfuri de la un loc la altul                                                                   
        
 photo  Horse.and.cart               =  Cal si caruta                                                                                                   
-       aFewChars                    =                                                                                                                  
-       url                          =  Horseandcart.jpg                                                                                                
 fact   Horse.and.cart.1             =  Are două roți și este tras de un cal                                                                            
 fact   Horse.and.cart.2             =  În utilizare continuă de la inventarea roții cu 7 mii de ani în urmă                                            
        
 photo  Ice.cream.van                =  Vagabond de gheață                                                                                              
-       aFewChars                    =                                                                                                                  
-       url                          =  Ice-creamvan.jpg                                                                                                
 fact   Ice.cream.van.1              =  Vinde inghetata                                                                                                 
 fact   Ice.cream.van.2              =  Văzute în principal în timpul verii                                                                             
 fact   Ice.cream.van.3              =  Luminos decorat cu imagini de înghețată                                                                         
        
 photo  Jeep                         =  Jeep                                                                                                            
-       aFewChars                    =                                                                                                                  
-       url                          =  Jeep.jpg                                                                                                        
 fact   Jeep.1                       =  Filiala a constructorului auto italian Fiat                                                                     
 fact   Jeep.2                       =  Cel mai vechi vehicul off-road și marca de vehicule utilitare sport                                             
 fact   Jeep.3                       =  Masina principală cu greutate redusă cu 4 roți a armatei americane în timpul celui de-al doilea război mondial  
        
 photo  Land.Rover                   =  Land Rover                                                                                                      
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  LandRover.jpg                                                                                                   
 fact   Land.Rover.1                 =  Cea de-a doua cea mai veche marca cu 4 roti                                                                     
 fact   Land.Rover.2                 =  Filiala a Tata Motors, India                                                                                    
        
 photo  Large.van                    =  Camion mare                                                                                                     
-       aFewChars                    =                                                                                                                  
-       url                          =  Largevan.jpg                                                                                                    
 fact   Large.van.1                  =  Vehicul utilitar conceput pentru a livra bunuri ușoare                                                          
        
 photo  Lorry                        =  Camion                                                                                                          
-       aFewChars                    =                                                                                                                  
-       url                          =  Lorry.jpg                                                                                                       
 fact   Lorry.1                      =  Transportul rutier de mărfuri                                                                                   
 fact   Lorry.2                      =  Cabină montat pe motor                                                                                          
        
 photo  Minibus                      =  minibus                                                                                                         
-       aFewChars                    =                                                                                                                  
-       url                          =  Minibus.jpg                                                                                                     
 fact   Minibus.1                    =  Autobuz mic                                                                                                     
        
 photo  Motorbike                    =  Motocicletă                                                                                                     
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Motorbike.jpg                                                                                                   
 fact   Motorbike.1                  =  Două autovehicule cu roți                                                                                       
 fact   Motorbike.2                  =  Una dintre cele mai accesibile forme de transport motorizat                                                     
 fact   Motorbike.3                  =  Cea mai obișnuită formă de transport în Vietnam                                                                 
        
 photo  Motorhome                    =  Autorulote                                                                                                      
-       aFewChars                    =                                                                                                                  
-       url                          =  Motorhome.jpg                                                                                                   
 fact   Motorhome.1                  =  Mai confortabil, dar mai scump și mai puțin manevrabil decât un campervan                                       
 fact   Motorhome.2                  =  La bordul bucătăriei, baie și dormitor                                                                          
 fact   Motorhome.3                  =  Acasă motorizat                                                                                                 
@@ -211,145 +143,101 @@ fact   Motorhome.4                  =  Mai confortabil și protejat decât un co
 fact   Motorhome.5                  =  O casă temporară pentru oamenii aflați în vacanță                                                               
        
 photo  Mountain.bike                =  bicicleta de munte                                                                                              
-       aFewChars                    =                                                                                                                  
-       url                          =  Mountainbike.jpg                                                                                                
 fact   Mountain.bike.1              =  Utilizat pentru ciclismul off-road                                                                              
 fact   Mountain.bike.2              =  Deseori are suspensie față și spate                                                                             
 fact   Mountain.bike.3              =  Utilizează componente mai puternice decât bicicletele rutiere                                                   
        
 photo  Open.top.bus                 =  Autobuz deschis                                                                                                 
-       aFewChars                    =                                                                                                                  
-       url                          =  Open-topbus.jpg                                                                                                 
 fact   Open.top.bus.1               =  Autobuz dublu, fără acoperiș                                                                                    
 fact   Open.top.bus.2               =  Folosit pentru a transporta vizionari în turnee prin orașe                                                      
 fact   Open.top.bus.3               =  Vederi neîntrerupte dintr-un punct de vedere ridicat                                                            
        
 photo  Pakistani.lorry              =  Camionul pakistanez                                                                                             
-       aFewChars                    =                                                                                                                  
-       url                          =  Pakistanilorry.jpg                                                                                              
 fact   Pakistani.lorry.1            =  Un camion decorat în mod deosebit în Pakistan                                                                   
 fact   Pakistani.lorry.2            =  Transportă mărfuri și persoane de-a lungul autostrăzii Karakoram                                                
        
 photo  Pickup.truck                 =  Camion                                                                                                          
-       aFewChars                    =                                                                                                                  
-       url                          =  Pickuptruck.jpg                                                                                                 
 fact   Pickup.truck.1               =  Vehicul cu motor ușor cu o zonă de încărcare spate deschisă                                                     
 fact   Pickup.truck.2               =  Costă 281 USD când a fost produs pentru prima dată în 1925                                                      
 fact   Pickup.truck.3               =  Obișnuită în Texas                                                                                              
        
 photo  Police.car                   =  Mașină de poliție                                                                                               
-       aFewChars                    =                                                                                                                  
-       url                          =  Policecar.jpg                                                                                                   
 fact   Police.car.1                 =  Vehiculul terestru folosit de poliție pentru a-și asuma responsabilitățile                                      
 fact   Police.car.2                 =  Sirena, lumini intermitente și semne foarte vizibile                                                            
 fact   Police.car.3                 =  Patrulați pentru a descuraja criminalitatea                                                                     
        
 photo  Quad.bike                    =  Quad biciclete                                                                                                  
-       aFewChars                    =                                                                                                                  
-       url                          =  Quadbike.jpg                                                                                                    
 fact   Quad.bike.1                  =  Numărul mare de decese și răniri cauzate de protecția neglijabilă a călăreților                                 
 fact   Quad.bike.2                  =  Vehicul cu patru roți și o masă mai mică de 550 kg                                                              
 fact   Quad.bike.3                  =  Folosit de agricultori pentru a traversa rapid terenul dur                                                      
        
 photo  Racing.bike                  =  Curse de biciclete                                                                                              
-       aFewChars                    =                                                                                                                  
-       url                          =  Racingbike.jpg                                                                                                  
 fact   Racing.bike.1                =  Bicicleta destinata ciclismului rutier competitiv                                                               
 fact   Racing.bike.2                =  Scoateți barele mânerului                                                                                       
 fact   Racing.bike.3                =  Cadru ușor și rigid                                                                                             
        
 photo  Road.bike                    =  Biciclete rutiere                                                                                               
-       aFewChars                    =                                                                                                                  
-       url                          =  Roadbike.jpg                                                                                                    
 fact   Road.bike.1                  =  Există de două ori mai multe în uz ca și automobilele                                                           
 fact   Road.bike.2                  =  Forma populară de recreere                                                                                      
 fact   Road.bike.3                  =  Cel mai eficient mijloc de transport uman                                                                       
        
 photo  Road.sweeper                 =  Măturătoare                                                                                                     
-       aFewChars                    =                                                                                                                  
-       url                          =  Roadsweeper.jpg                                                                                                 
 fact   Road.sweeper.1               =  Curăță străzile din orașe                                                                                       
 fact   Road.sweeper.2               =  Mătură și aspiră gunoi                                                                                          
 fact   Road.sweeper.3               =  Reduce poluarea apei prin îndepărtarea gunoiului care altfel s-ar dizolva în ploaie                             
        
 photo  Road.train                   =  TIR                                                                                                             
-       aFewChars                    =                                                                                                                  
-       url                          =  Roadtrain.jpg                                                                                                   
 fact   Road.train.1                 =  Camion tractând unul sau mai multe remorci                                                                      
 fact   Road.train.2                 =  Aveți nevoie de drumuri drepte lungi                                                                            
        
 photo  Scooter                      =  Scuter                                                                                                          
-       aFewChars                    =                                                                                                                  
-       url                          =  Scooter.jpg                                                                                                     
 fact   Scooter.1                    =  Motocicletă cu un cadru de trecere și o platformă pentru picioarele călărețului.                                
 fact   Scooter.2                    =  Motorul și angrenajele sunt atașate la puntea spate                                                             
 fact   Scooter.3                    =  Transport personal de mică putere                                                                               
        
 photo  Single.decker.bus            =  Autobuz cu autobuz                                                                                              
-       aFewChars                    =                                                                                                                  
-       url                          =  Single-deckerbus.jpg                                                                                            
 fact   Single.decker.bus.1          =  Autobuz cu o singură punte pentru pasageri                                                                      
        
 photo  Small.van                    =  Vagon mic                                                                                                       
-       aFewChars                    =                                                                                                                  
-       url                          =  Smallvan.jpg                                                                                                    
 fact   Small.van.1                  =  Versiunea scurta a caravanei - un vehicul acoperit                                                              
 fact   Small.van.2                  =  Montat cu bariere de încărcare în spatele scaunelor din față                                                    
 fact   Small.van.3                  =  Derivat de la autoturisme fără ferestre laterale din spate                                                      
        
 photo  Sports.car                   =  Mașină sport                                                                                                    
-       aFewChars                    =                                                                                                                  
-       url                          =  Sportscar.jpg                                                                                                   
 fact   Sports.car.1                 =  Mașină mică, cu două scaune, cu două uși                                                                        
 fact   Sports.car.2                 =  Proiectat pentru viteză și manipulare                                                                           
        
 photo  Tanker                       =  tanc petrolier                                                                                                  
-       aFewChars                    =                                                                                                                  
-       url                          =  Tanker.jpg                                                                                                      
 fact   Tanker.1                     =  Utilizat pentru livrarea de combustibil către stațiile de benzină                                               
 fact   Tanker.2                     =  Rezervor din oțel inoxidabil pentru a evita coroziunea                                                          
 fact   Tanker.3                     =  Compartimentele interne permit ca mai multe combustibili să fie difuzați simultan                               
        
 photo  Taxi                         =  Taxi                                                                                                            
-       aFewChars                    =                                                                                                                  
-       url                          =  Taxi.jpg                                                                                                        
 fact   Taxi.1                       =  Mașină și șofer angajat să facă călătorii scurte                                                                
 fact   Taxi.2                       =  Costul fiecărei călătorii este măsurat cu ajutorul unui contor                                                  
 fact   Taxi.3                       =  Pictat galben strălucitor în New York.                                                                          
        
 photo  Tipper.lorry                 =  Camion autobasculant                                                                                            
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Tipperlorry.jpg                                                                                                 
 fact   Tipper.lorry.1               =  Oferă o încărcătură uscată care curge când este înclinată                                                       
 fact   Tipper.lorry.2               =  Cutie de marfă basculată de un cilindru hidraulic                                                               
 fact   Tipper.lorry.3               =  Portbagajul este articulat în partea superioară pentru a permite încărcăturii să curgă uniform                  
        
 photo  Tractor                      =  Tractor                                                                                                         
-       aFewChars                    =                                                                                                                  
-       url                          =  Tractor.jpg                                                                                                     
 fact   Tractor.1                    =  Vehicul agricol folosit pentru mecanizarea agriculturii                                                         
 fact   Tractor.2                    =  Trage un plug                                                                                                   
 fact   Tractor.3                    =  Exercită echipamente agricole                                                                                   
        
 photo  Train                        =  Tren                                                                                                            
-       aFewChars                    =                                                                                                                  
-       screenShot                   =                                                                                                               1  
-       url                          =  Train.jpg                                                                                                       
 fact   Train.1                      =  Două sau mai multe articole de material rulant cuplate împreună, dintre care cel puțin una este o locomotivă    
 fact   Train.2                      =  Transportă pasageri sau mărfuri de-a lungul liniilor de cale ferată                                             
 fact   Train.3                      =  Ridichează și depune pasageri la gări                                                                           
        
 photo  Vintage.bus                  =  Vintage autobuz                                                                                                 
-       aFewChars                    =                                                                                                                  
-       url                          =  Vintagebus.jpg                                                                                                  
 fact   Vintage.bus.1                =  Autobuzul de la o dată mai devreme restaurat la starea inițială                                                 
 fact   Vintage.bus.2                =  Folosit pentru turism                                                                                           
 fact   Vintage.bus.3                =  Afișate la mitinguri și expoziții                                                                               
        
 photo  Vintage.car                  =  Mașină de epocă                                                                                                 
-       aFewChars                    =                                                                                                                  
-       url                          =  Vintagecar.jpg                                                                                                  
 fact   Vintage.car.1                =  Mașina de la o vreme mai devreme restaurată la starea inițială                                                  
 fact   Vintage.car.2                =  Folosit pentru nunti                                                                                            
 fact   Vintage.car.3                =  Afișate la mitinguri și expoziții                                                                               
