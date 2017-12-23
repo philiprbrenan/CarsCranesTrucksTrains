@@ -1,4 +1,4 @@
-app    CarsCranesTrucksTrains.l.pt  =  Cars, Cranes, Trucks, Trains in Portuguese                                                                 
+app    CarsCranesTrucksTrains.l.pt   =  Cars, Cranes, Trucks, Trains in Portuguese                                                                 
        author                       =  philiprbrenan                                                                                              
        description                  =  Conheça carros, guindastes, caminhões e trens                                                              
        email                        =  philiprbrenan@gmail.com                                                                                    
