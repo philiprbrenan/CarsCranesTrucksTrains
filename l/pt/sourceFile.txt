@@ -1,4 +1,4 @@
-app    CarsCranesTrucksTrains.l.pt   =  Cars, Cranes, Trucks, Trains in Portuguese                                                                 
+app    CarsCranesTrucksTrains.l.pt  =  Cars, Cranes, Trucks, Trains in Portuguese                                                                 
        author                       =  philiprbrenan                                                                                              
        description                  =  Conheça carros, guindastes, caminhões e trens                                                              
        email                        =  philiprbrenan@gmail.com                                                                                    
@@ -38,7 +38,7 @@ photo  Cement.mixer                 =  Misturador de cimento
        url                          =  Cementmixer.jpg                                                                                            
 fact   Cement.mixer.1               =  Misturas de concreto enquanto o transporta para os locais de construção                                    
 fact   Cement.mixer.2               =  O tambor gira durante o transporte para manter o líquido concreto                                          
-fact   Cement.mixer.3              =  Velocidade limitada no Reino Unido a 56 milhas por hora                                                    
+fact   Cement.mixer.3               =  Velocidade limitada no Reino Unido a 56 milhas por hora                                                    
        
 photo  Combine.Harvester            =  Ceifeira-debulhadora                                                                                       
        url                          =  CombineHarvester.jpg                                                                                       
