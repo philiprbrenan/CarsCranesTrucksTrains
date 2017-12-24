@@ -1,21 +1,20 @@
 SUCCESS!
 
-2017-12-23 at 20:17:27 Generate AppaAppsPhotoApp version 20171223-2 philiprbrenan/CarsCranesTrucksTrains/l/es
+2017-12-24 at 14:41:37 Generate AppaAppsPhotoApp version 20171224-1 philiprbrenan/CarsCranesTrucksTrains/l/es
 
-2017-12-23 at 20:17:28 Step: parseSource
-2017-12-23 at 20:17:29 <b>Good source file!</b>
-2017-12-23 at 20:17:29 Step: loadAssets
-2017-12-23 at 20:19:38 148 new, 764 reused audio files
-2017-12-23 at 20:19:38 Step: multiplyPhotosByFacts
-2017-12-23 at 20:19:38 Step: genJavaManifest
-2017-12-23 at 20:19:38 Step: genJsonManifest
-2017-12-23 at 20:19:38 Step: genGameHtml
-2017-12-23 at 20:19:38 Step: genHtmlAssets
-2017-12-23 at 20:19:38 Step: zipAssets
-2017-12-23 at 20:19:39 Step: compileApp
-2017-12-23 at 20:19:49 Step: copyLinksToGitHub
-2017-12-23 at 20:19:50 Step: copyFilesIntoPositionOnWebServer
-2017-12-24 at 14:39:48 Compilation already done
+2017-12-24 at 14:41:38 Step: parseSource
+2017-12-24 at 14:41:38 <b>Good source file!</b>
+2017-12-24 at 14:41:38 Step: loadAssets
+2017-12-24 at 14:41:47 0 new, 912 reused audio files
+2017-12-24 at 14:41:47 Step: multiplyPhotosByFacts
+2017-12-24 at 14:41:47 Step: genJavaManifest
+2017-12-24 at 14:41:47 Step: genJsonManifest
+2017-12-24 at 14:41:47 Step: genGameHtml
+2017-12-24 at 14:41:47 Step: genHtmlAssets
+2017-12-24 at 14:41:47 Step: zipAssets
+2017-12-24 at 14:41:48 Step: compileApp
+2017-12-24 at 14:41:58 Step: copyLinksToGitHub
+2017-12-24 at 14:41:59 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -26,22 +25,24 @@ do {
                        buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
                        debug         => 0,
                        device        => "-s emulator-5554",
+                       fastIcons     => undef,
                        home          => "/root/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
                        keyStorePwd   => "genApp",
                        libs          => [],
-                       log           => [
-                                          "",
-                                          "",
-                                          "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
-                                          "",
-                                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
-                                          "",
-                                        ],
+                       log           => [],
                        package       => "com.appaapps.photoapp.philiprbrenanCarsCranesTrucksTrainsles",
-                       parameters    => "1514060379,philiprbrenan,CarsCranesTrucksTrains,l/es,http://www.appaapps.com,Cars, Cranes, Trucks, Trains in Spanish",
+                       parameters    => {
+                                          appName  => "CarsCranesTrucksTrains",
+                                          appPath  => "l/es",
+                                          cTime    => 1514126508,
+                                          devMode  => 0,
+                                          download => "http://www.appaapps.com",
+                                          title    => "Cars, Cranes, Trucks, Trains in Spanish",
+                                          userid   => "philiprbrenan",
+                                        },
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -69,8 +70,9 @@ do {
                                           "/home/phil/java/unzip/Unzip.java",
                                         ],
                        title         => "Cars, Cranes, Trucks, Trains in Spanish",
+                       titles        => undef,
                        verifyApk     => undef,
-                       version       => 20171223,
+                       version       => 20171224,
                      }, "Android::Build"),
     app           => bless({
                        cmd => "app",
@@ -102,21 +104,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-23 at 20:17:27 Generate AppaAppsPhotoApp version 20171223-2 philiprbrenan/CarsCranesTrucksTrains/l/es\n",
-                       "2017-12-23 at 20:17:28 Step: parseSource",
-                       "2017-12-23 at 20:17:29 <b>Good source file!</b>",
-                       "2017-12-23 at 20:17:29 Step: loadAssets",
-                       "2017-12-23 at 20:19:38 148 new, 764 reused audio files",
-                       "2017-12-23 at 20:19:38 Step: multiplyPhotosByFacts",
-                       "2017-12-23 at 20:19:38 Step: genJavaManifest",
-                       "2017-12-23 at 20:19:38 Step: genJsonManifest",
-                       "2017-12-23 at 20:19:38 Step: genGameHtml",
-                       "2017-12-23 at 20:19:38 Step: genHtmlAssets",
-                       "2017-12-23 at 20:19:38 Step: zipAssets",
-                       "2017-12-23 at 20:19:39 Step: compileApp",
-                       "2017-12-23 at 20:19:49 Step: copyLinksToGitHub",
-                       "2017-12-23 at 20:19:50 Step: copyFilesIntoPositionOnWebServer",
-                       "2017-12-24 at 14:39:48 Compilation already done",
+                       "\n2017-12-24 at 14:41:37 Generate AppaAppsPhotoApp version 20171224-1 philiprbrenan/CarsCranesTrucksTrains/l/es\n",
+                       "2017-12-24 at 14:41:38 Step: parseSource",
+                       "2017-12-24 at 14:41:38 <b>Good source file!</b>",
+                       "2017-12-24 at 14:41:38 Step: loadAssets",
+                       "2017-12-24 at 14:41:47 0 new, 912 reused audio files",
+                       "2017-12-24 at 14:41:47 Step: multiplyPhotosByFacts",
+                       "2017-12-24 at 14:41:47 Step: genJavaManifest",
+                       "2017-12-24 at 14:41:47 Step: genJsonManifest",
+                       "2017-12-24 at 14:41:47 Step: genGameHtml",
+                       "2017-12-24 at 14:41:47 Step: genHtmlAssets",
+                       "2017-12-24 at 14:41:47 Step: zipAssets",
+                       "2017-12-24 at 14:41:48 Step: compileApp",
+                       "2017-12-24 at 14:41:58 Step: copyLinksToGitHub",
+                       "2017-12-24 at 14:41:59 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
