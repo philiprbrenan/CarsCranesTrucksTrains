@@ -4,7 +4,10 @@ app    CarsCranesTrucksTrains.l.is  =  Cars, Cranes, Trucks, Trains in Icelandic
        email                        =  philiprbrenan@gmail.com                                                                 
        emphasis                     =                                                                                      15  
        icon                         =  icon.png                                                                                
-       language                     =  is                                                                                      
+       language                     =  is   
+screenshots  = Airplane Crane Digger Fire.engine Land.Rover Motorbike Tipper.lorry Train
+
+       
        
 photo  Airplane                     =  Flugvél                                                                                 
        url                          =  Airplane.jpg                                                                            
