@@ -1,21 +1,20 @@
 SUCCESS!
 
-2017-12-25 at 00:02:17 Generate AppaAppsPhotoApp version 20171224-1 philiprbrenan/CarsCranesTrucksTrains/l/is
+2017-12-25 at 18:33:39 Generate AppaAppsPhotoApp version 20171225-2 philiprbrenan/CarsCranesTrucksTrains/l/is
 
-2017-12-25 at 00:02:19 Step: parseSource
-2017-12-25 at 00:02:19 <b>Good source file!</b>
-2017-12-25 at 00:02:19 Step: loadAssets
-2017-12-25 at 00:02:27 0 new, 480 reused audio files
-2017-12-25 at 00:02:27 Step: multiplyPhotosByFacts
-2017-12-25 at 00:02:27 Step: genJavaManifest
-2017-12-25 at 00:02:27 Step: genJsonManifest
-2017-12-25 at 00:02:27 Step: genGameHtml
-2017-12-25 at 00:02:27 Step: genHtmlAssets
-2017-12-25 at 00:02:27 Step: zipAssets
-2017-12-25 at 00:02:28 Step: compileApp
-2017-12-25 at 00:02:39 Step: copyLinksToGitHub
-2017-12-25 at 00:02:40 Step: copyFilesIntoPositionOnWebServer
-2017-12-25 at 18:27:11 Compilation already done
+2017-12-25 at 18:33:41 Step: parseSource
+2017-12-25 at 18:33:41 <b>Good source file!</b>
+2017-12-25 at 18:33:41 Step: loadAssets
+2017-12-25 at 18:33:50 0 new, 480 reused audio files
+2017-12-25 at 18:33:50 Step: multiplyPhotosByFacts
+2017-12-25 at 18:33:50 Step: genJavaManifest
+2017-12-25 at 18:33:50 Step: genJsonManifest
+2017-12-25 at 18:33:50 Step: genGameHtml
+2017-12-25 at 18:33:50 Step: genHtmlAssets
+2017-12-25 at 18:33:50 Step: zipAssets
+2017-12-25 at 18:33:50 Step: compileApp
+2017-12-25 at 18:34:00 Step: copyLinksToGitHub
+2017-12-25 at 18:34:02 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -27,7 +26,7 @@ do {
                        debug         => 0,
                        device        => "-s emulator-5554",
                        fastIcons     => undef,
-                       home          => "/",
+                       home          => "/root/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -38,9 +37,9 @@ do {
                        parameters    => {
                                           appName  => "CarsCranesTrucksTrains",
                                           appPath  => "l/is",
-                                          cTime    => 1514160148,
+                                          cTime    => 1514226830,
                                           devMode  => 0,
-                                          download => "http://www.appaapps.com",
+                                          download => "http://janet.appaapps.com",
                                           title    => "Cars, Cranes, Trucks, Trains in Icelandic",
                                           userid   => "philiprbrenan",
                                         },
@@ -105,21 +104,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-25 at 00:02:17 Generate AppaAppsPhotoApp version 20171224-1 philiprbrenan/CarsCranesTrucksTrains/l/is\n",
-                       "2017-12-25 at 00:02:19 Step: parseSource",
-                       "2017-12-25 at 00:02:19 <b>Good source file!</b>",
-                       "2017-12-25 at 00:02:19 Step: loadAssets",
-                       "2017-12-25 at 00:02:27 0 new, 480 reused audio files",
-                       "2017-12-25 at 00:02:27 Step: multiplyPhotosByFacts",
-                       "2017-12-25 at 00:02:27 Step: genJavaManifest",
-                       "2017-12-25 at 00:02:27 Step: genJsonManifest",
-                       "2017-12-25 at 00:02:27 Step: genGameHtml",
-                       "2017-12-25 at 00:02:27 Step: genHtmlAssets",
-                       "2017-12-25 at 00:02:27 Step: zipAssets",
-                       "2017-12-25 at 00:02:28 Step: compileApp",
-                       "2017-12-25 at 00:02:39 Step: copyLinksToGitHub",
-                       "2017-12-25 at 00:02:40 Step: copyFilesIntoPositionOnWebServer",
-                       "2017-12-25 at 18:27:11 Compilation already done",
+                       "\n2017-12-25 at 18:33:39 Generate AppaAppsPhotoApp version 20171225-2 philiprbrenan/CarsCranesTrucksTrains/l/is\n",
+                       "2017-12-25 at 18:33:41 Step: parseSource",
+                       "2017-12-25 at 18:33:41 <b>Good source file!</b>",
+                       "2017-12-25 at 18:33:41 Step: loadAssets",
+                       "2017-12-25 at 18:33:50 0 new, 480 reused audio files",
+                       "2017-12-25 at 18:33:50 Step: multiplyPhotosByFacts",
+                       "2017-12-25 at 18:33:50 Step: genJavaManifest",
+                       "2017-12-25 at 18:33:50 Step: genJsonManifest",
+                       "2017-12-25 at 18:33:50 Step: genGameHtml",
+                       "2017-12-25 at 18:33:50 Step: genHtmlAssets",
+                       "2017-12-25 at 18:33:50 Step: zipAssets",
+                       "2017-12-25 at 18:33:50 Step: compileApp",
+                       "2017-12-25 at 18:34:00 Step: copyLinksToGitHub",
+                       "2017-12-25 at 18:34:02 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
