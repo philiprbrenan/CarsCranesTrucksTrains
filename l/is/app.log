@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-12-25 at 19:28:49 Generate AppaAppsPhotoApp version 20171225-192849 philiprbrenan/CarsCranesTrucksTrains/l/is
+2017-12-25 at 19:42:20 Generate AppaAppsPhotoApp version 20171225-194220 philiprbrenan/CarsCranesTrucksTrains/l/is
 
-2017-12-25 at 19:28:53 Step: parseSource
-2017-12-25 at 19:28:53 <b>Good source file!</b>
-2017-12-25 at 19:28:53 Step: loadAssets
-2017-12-25 at 19:29:14 0 new, 480 reused audio files
-2017-12-25 at 19:29:14 Step: multiplyPhotosByFacts
-2017-12-25 at 19:29:14 Step: genJavaManifest
-2017-12-25 at 19:29:14 Step: genJsonManifest
-2017-12-25 at 19:29:14 Step: genGameHtml
-2017-12-25 at 19:29:14 Step: genHtmlAssets
-2017-12-25 at 19:29:14 Step: zipAssets
-2017-12-25 at 19:29:14 Step: compileApp
-2017-12-25 at 19:29:18 Step: copyLinksToGitHub
-2017-12-25 at 19:29:22 Step: copyFilesIntoPositionOnWebServer
+2017-12-25 at 19:42:22 Step: parseSource
+2017-12-25 at 19:42:22 <b>Good source file!</b>
+2017-12-25 at 19:42:22 Step: loadAssets
+2017-12-25 at 19:42:31 0 new, 480 reused audio files
+2017-12-25 at 19:42:31 Step: multiplyPhotosByFacts
+2017-12-25 at 19:42:31 Step: genJavaManifest
+2017-12-25 at 19:42:31 Step: genJsonManifest
+2017-12-25 at 19:42:31 Step: genGameHtml
+2017-12-25 at 19:42:31 Step: genHtmlAssets
+2017-12-25 at 19:42:31 Step: zipAssets
+2017-12-25 at 19:42:31 Step: compileApp
+2017-12-25 at 19:42:41 Step: copyLinksToGitHub
+2017-12-25 at 19:42:43 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -22,11 +22,11 @@ do {
                        action        => "run",
                        activity      => "Activity",
                        buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
-                       buildTools    => "/home/phil/Android/sdk/build-tools/25.0.2/",
+                       buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
                        debug         => 0,
                        device        => "-s emulator-5554",
                        fastIcons     => undef,
-                       home          => "/home/phil/AppaAppsPhotoApp/",
+                       home          => "/root/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -37,8 +37,8 @@ do {
                        parameters    => {
                                           appName  => "CarsCranesTrucksTrains",
                                           appPath  => "l/is",
-                                          cTime    => 1514230154,
-                                          devMode  => 1,
+                                          cTime    => 1514230951,
+                                          devMode  => 0,
                                           download => "http://www.appaapps.com",
                                           title    => "Cars, Cranes, Trucks, Trains in Icelandic",
                                           userid   => "philiprbrenan",
@@ -59,8 +59,8 @@ do {
                                           "/home/phil/java/log/Log.java",
                                           "/home/phil/java/maths/Maths.java",
                                           "/home/phil/java/randomChoice/RandomChoice.java",
-                                          "/home/phil/java/say/Say.java",
                                           "/home/phil/java/save/Save.java",
+                                          "/home/phil/java/say/Say.java",
                                           "/home/phil/java/sound/Midi.java",
                                           "/home/phil/java/sound/Speech.java",
                                           "/home/phil/java/svg/Svg.java",
@@ -105,20 +105,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-25 at 19:28:49 Generate AppaAppsPhotoApp version 20171225-192849 philiprbrenan/CarsCranesTrucksTrains/l/is\n",
-                       "2017-12-25 at 19:28:53 Step: parseSource",
-                       "2017-12-25 at 19:28:53 <b>Good source file!</b>",
-                       "2017-12-25 at 19:28:53 Step: loadAssets",
-                       "2017-12-25 at 19:29:14 0 new, 480 reused audio files",
-                       "2017-12-25 at 19:29:14 Step: multiplyPhotosByFacts",
-                       "2017-12-25 at 19:29:14 Step: genJavaManifest",
-                       "2017-12-25 at 19:29:14 Step: genJsonManifest",
-                       "2017-12-25 at 19:29:14 Step: genGameHtml",
-                       "2017-12-25 at 19:29:14 Step: genHtmlAssets",
-                       "2017-12-25 at 19:29:14 Step: zipAssets",
-                       "2017-12-25 at 19:29:14 Step: compileApp",
-                       "2017-12-25 at 19:29:18 Step: copyLinksToGitHub",
-                       "2017-12-25 at 19:29:22 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-25 at 19:42:20 Generate AppaAppsPhotoApp version 20171225-194220 philiprbrenan/CarsCranesTrucksTrains/l/is\n",
+                       "2017-12-25 at 19:42:22 Step: parseSource",
+                       "2017-12-25 at 19:42:22 <b>Good source file!</b>",
+                       "2017-12-25 at 19:42:22 Step: loadAssets",
+                       "2017-12-25 at 19:42:31 0 new, 480 reused audio files",
+                       "2017-12-25 at 19:42:31 Step: multiplyPhotosByFacts",
+                       "2017-12-25 at 19:42:31 Step: genJavaManifest",
+                       "2017-12-25 at 19:42:31 Step: genJsonManifest",
+                       "2017-12-25 at 19:42:31 Step: genGameHtml",
+                       "2017-12-25 at 19:42:31 Step: genHtmlAssets",
+                       "2017-12-25 at 19:42:31 Step: zipAssets",
+                       "2017-12-25 at 19:42:31 Step: compileApp",
+                       "2017-12-25 at 19:42:41 Step: copyLinksToGitHub",
+                       "2017-12-25 at 19:42:43 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
