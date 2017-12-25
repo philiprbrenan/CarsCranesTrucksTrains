@@ -1,15 +1,15 @@
 Failed.
 
-2017-12-25 at 21:12:09 Generate AppaAppsPhotoApp version 20171225-211209 philiprbrenan/CarsCranesTrucksTrains/l/en/
+2017-12-25 at 21:31:01 Generate AppaAppsPhotoApp version 20171225-213101 philiprbrenan/CarsCranesTrucksTrains/l/en/
 
-2017-12-25 at 21:12:10 Unable to read l/en/sourceFile.txt from GitHub repository philiprbrenan/CarsCranesTrucksTrains/l/en/ Please create this repository and add a file sourceFile.txt 
+2017-12-25 at 21:31:03 Unable to read l/en/sourceFile.txt from GitHub repository philiprbrenan/CarsCranesTrucksTrains/l/en/ Please create this repository and add a file sourceFile.txt 
 --------------------------------------------------------------------------------
 bless({
   error => 1,
   gitHubNoSourceFile => 1,
   log => [
-    "\n2017-12-25 at 21:12:09 Generate AppaAppsPhotoApp version 20171225-211209 philiprbrenan/CarsCranesTrucksTrains/l/en/\n",
-    "2017-12-25 at 21:12:10 Unable to read l/en/sourceFile.txt from GitHub repository philiprbrenan/CarsCranesTrucksTrains/l/en/ Please create this repository and add a file sourceFile.txt ",
+    "\n2017-12-25 at 21:31:01 Generate AppaAppsPhotoApp version 20171225-213101 philiprbrenan/CarsCranesTrucksTrains/l/en/\n",
+    "2017-12-25 at 21:31:03 Unable to read l/en/sourceFile.txt from GitHub repository philiprbrenan/CarsCranesTrucksTrains/l/en/ Please create this repository and add a file sourceFile.txt ",
   ],
   project => "philiprbrenan/CarsCranesTrucksTrains/l/en/",
   step => "readSourceFileFromGitHub",
