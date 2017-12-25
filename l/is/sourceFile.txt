@@ -1,6 +1,5 @@
 app    CarsCranesTrucksTrains.l.is  =  Cars, Cranes, Trucks, Trains in Icelandic                                               
        author                       =  philiprbrenan                                                                           
-       screenshots                  = Airplane Crane Digger Fire.engine Land.Rover Motorbike Tipper.lorry Train
        description                  =  Lærðu um bíla, krana, vörubíla og lestir                                                
        email                        =  philiprbrenan@gmail.com                                                                 
        emphasis                     =                                                                                      15  
