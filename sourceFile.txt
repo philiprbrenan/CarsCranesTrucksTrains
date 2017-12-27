@@ -4,7 +4,7 @@ app CarsCranesTrucksTrains = Cars, Cranes, Trucks, Trains
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
 # screenshots  = Airplane Crane Digger Fire.engine Land.Rover Motorbike Tipper.lorry Train
-  speakers     = Amy
+  speakers     =  Amy
   emphasis     = 15
 
        
